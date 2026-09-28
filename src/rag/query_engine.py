@@ -28,17 +28,6 @@ from src.rag.rerank import rerank_chunks
 class QueryResult:
     interpretation: QueryInterpretation
     answer: RagAnswer
-    # Debug info -- not used by the pipeline itself, only so a caller (the
-    # Streamlit diagnostics panel) can see why an answer or refusal happened
-    # without re-deriving it: candidate count after retrieval, and every
-    # reranked chunk's headline/score before the MIN_RELEVANCE_SCORE cutoff
-    # is applied (so a "just below threshold" near-miss is visible).
-    semantic_candidate_count: int = 0
-    reranked_debug: list[dict] = None  # type: ignore[assignment]
-
-    def __post_init__(self):
-        if self.reranked_debug is None:
-            self.reranked_debug = []
 
 
 class QueryEngine:
@@ -97,17 +86,4 @@ class QueryEngine:
             has_category_filter=category is not None,
             has_date_filter=date_from is not None or date_to is not None,
         )
-        reranked_debug = [
-            {
-                "headline": c.get("metadata", {}).get("headline", ""),
-                "score": round(c.get("rerank_score", 0.0), 4),
-                "passed_threshold": c.get("rerank_score", 0.0) >= config.MIN_RELEVANCE_SCORE,
-            }
-            for c in reranked
-        ]
-        return QueryResult(
-            interpretation=interp,
-            answer=answer,
-            semantic_candidate_count=len(semantic_results),
-            reranked_debug=reranked_debug,
-        )
+        return QueryResult(interpretation=interp, answer=answer)

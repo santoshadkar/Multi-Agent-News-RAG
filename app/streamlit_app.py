@@ -115,6 +115,20 @@ def main():
             for c in result.answer.citations:
                 date_str = f" ({c.published_at})" if c.published_at else ""
                 st.markdown(f"- [{c.headline}]({c.url}){date_str} — {c.source}")
+        with st.expander("🔧 Why this answer (retrieval debug)"):
+            st.caption(
+                f"Inferred category: {result.interpretation.category or 'none'} · "
+                f"date range: {result.interpretation.date_from or 'none'} to "
+                f"{result.interpretation.date_to or 'none'}"
+            )
+            st.caption(f"Semantic candidates found: {result.semantic_candidate_count}")
+            if result.reranked_debug:
+                st.caption("Reranked chunks (score vs. MIN_RELEVANCE_SCORE threshold):")
+                for d in result.reranked_debug:
+                    mark = "✅" if d["passed_threshold"] else "❌"
+                    st.caption(f"{mark} {d['score']:.4f} — {d['headline']}")
+            else:
+                st.caption("No chunks reached the reranker.")
 
     st.session_state.history.append({"role": "assistant", "content": result.answer.answer})
 

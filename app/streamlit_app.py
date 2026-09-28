@@ -13,6 +13,7 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from src import config
 from src.kb.embeddings import get_cohere_client
 from src.kb.vector_store import VectorStore, get_chroma_client
 from src.rag.briefing import load_briefing
@@ -42,6 +43,17 @@ def render_sidebar():
         picked = st.sidebar.date_input("Date range", value=(default_from, date.today()))
         if isinstance(picked, tuple) and len(picked) == 2:
             date_from, date_to = picked
+
+    st.sidebar.divider()
+    with st.sidebar.expander("🔧 Diagnostics", expanded=False):
+        st.caption(f"DATA_DIR: `{config.DATA_DIR}`")
+        st.caption(f"CHROMA_DIR: `{config.CHROMA_DIR}`")
+        st.caption(f"CHROMA_DIR exists: {Path(config.CHROMA_DIR).exists()}")
+        try:
+            n = VectorStore(get_chroma_client()).count()
+            st.caption(f"Chunks in collection: {n}")
+        except Exception as e:  # noqa: BLE001 -- diagnostics must never crash the app
+            st.caption(f"Count check failed: {e}")
 
     st.sidebar.divider()
     briefing = load_briefing()

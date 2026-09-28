@@ -11,6 +11,8 @@ file. See README "Deploying to Streamlit Community Cloud".
 from __future__ import annotations
 
 import os
+import shutil
+import tempfile
 from pathlib import Path
 
 
@@ -30,14 +32,46 @@ def _secret(name: str, default: str = "") -> str:
         return default
 
 
+def _ensure_writable_data_dir(path: Path) -> Path:
+    """Chroma's SQLite backend needs to write WAL/lock files next to
+    chroma.sqlite3 even to *read* it -- so if `path` isn't writable at
+    runtime, opening a PersistentClient there fails (surfaces as a
+    confusing "Could not connect to tenant default_tenant" error, not an
+    obvious permissions error).
+
+    This matters for the Streamlit Community Cloud deployment: the git
+    checkout that ships cloud_data/ may not be writable from the running
+    app process. I have not confirmed this against Streamlit's current
+    docs -- it's a plausible, testable cause for exactly the symptom seen,
+    not a confirmed platform fact -- so this is a defensive fallback: if
+    `path` isn't writable, copy it once into a writable temp directory and
+    use that copy instead. Safe to always run: on a normal writable
+    checkout (local dev, GitHub Actions) the write-test below succeeds and
+    this is a no-op.
+    """
+    try:
+        path.mkdir(parents=True, exist_ok=True)
+        probe = path / ".write_test"
+        probe.write_text("ok")
+        probe.unlink()
+        return path
+    except OSError:
+        writable = Path(tempfile.gettempdir()) / "news_rag_data_writable"
+        if not writable.exists():
+            if path.exists():
+                shutil.copytree(path, writable)
+            else:
+                writable.mkdir(parents=True, exist_ok=True)
+        return writable
+
+
 ROOT_DIR = Path(__file__).resolve().parent.parent
 # Overridable so a cloud deployment can point this at a git-tracked
 # directory (e.g. a GitHub Action commits fetched data there) instead of
 # the default, gitignored local dev directory. Checked via _secret() too,
 # in case your Streamlit Cloud setup only exposes it through st.secrets
 # rather than as a real env var -- see README.
-DATA_DIR = Path(_secret("DATA_DIR", str(ROOT_DIR / "data")))
-DATA_DIR.mkdir(parents=True, exist_ok=True)
+DATA_DIR = _ensure_writable_data_dir(Path(_secret("DATA_DIR", str(ROOT_DIR / "data"))))
 
 RAW_DB_PATH = str(DATA_DIR / "raw_articles.db")
 CHROMA_DIR = str(DATA_DIR / "chroma")

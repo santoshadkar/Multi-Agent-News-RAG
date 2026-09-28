@@ -1,0 +1,30 @@
+flowchart TD
+    SCHED["Scheduler (APScheduler cron)"]
+
+    SCHED --> ORCH["Orchestrator (src/orchestrator.py)"]
+
+    ORCH --> TECH["Technology Agent"]
+    ORCH --> FIN["Finance Agent"]
+    ORCH --> POL["Politics Agent"]
+
+    TECH --> RAW[("Raw article store\nSQLite, URL-deduped")]
+    FIN --> RAW
+    POL --> RAW
+
+    RAW --> PROC["Processing Agent\ndedupe -> clean -> summarize -> tag -> chunk"]
+
+    PROC --> EMB["Cohere Embeddings\n(embed-english-v3.0)"]
+    EMB --> KB[("Knowledge Base\nChromaDB + metadata\ndate / category / source / url")]
+
+    subgraph RAGQ["RAG Query Engine"]
+        direction TB
+        Q1["1. Interpret question\n(date range + category)"] --> Q2["2. Hybrid retrieve\n(semantic + BM25, metadata-filtered)"]
+        Q2 --> Q3["3. Rerank\n(Cohere rerank, recency-weighted)"]
+        Q3 --> Q4["4. Generate\n(Cohere chat, grounded on retrieved chunks only)"]
+        Q4 --> Q5["5. Cite sources\nor refuse: 'I don't have news on that.'"]
+    end
+
+    KB --> Q2
+    Q5 --> UI["Chat Interface (Streamlit)\ncategory filter, date picker, Today's Briefing"]
+    USER(["User"]) --> UI
+    UI --> USER

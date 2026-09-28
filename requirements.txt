@@ -1,0 +1,12 @@
+cohere>=7.1,<8
+chromadb>=0.6,<1
+feedparser>=6.0,<7
+beautifulsoup4>=4.12,<5
+requests>=2.31,<3
+python-dateutil>=2.8,<3
+PyYAML>=6.0,<7
+rank_bm25>=0.2.2,<0.3
+APScheduler>=3.10,<4
+streamlit>=1.35,<2
+pytest>=8.0,<9
+tenacity>=8.2,<9

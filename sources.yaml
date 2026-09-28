@@ -1,0 +1,113 @@
+# Source configuration for the fetcher agents.
+#
+# ACCURACY NOTE (please verify before relying on this in production):
+# The RSS URLs below are commonly-cited, well-known feeds as of my training
+# data. I have not made a live network call to confirm each one still
+# resolves today -- outlets change feed paths without notice. Run
+# `python -m src.cli check-sources` after setup; it will report any feed
+# that fails to parse so you can swap in a working replacement.
+#
+# relevance_keywords: an article is KEPT only if its title+summary contains
+# at least one keyword (case-insensitive substring match). This is the
+# "each agent has its own relevance rules" requirement from the brief --
+# it's intentionally simple (no ML) so it's auditable. Tune freely.
+
+technology:
+  relevance_keywords:
+    - ai
+    - artificial intelligence
+    - software
+    - startup
+    - chip
+    - semiconductor
+    - app
+    - cloud
+    - cyber
+    - data breach
+    - robot
+    - gadget
+    - smartphone
+    - "big tech"
+  drop_keywords:
+    - horoscope
+    - recipe
+  feeds:
+    - name: TechCrunch
+      url: https://techcrunch.com/feed/
+    - name: The Verge
+      url: https://www.theverge.com/rss/index.xml
+    - name: Ars Technica
+      url: https://feeds.arstechnica.com/arstechnica/index
+
+finance:
+  relevance_keywords:
+    - market
+    - stock
+    - sensex
+    - nifty
+    - rbi
+    - sebi
+    - inflation
+    - rupee
+    - interest rate
+    - earnings
+    - ipo
+    - bond
+    - gdp
+    - bank
+    - mutual fund
+    - economy
+  drop_keywords:
+    - horoscope
+    - celebrity
+    - lifestyle
+  feeds:
+    - name: Economic Times Markets
+      url: https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+    - name: Moneycontrol Business
+      url: https://www.moneycontrol.com/rss/business.xml
+    - name: LiveMint Markets
+      url: https://www.livemint.com/rss/markets
+  # Official regulator sites often gate RSS behind JS-rendered pages or
+  # change endpoints frequently. Rather than guess a URL I can't verify
+  # right now, use the fetch_official_page fetcher, which scrapes a
+  # plain HTML press-release listing page instead of relying on RSS.
+  official_pages:
+    - name: RBI Press Releases
+      url: https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx
+      link_selector: "a"
+      link_must_contain: "PressReleaseDisplay"
+    - name: SEBI Press Releases
+      url: https://www.sebi.gov.in/media/press-releases.html
+      link_selector: "a"
+      link_must_contain: "press-releases"
+
+politics:
+  relevance_keywords:
+    - parliament
+    - election
+    - minister
+    - government
+    - policy
+    - bill
+    - supreme court
+    - court
+    - governor
+    - president
+    - prime minister
+    - lok sabha
+    - rajya sabha
+    - cabinet
+  drop_keywords:
+    - horoscope
+    - lifestyle
+  feeds:
+    - name: The Hindu National
+      url: https://www.thehindu.com/news/national/feeder/default.rss
+    - name: NDTV India News
+      url: https://feeds.feedburner.com/ndtvnews-india-news
+  official_pages:
+    - name: PIB Press Releases
+      url: https://pib.gov.in/AllRelease.aspx
+      link_selector: "a"
+      link_must_contain: "PressRelease"

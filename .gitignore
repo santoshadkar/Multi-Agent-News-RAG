@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+eval/eval_report.md
+.pytest_cache/
+.streamlit/secrets.toml
+
+# cloud_data/ is INTENTIONALLY NOT ignored: it's the git-tracked knowledge
+# base directory the GitHub Actions fetch workflow commits into and the
+# Streamlit Cloud deployment reads from. See .github/workflows/fetch.yml
+# and README "Deploying to Streamlit Community Cloud".

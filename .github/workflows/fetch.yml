@@ -1,0 +1,63 @@
+# Runs the fetch -> process -> embed -> index pipeline on a schedule, then
+# commits the updated knowledge base back into the repo.
+#
+# WHY commit the data back to git, instead of just running the pipeline:
+# Streamlit Community Cloud has no built-in cron/background-job support --
+# an app there is just a web process that serves requests. GitHub Actions
+# DOES have free scheduled runs, but each run is a throwaway container with
+# no shared disk with your Streamlit app. Committing data/ (SQLite +
+# ChromaDB files) back to the repo is what lets the two connect: Streamlit
+# Community Cloud redeploys from the repo on every push, so the app picks
+# up whatever this workflow just committed.
+#
+# Caveat worth knowing: this makes the repo's git history grow over time
+# (binary DB files change on every run) and isn't a "real" database setup.
+# It's a reasonable free-tier bridge for a course/demo project; for
+# anything beyond that, point CHROMA_DIR/RAW_DB_PATH at a hosted Postgres
+# (pgvector) or a managed Chroma/Qdrant instance instead, and drop this
+# commit-back step.
+#
+# Setup required in your GitHub repo (Settings):
+#   1. Settings -> Secrets and variables -> Actions -> New repository secret
+#      Add COHERE_API_KEY (and NEWSAPI_KEY / GNEWS_KEY if you use them).
+#   2. Settings -> Actions -> General -> Workflow permissions ->
+#      "Read and write permissions" (needed for the commit-back step).
+
+name: Fetch news and update knowledge base
+
+on:
+  schedule:
+    - cron: "0 * * * *" # hourly; edit as needed (GitHub may delay/skip under load)
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    env:
+      COHERE_API_KEY: ${{ secrets.COHERE_API_KEY }}
+      NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+      GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
+      DATA_DIR: cloud_data # tracked by git, unlike the default (gitignored) data/
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetch/process/index pipeline
+        run: python -m src.cli run
+
+      - name: Commit updated knowledge base
+        run: |
+          git config user.name "news-rag-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add cloud_data/
+          git diff --cached --quiet || git commit -m "Automated news fetch $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push

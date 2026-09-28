@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-09-28T14:51:56.666938",
+  "sections": {
+    "technology": {
+      "summary": "Today's most important technology news includes Honor's launch of its new Magic 9 flagship phones in China, featuring a design revamp, a capable camera, and a colossal battery. Nvidia has also announced a new AI safety platform to contain rogue agents within milliseconds, in response to a wave of rogue hacking incidents. In other news, the maritime intelligence startup Quartermaster has raised $140 million, enabling real-time awareness for what it calls the \"largest blind spot on Earth\".",
+      "citations": [
+        {
+          "headline": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery",
+          "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+          "source": "The Verge",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+          "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+          "source": "The Verge",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "Ocean surveillance startup Quartermaster raises another $140M",
+          "url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "Maritime intelligence startup Quartermaster raises another $140M",
+          "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-28"
+        }
+      ]
+    },
+    "finance": {
+      "summary": "Today's most important finance news includes the following:\n- Chinese shares touched a one-year low, led by a selloff in technology firms.\n- Small-cap stocks surged 23% in H1 FY27 as resilient earnings and strong liquidity fuel the rally.\n- SS Retail shares surged nearly 7% on 28 September, gaining 83% since its IPO.\n- Som Distilleries & Breweries shares rose nearly 7% after the Madhya Pradesh High Court quashed the state's rejection of its excise licence renewal application.",
+      "citations": [
+        {
+          "headline": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
+          "url": "https://www.livemint.com/market/chinese-stocks-hit-one-year-low-as-chip-optical-firms-slide-11790570792201.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "H1 digest: Small caps overtake precious metals as H1 FY27\u2019s best performer",
+          "url": "https://www.livemint.com/market/stock-market-news/small-cap-stocks-rally-nifty-smallcap-250-fy27-returns-11790565280912.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "SS Retail share price jumps 7% amid stock market fall | Do you own?",
+          "url": "https://www.livemint.com/market/stock-market-news/ss-retail-share-price-jumps-7-amid-stock-market-fall-do-you-own-11790568501778.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "Why is Som Distilleries stock rising today? Ace investor Prashant Jain-backed liquor share jumps 7% on this key update",
+          "url": "https://www.livemint.com/market/stock-market-news/why-is-som-distilleries-stock-rising-today-ace-investor-prashant-jain-backed-liquor-share-jumps-7-on-this-key-update-11790568807354.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-09-28"
+        }
+      ]
+    },
+    "politics": {
+      "summary": "The Supreme Court has cancelled Shiv Sena corporator Ramesh Mhatre's bail in the Thane doctors' assault case, stating that the medical fraternity cannot be attacked in this manner.\n\nThe court has also set a three-month deadline for the Election Commission of India (ECI) to decide on the dispute between rival factions of the Trinamool Congress (TMC) over the party's name and symbol.\n\nIn other news, the High Court has ruled that the Centre can manufacture patented life-saving medicines.\n\nAdditionally, Chirag Paswan has expressed shame over being part of the government due to rising molestation cases in Bihar.",
+      "citations": [
+        {
+          "headline": "Supreme Court cancels Shiv Sena corporator Ramesh Mhatre\u2019s bail in Thane doctors\u2019 assault case",
+          "url": "https://www.thehindu.com/news/national/maharashtra/supreme-court-cancels-shiv-sena-corporator-ramesh-mhatres-bail/article71518988.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "TMC symbol row: Supreme Court gives rival factions four weeks to file pleadings, ECI three months to decide dispute",
+          "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-sets-time-frame-for-ec-to-decide-tmc-name-symbol-dispute/article71518994.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "4 Years After Her Death, Court Says Centre Can Make Cancer Drug She Needed",
+          "url": "https://www.ndtv.com/india-news/4-years-after-her-death-court-says-centre-can-make-cancer-drug-she-needed-12109283#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "Ashamed of being part of government, says Chirag Paswan over rising molestation cases in Bihar",
+          "url": "https://www.thehindu.com/news/national/bihar/ashamed-of-being-part-of-government-says-chirag-paswan-over-rising-molestation-cases-in-bihar/article71518752.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-28"
+        }
+      ]
+    }
+  }
+}

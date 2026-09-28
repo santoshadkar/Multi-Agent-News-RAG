@@ -99,7 +99,25 @@ SEMANTIC_CANDIDATES = 40  # candidates pulled from Chroma before hybrid fusion
 HYBRID_TOP_K = 12  # survivors of hybrid fusion, sent to the reranker
 RERANK_TOP_N = 6  # final chunks handed to the generator
 RECENCY_HALF_LIFE_DAYS = 3.0  # recency weight halves every N days
-MIN_RELEVANCE_SCORE = 0.15  # below this (post-rerank), treat as "no result"
+
+# Cohere's own docs on rerank are explicit that relevance_score is NOT a
+# calibrated absolute value -- a genuinely relevant document and an
+# irrelevant one can both score far below what "0.15" suggests, and the
+# score is meant to be used for ranking, not thresholded on its own. (See
+# https://docs.cohere.com/docs/reranking-best-practices -- Cohere's own
+# recommended method is to run 30-50 representative domain queries and
+# use the average score of borderline-relevant results as the threshold.)
+# The original 0.15 here was a guessed default, never run against a real
+# Cohere account -- when it was, real scores for a genuinely on-topic top
+# match came back around 0.003-0.004, two orders of magnitude below 0.15,
+# so every query was being refused regardless of relevance.
+# 0.001 below is a rough, NOT empirically calibrated, unblocking value --
+# picked because it sat between one observed relevant-chunk score (~0.004)
+# and the observed noise floor (~0.0001) for this project's own data, on a
+# single example. Run `python -m eval.run_eval` (or Cohere's own
+# recommended method above) against your live deployment and adjust this
+# once you have real numbers across more than one question.
+MIN_RELEVANCE_SCORE = 0.001  # below this (post-rerank), treat as "no result"
 
 # Scheduling (used by src/scheduler.py)
 FETCH_CRON = os.environ.get("FETCH_CRON", "0 * * * *")  # hourly by default

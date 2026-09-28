@@ -54,6 +54,9 @@ jobs:
       - name: Run fetch/process/index pipeline
         run: python -m src.cli run
 
+      - name: Regenerate today's briefing
+        run: python -m src.cli briefing
+
       - name: Commit updated knowledge base
         run: |
           git config user.name "news-rag-bot"

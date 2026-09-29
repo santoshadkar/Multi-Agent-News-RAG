@@ -1,25 +1,13 @@
 {
-  "generated_at": "2026-09-29T00:53:18.627197",
+  "generated_at": "2026-09-29T06:41:13.936166",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of Honor's Magic 9 Pro Max flagship phone in China, featuring a revamped design, powerful camera, and large battery. Nvidia has introduced a new AI safety platform to address rogue hacking incidents, while Instinct, a viral AI agent, has raised $1 billion in Series C funding, valuing the company at $10 billion. Quartermaster, a maritime intelligence startup, has secured $140 million in funding for its real-time ocean surveillance technology. Microsoft has remained silent after church groups requested 1% of data center costs. Philips has released a motion-tracking smart toothbrush in Europe and the US, with a global rollout planned for 2027. Peak XV has increased its Surge seed investment ceiling to $5 million and unveiled an 18-startup cohort.",
+      "summary": "Today's technology news includes the launch of Honor's Magic 9 Pro Max flagship phone in China, featuring a revamped design, advanced camera, and large battery. Quartermaster, an ocean surveillance startup, has raised $140 million, while Peak XV has increased its Surge seed investment ceiling to $5 million and unveiled an 18-startup cohort. Anthropic's prospectus reveals significant losses but also rapid growth, and warns that its AI could pose an existential threat to humanity.",
       "citations": [
         {
           "headline": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery",
           "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
           "source": "The Verge",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-          "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-          "source": "The Verge",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-          "source": "TechCrunch",
           "published_at": "2026-09-28"
         },
         {
@@ -29,34 +17,34 @@
           "published_at": "2026-09-28"
         },
         {
-          "headline": "Maritime intelligence startup Quartermaster raises another $140M",
-          "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-          "source": "TechCrunch",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-          "source": "Ars Technica",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Philips\u2019 motion-tracking smart toothbrush uses AI to make you a better brusher",
-          "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-          "source": "The Verge",
-          "published_at": "2026-09-28"
-        },
-        {
           "headline": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
           "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
           "source": "TechCrunch",
           "published_at": "2026-09-29"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a significant downturn in the Indian equity markets, with benchmark indices slipping past vital support thresholds. The Nifty 50 saw a decline of 360.25 points, reflecting increased investor anxiety. Yields on the 10-year benchmark government bond have increased to their highest level since April 2024, following a surge in oil prices and higher global yields. Gold and silver prices fell sharply, leading potential buyers to postpone purchases for upcoming festivals.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India clearing Gautam and Vinod Adani of MPS norm violation accusations, while imposing a penalty on two individuals for misinformation. The Reserve Bank of India is managing liquidity in the banking system as the 10-year benchmark government bond yield hits its highest level since April 2024. The Indian equity markets have experienced a downturn, with the Nifty 50 declining by 360.25 points, and the India VIX rising 12.1% to reflect increased market fear levels. Gold and silver prices have fallen sharply, leading potential buyers to postpone purchases for upcoming festivals.",
       "citations": [
+        {
+          "headline": "Sebi clears Gautam, Vinod Adani of MPS norm violation",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-gautam-vinod-adani-of-mps-norm-violation-imposes-penalties-on-others/articleshow/134553180.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Ten-year bond yield hits 7.19%, highest in two years",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/ten-year-bond-yield-hits-7-19-highest-in-two-years/articleshow/134553130.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-29"
+        },
         {
           "headline": "Stocks in news: Tata Group, ITC, IRFC, NCC, Zydus Lifesciences and JSW Energy",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-itc-irfc-ncc-zydus-lifesciences-and-jsw-energy/articleshow/134548442.cms",
@@ -64,8 +52,8 @@
           "published_at": "2026-09-29"
         },
         {
-          "headline": "Ten-year bond yield hits 7.19%, highest in two years",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/ten-year-bond-yield-hits-7-19-highest-in-two-years/articleshow/134553130.cms",
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134548216.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-29"
         },
@@ -78,43 +66,37 @@
       ]
     },
     "politics": {
-      "summary": "The Supreme Court has given rival factions four weeks to file pleadings and the ECI three months to decide a dispute over the TMC symbol. The court has also cancelled Shiv Sena corporator Ramesh Mhatre's bail in the Thane doctors' assault case.\n\nIn other news, the Centre has been given permission to manufacture patented life-saving medicines. Chirag Paswan has said he is ashamed to be part of the government over rising molestation cases in Bihar.\n\nThe Supreme Court has also extended an exemption to Class 6 students in the CBSE Three-Language Policy.",
+      "summary": "The BJP president has told West Bengal BJP ministers that the party should not interfere in government functioning.\n\nThe Bombay High Court will hear a plea seeking transparency in Maharashtra SIR.\n\nThe ED has raided the premises of an ex-West Bengal minister and others in a PMLA case.\n\nLokesh's investment drive has taken Andhra's FDI inflows to $609 million, according to a TDP spokesperson.\n\nEx-Home Secretary R.K. Singh has accused CEC Gyanesh Kumar of 'illegalities' in SIR.",
       "citations": [
         {
-          "headline": "Supreme Court's Deadline To Poll Body To Settle Trinamool Poll Symbol Issue",
-          "url": "https://www.ndtv.com/india-news/supreme-courts-deadline-to-poll-body-to-settle-trinamool-poll-symbol-issue-12109208#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "TMC symbol row: Supreme Court gives rival factions four weeks to file pleadings, ECI three months to decide dispute",
-          "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-sets-time-frame-for-ec-to-decide-tmc-name-symbol-dispute/article71518994.ece",
+          "headline": "Nabin tells West Bengal BJP ministers that party should not interfere in government functioning",
+          "url": "https://www.thehindu.com/news/national/west-bengal/nabin-tells-west-bengal-bjp-ministers-that-party-should-not-interfere-in-government-functioning/article71521056.ece",
           "source": "The Hindu National",
-          "published_at": "2026-09-28"
+          "published_at": "2026-09-29"
         },
         {
-          "headline": "Supreme Court cancels Shiv Sena corporator Ramesh Mhatre\u2019s bail in Thane doctors\u2019 assault case",
-          "url": "https://www.thehindu.com/news/national/maharashtra/supreme-court-cancels-shiv-sena-corporator-ramesh-mhatres-bail/article71518988.ece",
+          "headline": "Bombay High Court to hear plea seeking transparency in Maharashtra SIR",
+          "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-plea-seeking-transparency-in-maharashtra-sir/article71520795.ece",
           "source": "The Hindu National",
-          "published_at": "2026-09-28"
+          "published_at": "2026-09-29"
         },
         {
-          "headline": "4 Years After Her Death, Court Says Centre Can Make Cancer Drug She Needed",
-          "url": "https://www.ndtv.com/india-news/4-years-after-her-death-court-says-centre-can-make-cancer-drug-she-needed-12109283#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Ashamed of being part of government, says Chirag Paswan over rising molestation cases in Bihar",
-          "url": "https://www.thehindu.com/news/national/bihar/ashamed-of-being-part-of-government-says-chirag-paswan-over-rising-molestation-cases-in-bihar/article71518752.ece",
+          "headline": "ED raids premises of ex-West Bengal minister, others in PMLA case",
+          "url": "https://www.thehindu.com/news/national/west-bengal/ed-raids-premises-of-ex-west-bengal-minister-others-in-pmla-case/article71522466.ece",
           "source": "The Hindu National",
-          "published_at": "2026-09-28"
+          "published_at": "2026-09-29"
         },
         {
-          "headline": "CBSE Three-Language Policy: Supreme Court Extends Exemption To Class 6 Students",
-          "url": "https://www.ndtv.com/education/cbse-three-language-policy-supreme-court-extends-exemption-to-class-6-students-12109050#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-09-28"
+          "headline": "Lokesh\u2019s investment drive has taken Andhra\u2019s FDI inflows to $609 million, says TDP spokesperson",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokeshs-investment-drive-has-taken-andhras-fdi-inflows-to-609-million-says-tdp-spokesperson/article71520548.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Ex-Home Secretary R.K. Singh accuses CEC Gyanesh Kumar of \u2018illegalities\u2019 in SIR",
+          "url": "https://www.thehindu.com/news/national/ex-home-secretary-rk-singh-accuses-cec-gyanesh-kumar-of-illegalities-in-sir-calls-for-opposition-unity/article71522341.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-29"
         }
       ]
     }

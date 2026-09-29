@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T20:26:30.667592",
+  "generated_at": "2026-09-29T00:53:18.627197",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of Honor's Magic 9 Pro Max flagship phone in China, featuring a design revamp, a capable camera, and a large battery. Nvidia has announced a new AI safety platform to contain rogue agents within milliseconds, while Instinct, a viral AI agent, has raised $1 billion in Series C funding, valuing the company at $10 billion. In other news, maritime intelligence startup Quartermaster has raised $140 million, enabling real-time awareness for what it calls the \"largest blind spot on Earth.\" Meanwhile, Microsoft has gone quiet after church groups asked for 1% of data center costs.",
+      "summary": "Today's technology news includes the launch of Honor's Magic 9 Pro Max flagship phone in China, featuring a revamped design, powerful camera, and large battery. Nvidia has introduced a new AI safety platform to address rogue hacking incidents, while Instinct, a viral AI agent, has raised $1 billion in Series C funding, valuing the company at $10 billion. Quartermaster, a maritime intelligence startup, has secured $140 million in funding for its real-time ocean surveillance technology. Microsoft has remained silent after church groups requested 1% of data center costs. Philips has released a motion-tracking smart toothbrush in Europe and the US, with a global rollout planned for 2027. Peak XV has increased its Surge seed investment ceiling to $5 million and unveiled an 18-startup cohort.",
       "citations": [
         {
           "headline": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery",
@@ -23,6 +23,12 @@
           "published_at": "2026-09-28"
         },
         {
+          "headline": "Ocean surveillance startup Quartermaster raises another $140M",
+          "url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-28"
+        },
+        {
           "headline": "Maritime intelligence startup Quartermaster raises another $140M",
           "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
           "source": "TechCrunch",
@@ -33,63 +39,51 @@
           "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
           "source": "Ars Technica",
           "published_at": "2026-09-28"
+        },
+        {
+          "headline": "Philips\u2019 motion-tracking smart toothbrush uses AI to make you a better brusher",
+          "url": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
+          "source": "The Verge",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-29"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the following:\n\n- Chinese shares have touched a one-year low, led by a selloff in technology firms after a report that authorities may allow purchases of Nvidia Corp.\u2019s new chips and proposed US sanctions on foreign optical producers.\n- Small-cap stocks surged 23% in H1 FY27 as resilient earnings and strong liquidity fuel the rally, but stretched valuations and rising global risks leave little room for earnings disappointment.\n- SS Retail shares surged nearly 7% on 28 September, gaining 83% since its IPO.\n- Som Distilleries & Breweries shares rose nearly 7% after the Madhya Pradesh High Court quashed the state's rejection of its excise licence renewal application.\n- Adani Enterprises shares dropped 3% after Adani group entities swapped 86 lakh shares for \u20b92,498 crore.\n- NSE share price today opened lower at \u20b91,786 per share on the BSE and touched an intraday low of \u20b91761 within a few minutes of the Opening Bell.\n- Nalco share price emerged as the biggest laggard, as the stock fell as much as 3.89% to \u20b9344.65 per share. Meanwhile, Vedanta and Hindalco shares fell over 3% during the intraday session.",
+      "summary": "Today's most important finance news includes a significant downturn in the Indian equity markets, with benchmark indices slipping past vital support thresholds. The Nifty 50 saw a decline of 360.25 points, reflecting increased investor anxiety. Yields on the 10-year benchmark government bond have increased to their highest level since April 2024, following a surge in oil prices and higher global yields. Gold and silver prices fell sharply, leading potential buyers to postpone purchases for upcoming festivals.",
       "citations": [
         {
-          "headline": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
-          "url": "https://www.livemint.com/market/chinese-stocks-hit-one-year-low-as-chip-optical-firms-slide-11790570792201.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-28"
+          "headline": "Stocks in news: Tata Group, ITC, IRFC, NCC, Zydus Lifesciences and JSW Energy",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-itc-irfc-ncc-zydus-lifesciences-and-jsw-energy/articleshow/134548442.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-29"
         },
         {
-          "headline": "H1 digest: Small caps overtake precious metals as H1 FY27\u2019s best performer",
-          "url": "https://www.livemint.com/market/stock-market-news/small-cap-stocks-rally-nifty-smallcap-250-fy27-returns-11790565280912.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-28"
+          "headline": "Ten-year bond yield hits 7.19%, highest in two years",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/ten-year-bond-yield-hits-7-19-highest-in-two-years/articleshow/134553130.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-29"
         },
         {
-          "headline": "SS Retail share price jumps 7% amid stock market fall | Do you own?",
-          "url": "https://www.livemint.com/market/stock-market-news/ss-retail-share-price-jumps-7-amid-stock-market-fall-do-you-own-11790568501778.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Why is Som Distilleries stock rising today? Ace investor Prashant Jain-backed liquor share jumps 7% on this key update",
-          "url": "https://www.livemint.com/market/stock-market-news/why-is-som-distilleries-stock-rising-today-ace-investor-prashant-jain-backed-liquor-share-jumps-7-on-this-key-update-11790568807354.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Adani Enterprises shares drop 3% after Adani group entities swap 86 lakh shares for  \u20b92,498 crore | Is it a stock to buy?",
-          "url": "https://www.livemint.com/market/stock-market-news/adani-enterprises-shares-drop-2-after-adani-group-entities-swap-86-lakh-shares-for-2-498-crore-details-here-11790569541218.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "NSE stock slips below IPO price as bears continue to outperform bulls \u2014 What should investors do? Stop-loss, resistance",
-          "url": "https://www.livemint.com/market/stock-market-news/nse-stock-slips-below-ipo-price-as-bears-continue-to-outperform-bulls-what-should-investors-do-stop-loss-resistance-11790571441824.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-28"
-        },
-        {
-          "headline": "Explained: Vedanta, Hindustan Zinc, Hindalco to Nalco - Why metal stocks are falling today",
-          "url": "https://www.livemint.com/market/stock-market-news/explained-vedanta-hindustan-zinc-hindalco-to-nalco-why-metal-stocks-are-falling-today-11790571061144.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-28"
+          "headline": "Gold, silver slide as buyers wait for prices to stabilise",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-29"
         }
       ]
     },
     "politics": {
-      "summary": "The Supreme Court has cancelled Shiv Sena corporator Ramesh Mhatre's bail in the Thane doctors' assault case, stating that the medical fraternity cannot be attacked.\n\nThe Court has also given rival factions four weeks to file pleadings, and the ECI three months to decide the TMC symbol row. This is in response to a petition by Bengal's former Chief Minister Mamata Banerjee, who challenged the Election Commission's decision to freeze the party symbol.\n\nIn other news, the Centre has been given permission to manufacture patented life-saving medicines, and the government has stated that 99% of CBSE schools are ready for the new three-language policy.\n\nChirag Paswan has expressed shame at being part of the government, due to rising molestation cases in Bihar.",
+      "summary": "The Supreme Court has given rival factions four weeks to file pleadings and the ECI three months to decide a dispute over the TMC symbol. The court has also cancelled Shiv Sena corporator Ramesh Mhatre's bail in the Thane doctors' assault case.\n\nIn other news, the Centre has been given permission to manufacture patented life-saving medicines. Chirag Paswan has said he is ashamed to be part of the government over rising molestation cases in Bihar.\n\nThe Supreme Court has also extended an exemption to Class 6 students in the CBSE Three-Language Policy.",
       "citations": [
         {
-          "headline": "Supreme Court cancels Shiv Sena corporator Ramesh Mhatre\u2019s bail in Thane doctors\u2019 assault case",
-          "url": "https://www.thehindu.com/news/national/maharashtra/supreme-court-cancels-shiv-sena-corporator-ramesh-mhatres-bail/article71518988.ece",
-          "source": "The Hindu National",
+          "headline": "Supreme Court's Deadline To Poll Body To Settle Trinamool Poll Symbol Issue",
+          "url": "https://www.ndtv.com/india-news/supreme-courts-deadline-to-poll-body-to-settle-trinamool-poll-symbol-issue-12109208#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-09-28"
         },
         {
@@ -99,9 +93,9 @@
           "published_at": "2026-09-28"
         },
         {
-          "headline": "Supreme Court's Deadline To Poll Body To Settle Trinamool Poll Symbol Issue",
-          "url": "https://www.ndtv.com/india-news/supreme-courts-deadline-to-poll-body-to-settle-trinamool-poll-symbol-issue-12109208#publisher=newsstand",
-          "source": "NDTV India News",
+          "headline": "Supreme Court cancels Shiv Sena corporator Ramesh Mhatre\u2019s bail in Thane doctors\u2019 assault case",
+          "url": "https://www.thehindu.com/news/national/maharashtra/supreme-court-cancels-shiv-sena-corporator-ramesh-mhatres-bail/article71518988.ece",
+          "source": "The Hindu National",
           "published_at": "2026-09-28"
         },
         {
@@ -111,15 +105,15 @@
           "published_at": "2026-09-28"
         },
         {
-          "headline": "CBSE Three-Language Policy: Supreme Court Extends Exemption To Class 6 Students",
-          "url": "https://www.ndtv.com/education/cbse-three-language-policy-supreme-court-extends-exemption-to-class-6-students-12109050#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-09-28"
-        },
-        {
           "headline": "Ashamed of being part of government, says Chirag Paswan over rising molestation cases in Bihar",
           "url": "https://www.thehindu.com/news/national/bihar/ashamed-of-being-part-of-government-says-chirag-paswan-over-rising-molestation-cases-in-bihar/article71518752.ece",
           "source": "The Hindu National",
+          "published_at": "2026-09-28"
+        },
+        {
+          "headline": "CBSE Three-Language Policy: Supreme Court Extends Exemption To Class 6 Students",
+          "url": "https://www.ndtv.com/education/cbse-three-language-policy-supreme-court-extends-exemption-to-class-6-students-12109050#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-09-28"
         }
       ]

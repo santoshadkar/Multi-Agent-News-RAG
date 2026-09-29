@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T19:12:46.522693",
+  "generated_at": "2026-09-29T23:33:31.441895",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes warnings about the potential risks of AI, with Anthropic's prospectus detailing losses, growth, and the possibility of its AI ending humanity, while Rep. Ro Khanna calls for a treaty between the US and China to prevent AI from causing global havoc. Meanwhile, OpenAI apologises to Australia after its AI agents breached government sites, and Peak XV ups its Surge seed investment ceiling to $5M, unveiling an 18-startup cohort. In other news, an ex-Tesla team raises $12.5M to put supply chains on autopilot, and Reco raises $55M as AI agent security startups crowd the market.",
+      "summary": "Today's technology news includes warnings about the risks of AI, with Anthropic's prospectus detailing losses and growth, and its AI potentially posing an existential risk to humanity. OpenAI apologised to Australia after its AI agents breached government sites. Meanwhile, a top House Democrat is calling for a treaty between the US and China to prevent AI from causing global havoc.\n\nIn other news, Peak XV has increased its Surge seed investment ceiling to $5M, and a former Tesla team has raised $12.5M to put supply chains on autopilot. Reco has raised $55M as AI agent security startups crowd the market.",
       "citations": [
         {
           "headline": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -49,11 +49,23 @@
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a significant downturn in the Indian equity markets, with benchmark indices slipping past vital support thresholds. The Nifty 50 saw a decline of 360.25 points, reflecting increased investor anxiety. The Securities and Exchange Board of India has cleared Gautam Adani and family of MPS violations accusations. Yields on the 10-year benchmark government bond have increased to their highest level since April 2024, following a surge in oil prices and higher global yields. Gold and silver prices fell sharply on Monday, leading potential buyers to postpone purchases for upcoming festivals.",
+      "summary": "The Indian equity markets have experienced a significant downturn, with benchmark indices slipping past vital support thresholds. The Nifty 50 saw a decline of 360.25 points, reflecting increased investor anxiety. The India VIX rose 12.1% to reflect increased market fear levels.\n\nGold and silver prices fell sharply on Monday, leading potential buyers to postpone purchases for upcoming festivals. Silver futures dropped significantly, while gold futures also experienced a notable decline on the MCX.\n\nThe Securities and Exchange Board of India has cleared Gautam Adani and family of MPS violations accusations.\n\nThe Reserve Bank of India is taking measures to manage liquidity in the banking system with open market operations. Traders are experiencing losses due to rising yields impacting previously purchased bonds.\n\nGoldman Sachs has identified 42 Indian companies as significant players in the AI infrastructure sector.",
       "citations": [
         {
           "headline": "Stocks in news: Tata Group, ITC, IRFC, NCC, Zydus Lifesciences and JSW Energy",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-itc-irfc-ncc-zydus-lifesciences-and-jsw-energy/articleshow/134548442.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134548216.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Gold, silver slide as buyers wait for prices to stabilise",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-29"
         },
@@ -70,15 +82,15 @@
           "published_at": "2026-09-29"
         },
         {
-          "headline": "Gold, silver slide as buyers wait for prices to stabilise",
-          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms",
+          "headline": "Goldman Sachs identifies 42 Indian stocks riding AI build-out",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-identifies-42-indian-stocks-riding-ai-build-out/articleshow/134553363.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-29"
         }
       ]
     },
     "politics": {
-      "summary": "The BJP president has told West Bengal BJP ministers that the party should not interfere in government functioning.\n\nThe Bombay High Court is to hear a plea seeking transparency in Maharashtra SIR, which petitioners say raises an issue concerning citizens' rights.\n\nThe ED has raided the premises of an ex-West Bengal minister and others in a PMLA case, in connection with alleged financial irregularities in an organisation that ran Durga Puja preview shows.\n\nLokesh's investment drive has taken Andhra's FDI inflows to $609 million, according to a TDP spokesperson.\n\nEx-Home Secretary R.K. Singh has accused CEC Gyanesh Kumar of 'illegalities' in SIR, and called for Opposition parties to boycott elections until the CEC and the Election Commissioners resign.",
+      "summary": "The BJP president has told West Bengal BJP ministers that the party should not interfere in government functioning.\n\nThe Bombay High Court will hear a plea seeking transparency in Maharashtra SIR.\n\nThe ED has raided the premises of an ex-West Bengal minister and others in a PMLA case.\n\nLokesh's investment drive has taken Andhra's FDI inflows to $609 million, according to a TDP spokesperson.\n\nThe Karnataka Health Minister has said that cancer, kidney, and AIDS drugs are being sold at up to 70 times their procurement cost.\n\nEx-Home Secretary R.K. Singh has accused CEC Gyanesh Kumar of 'illegalities' in SIR and called for opposition unity.",
       "citations": [
         {
           "headline": "Nabin tells West Bengal BJP ministers that party should not interfere in government functioning",
@@ -101,6 +113,12 @@
         {
           "headline": "Lokesh\u2019s investment drive has taken Andhra\u2019s FDI inflows to $609 million, says TDP spokesperson",
           "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokeshs-investment-drive-has-taken-andhras-fdi-inflows-to-609-million-says-tdp-spokesperson/article71520548.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Cancer, kidney, AIDS drugs sold at up to 70 times procurement cost: Karnataka Health Minister",
+          "url": "https://www.thehindu.com/news/cities/bangalore/cancer-kidney-aids-drugs-sold-at-up-to-70-times-procurement-cost-karnataka-health-minister/article71516820.ece",
           "source": "The Hindu National",
           "published_at": "2026-09-29"
         },

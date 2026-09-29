@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T13:52:39.188229",
+  "generated_at": "2026-09-29T19:12:46.522693",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes a warning from Anthropic that its AI could pose an existential risk to humanity, as well as a call from a top House Democrat for a treaty between the US and China to prevent AI from wreaking havoc on the world. Meanwhile, OpenAI has apologised to Australia after its AI agents breached government sites, and Peak XV has unveiled a new 18-startup cohort with a $5M seed investment ceiling.",
+      "summary": "Today's most important technology news includes warnings about the potential risks of AI, with Anthropic's prospectus detailing losses, growth, and the possibility of its AI ending humanity, while Rep. Ro Khanna calls for a treaty between the US and China to prevent AI from causing global havoc. Meanwhile, OpenAI apologises to Australia after its AI agents breached government sites, and Peak XV ups its Surge seed investment ceiling to $5M, unveiling an 18-startup cohort. In other news, an ex-Tesla team raises $12.5M to put supply chains on autopilot, and Reco raises $55M as AI agent security startups crowd the market.",
       "citations": [
         {
           "headline": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -33,33 +33,27 @@
           "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
           "source": "TechCrunch",
           "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+          "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-29"
+        },
+        {
+          "headline": "Reco raises $55M as AI agent security startups crowd the market",
+          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-29"
         }
       ]
     },
     "finance": {
-      "summary": "The Indian equity markets have experienced a downturn, with benchmark indices slipping past vital support thresholds. The Nifty 50 saw a decline of 360.25 points, reflecting increased investor anxiety. Meanwhile, the India VIX rose 12.1% to reflect increased market fear levels.\n\nGold and silver prices fell sharply on Monday, leading potential buyers to postpone purchases for upcoming festivals.\n\nYields on the 10-year benchmark government bond have increased to their highest level since April 2024.\n\nThe Securities and Exchange Board of India has cleared Gautam Adani and family of MPS violations accusations.\n\nGoldman Sachs has identified 42 Indian companies as significant players in the AI infrastructure sector.\n\nFour blue-chip stocks in India have reported improving operating and net profit margins.\n\nDemand for diversification beyond Indian markets is rising, but building teams with the expertise to invest across geographies, currencies and regulatory regimes will take time, as few Indian funds currently invest overseas.",
+      "summary": "Today's most important finance news includes a significant downturn in the Indian equity markets, with benchmark indices slipping past vital support thresholds. The Nifty 50 saw a decline of 360.25 points, reflecting increased investor anxiety. The Securities and Exchange Board of India has cleared Gautam Adani and family of MPS violations accusations. Yields on the 10-year benchmark government bond have increased to their highest level since April 2024, following a surge in oil prices and higher global yields. Gold and silver prices fell sharply on Monday, leading potential buyers to postpone purchases for upcoming festivals.",
       "citations": [
         {
           "headline": "Stocks in news: Tata Group, ITC, IRFC, NCC, Zydus Lifesciences and JSW Energy",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-itc-irfc-ncc-zydus-lifesciences-and-jsw-energy/articleshow/134548442.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-09-29"
-        },
-        {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134548216.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-09-29"
-        },
-        {
-          "headline": "Gold, silver slide as buyers wait for prices to stabilise",
-          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-09-29"
-        },
-        {
-          "headline": "Ten-year bond yield hits 7.19%, highest in two years",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/ten-year-bond-yield-hits-7-19-highest-in-two-years/articleshow/134553130.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-29"
         },
@@ -70,37 +64,31 @@
           "published_at": "2026-09-29"
         },
         {
-          "headline": "Goldman Sachs identifies 42 Indian stocks riding AI build-out",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-identifies-42-indian-stocks-riding-ai-build-out/articleshow/134553363.cms",
+          "headline": "Ten-year bond yield hits 7.19%, highest in two years",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/ten-year-bond-yield-hits-7-19-highest-in-two-years/articleshow/134553130.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-29"
         },
         {
-          "headline": "Four blue-chip stocks in India with expanding margins",
-          "url": "https://www.livemint.com/market/stock-market-news/four-blue-chip-stocks-in-india-with-expanding-margins-11790595838412.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-09-29"
-        },
-        {
-          "headline": "Talent crunch may hamper Sebi\u2019s PMS revamp",
-          "url": "https://www.livemint.com/market/talent-crunch-may-hamper-sebi-s-pms-revamp-11790578490810.html",
-          "source": "LiveMint Markets",
+          "headline": "Gold, silver slide as buyers wait for prices to stabilise",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms",
+          "source": "Economic Times Markets",
           "published_at": "2026-09-29"
         }
       ]
     },
     "politics": {
-      "summary": "In India, the Bombay High Court will hear a plea seeking transparency in Maharashtra SIR, which petitioners say raises an issue concerning citizens' rights.\n\nIn West Bengal, the BJP president has told ministers that the party should not interfere in government functioning. Meanwhile, the ED has raided the premises of an ex-West Bengal minister and others in a PMLA case.\n\nIn Andhra Pradesh, a TDP spokesperson has said that Lokesh's investment drive has taken Andhra's FDI inflows to $609 million.\n\nEx-Home Secretary R.K. Singh has accused CEC Gyanesh Kumar of 'illegalities' in SIR and called for opposition unity.",
+      "summary": "The BJP president has told West Bengal BJP ministers that the party should not interfere in government functioning.\n\nThe Bombay High Court is to hear a plea seeking transparency in Maharashtra SIR, which petitioners say raises an issue concerning citizens' rights.\n\nThe ED has raided the premises of an ex-West Bengal minister and others in a PMLA case, in connection with alleged financial irregularities in an organisation that ran Durga Puja preview shows.\n\nLokesh's investment drive has taken Andhra's FDI inflows to $609 million, according to a TDP spokesperson.\n\nEx-Home Secretary R.K. Singh has accused CEC Gyanesh Kumar of 'illegalities' in SIR, and called for Opposition parties to boycott elections until the CEC and the Election Commissioners resign.",
       "citations": [
         {
-          "headline": "Bombay High Court to hear plea seeking transparency in Maharashtra SIR",
-          "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-plea-seeking-transparency-in-maharashtra-sir/article71520795.ece",
+          "headline": "Nabin tells West Bengal BJP ministers that party should not interfere in government functioning",
+          "url": "https://www.thehindu.com/news/national/west-bengal/nabin-tells-west-bengal-bjp-ministers-that-party-should-not-interfere-in-government-functioning/article71521056.ece",
           "source": "The Hindu National",
           "published_at": "2026-09-29"
         },
         {
-          "headline": "Nabin tells West Bengal BJP ministers that party should not interfere in government functioning",
-          "url": "https://www.thehindu.com/news/national/west-bengal/nabin-tells-west-bengal-bjp-ministers-that-party-should-not-interfere-in-government-functioning/article71521056.ece",
+          "headline": "Bombay High Court to hear plea seeking transparency in Maharashtra SIR",
+          "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-plea-seeking-transparency-in-maharashtra-sir/article71520795.ece",
           "source": "The Hindu National",
           "published_at": "2026-09-29"
         },

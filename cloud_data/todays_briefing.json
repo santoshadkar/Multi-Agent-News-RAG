@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T16:48:33.355108",
+  "generated_at": "2026-09-30T21:19:42.313626",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a range of developments in the field of artificial intelligence (AI). OpenAI CEO Sam Altman has stated that the company will not go public until it can make better promises about model safety, while BAG Ventures has raised $11.3 million to invest in AI startups. Airbnb is also launching new AI-powered services, and DoorDash is introducing text message ordering and drone deliveries. In other news, Cloudflare plans to issue quantum-safe TLS certificates, and Charter Space has raised $5 million to provide insurance for space companies. Additionally, Sonos has released the Ace Ultra headphones, and the Wing Hummingbird 7000W-B delivery drone has been unveiled.",
+      "summary": "Today's technology news includes the announcement that OpenAI will not go public until its models are safe, according to CEO Sam Altman. BAG Ventures has raised $11.3 million to invest in AI startups, while Airbnb is launching new services such as AI search, meal delivery, and laundry. In other news, Cloudflare plans to issue quantum-safe TLS certificates, and Charter Space has raised $5 million to bring insurance to space companies.",
       "citations": [
         {
           "headline": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
@@ -23,12 +23,6 @@
           "published_at": "2026-09-30"
         },
         {
-          "headline": "You can text DoorDash&#8217;s AI bot to &#8216;order my usual&#8217; and it will figure the rest out",
-          "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
-          "source": "The Verge",
-          "published_at": "2026-09-30"
-        },
-        {
           "headline": "Cloudflare plans to issue quantum-safe TLS certificates",
           "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
           "source": "Ars Technica",
@@ -39,42 +33,12 @@
           "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
           "source": "TechCrunch",
           "published_at": "2026-09-30"
-        },
-        {
-          "headline": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-          "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
-          "source": "The Verge",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "Potato by air",
-          "url": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
-          "source": "The Verge",
-          "published_at": "2026-09-30"
         }
       ]
     },
     "finance": {
-      "summary": "The Indian stock market is facing challenges in maintaining investor sentiment, with the Sensex and Nifty experiencing significant declines in dollar terms this year. Foreign investors have been less interested in Indian equities due to various global factors, and the rupee's depreciation has further amplified losses for overseas investors converting Indian investments.\n\nMeanwhile, the MSCI Asia Pacific Index climbed 0.6% with stocks in Japan and South Korea gaining, following gains for a key gauge of US semiconductor shares.\n\nIn other news, Shapoorji Pallonji Group plans to generate $125 million through a tap issue of current dollar bonds, targeting an impressive \u20b93,250 crore via unrated rupee-denominated bonds for refinancing purposes.",
+      "summary": "Today's most important finance news includes the MSCI Asia Pacific Index climbing 0.6% with stocks in Japan and South Korea gaining, and the Shapoorji Pallonji Group planning to raise $125 million through a tap issue of current dollar bonds. Meanwhile, KPIT Technologies faces a 24% decline in stock value, and the Nifty 50 saw a drop of 64.05 points, or 0.28%, closing at 22,716.20.",
       "citations": [
-        {
-          "headline": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "D-Street set for a cautious opening as GIFT Nifty signals muted start",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134571298.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "Sensex falls over 20% in dollar terms in 2026 as weak sentiment, rupee drag returns",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-20-in-2026-amid-global-market-shifts-and-rupee-depreciation/articleshow/134576885.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-09-30"
-        },
         {
           "headline": "Global Market Today: Asian shares rise as tech stocks lead, bonds in focus",
           "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/articleshow/134576850.cms",
@@ -86,21 +50,27 @@
           "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-30"
+        },
+        {
+          "headline": "KPIT Tech plunges 24% in 3 months as auto demand weakens",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-30"
         }
       ]
     },
     "politics": {
-      "summary": "The Maharashtra government has unveiled a Fodder Development Policy to tackle a shortage. The policy will include a list of suitable grasses for cultivation, fodder-producing trees, improved fodder crops, and traditional and non-traditional sources of fodder.\n\nThe Supreme Court will hear a plea from West Bengal against bail to a Nandigram Congress candidate on October 5.\n\nChandrababu Naidu has said that the age of AI means that unnecessary regulations must go while government employees keep training.\n\nCongress has sought a discussion on CS and Law Secretary letters in the J&K Assembly, while BJP legislators staged a walkout from the Assembly over the Statehood resolution.\n\nA by-election in Tamil Nadu triggered the first Motion of Confidence in Indian legislature.",
+      "summary": "The Maharashtra Government has unveiled a Fodder Development Policy to tackle shortages. The policy will include a list of suitable grasses, fodder-producing trees, improved fodder crops, and traditional and non-traditional sources of fodder.\n\nGovernance must change for the age of AI, according to Chandrababu Naidu, who says the next 20 years are crucial for India.\n\nCongress has sought a discussion on CS and Law Secretary letters in the J&K Assembly, while BJP legislators staged a walkout from the Assembly over the Statehood resolution.\n\nThe Supreme Court will hear a West Bengal plea against bail to a Nandigram Congress candidate on October 5.\n\nThe Kerala HC has directed transparency in the selection of Sabarimala and Malikappuram Melsanthis.\n\nThe Keralam government has forwarded proposals by various film bodies to departments concerned ahead of finalising a draft industry policy for Malayalam cinema.\n\nA Lok Sabha bypoll in Tamil Nadu triggered the first Motion of Confidence in the Indian legislature.",
       "citations": [
         {
           "headline": "Maharashtra Government unveils Fodder Development Policy to tackle shortage",
           "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-unveils-fodder-development-policy-to-tackle-shortage/article71525137.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "Supreme Court to hear West Bengal plea against bail to Nandigram Congress candidate on October 5",
-          "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-west-bengal-plea-against-bail-to-nandigram-congress-candidate-on-october-5/article71527105.ece",
           "source": "The Hindu National",
           "published_at": "2026-09-30"
         },
@@ -113,6 +83,24 @@
         {
           "headline": "\u2018Can officers act as government?\u2019 Congress seeks discussion on CS, Law Secretary letters in J&K Assembly",
           "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/can-officers-act-as-government-congress-seeks-discussion-on-cs-law-secretary-letters-in-jk-assembly/article71525135.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "Supreme Court to hear West Bengal plea against bail to Nandigram Congress candidate on October 5",
+          "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-west-bengal-plea-against-bail-to-nandigram-congress-candidate-on-october-5/article71527105.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
+          "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-transparency-in-selection-of-sabarimala-malikappuram-melsanthis/article71525050.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "Industry status to Malayalam cinema: Single-window clearance for shooting, lower power tariffs for cinema halls among proposals mooted by film bodies",
+          "url": "https://www.thehindu.com/news/national/kerala/industry-status-to-malayalam-cinema-single-window-clearance-for-shooting-lower-power-tariffs-for-cinema-halls-among-proposals-mooted-by-film-bodies/article71527188.ece",
           "source": "The Hindu National",
           "published_at": "2026-09-30"
         },

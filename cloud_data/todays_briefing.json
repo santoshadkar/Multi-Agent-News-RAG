@@ -1,15 +1,9 @@
 {
-  "generated_at": "2026-09-30T04:44:00.642094",
+  "generated_at": "2026-09-30T11:00:14.136293",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a warning from a top House Democrat that Chinese AI companies could cause havoc on the world. This comes as Anthropic, an AI company, warns of 'catastrophic' AI risks in its IPO filing, while OpenAI says it won't go public until its models are safe. Meanwhile, Peak XV has unveiled an 18-startup cohort, and Reco has raised $55 million as AI agent security startups crowd the market.",
+      "summary": "As Anthropic prepares for its public debut, its IPO filing warns of \"catastrophic\" AI risks, including the potential for its AI to pose an existential threat to humanity. The company is also facing mounting losses, despite rapid growth. Meanwhile, OpenAI CEO Sam Altman says the company won't go public until it can make better promises about model safety. As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to prevent AI from causing global havoc.",
       "citations": [
-        {
-          "headline": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-          "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-          "source": "The Verge",
-          "published_at": "2026-09-29"
-        },
         {
           "headline": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
           "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -29,21 +23,15 @@
           "published_at": "2026-09-30"
         },
         {
-          "headline": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-          "source": "TechCrunch",
-          "published_at": "2026-09-29"
-        },
-        {
-          "headline": "Reco raises $55M as AI agent security startups crowd the market",
-          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-          "source": "TechCrunch",
+          "headline": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+          "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+          "source": "The Verge",
           "published_at": "2026-09-29"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the MSCI Asia Pacific Index climbing 0.6% with stocks in Japan and South Korea gaining, and the Shapoorji Pallonji Group planning to generate $125 million through a tap issue of current dollar bonds. The Nifty 50 saw a drop of 64.05 points, or 0.28%, closing at 22,716.20, and KPIT Technologies faces a substantial 24% decline in stock value. Legacy fund houses outperformed newer asset management companies in four of six categories.",
+      "summary": "Today's most important finance news includes the MSCI Asia Pacific Index climbing 0.6% with stocks in Japan and South Korea gaining. This came after gains for a key gauge of US semiconductor shares, while President Donald Trump rejected regulations on artificial intelligence.\n\nIn India, the Nifty 50 and BSE Sensex hit six-month lows, with the Nifty 50 seeing a drop of 64.05 points, or 0.28%, closing at 22,716.20. The benchmark Sensex and Nifty have both experienced significant declines in dollar terms this year, with foreign investors less interested in Indian equities due to various global factors.\n\nIn other news, Shapoorji Pallonji Group plans to generate $125 million through a tap issue of current dollar bonds, targeting \u20b93,250 crore via unrated rupee-denominated bonds for refinancing purposes. KPIT Technologies faces a substantial 24% decline in stock value, predominantly due to obstacles in the automotive sector.\n\nLegacy fund houses outperformed newer asset management companies in four out of six categories, according to a Mint analysis.",
       "citations": [
         {
           "headline": "Global Market Today: Asian shares rise as tech stocks lead, bonds in focus",
@@ -52,14 +40,26 @@
           "published_at": "2026-09-30"
         },
         {
-          "headline": "SP Group to raise $125 million via tap issue, Rs 3,250 crore in rupee bonds",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
+          "headline": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-30"
         },
         {
-          "headline": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
+          "headline": "D-Street set for a cautious opening as GIFT Nifty signals muted start",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134571298.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "Sensex falls over 20% in dollar terms in 2026 as weak sentiment, rupee drag returns",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-20-in-2026-amid-global-market-shifts-and-rupee-depreciation/articleshow/134576885.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "SP Group to raise $125 million via tap issue, Rs 3,250 crore in rupee bonds",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-09-30"
         },
@@ -78,7 +78,7 @@
       ]
     },
     "politics": {
-      "summary": "The Maharashtra Government has unveiled a Fodder Development Policy to tackle a shortage. The policy will include a list of suitable grasses for cultivation, fodder-producing trees, improved fodder crops, and traditional and non-traditional sources of fodder.\n\nIn other news, the Bombay High Court will hear a plea seeking transparency in Maharashtra SIR, which could result in the deletion of 2.1 crore names from the electoral rolls in the State.\n\nThe Kerala High Court has directed transparency in the selection of Sabarimala and Malikappuram Melsanthis.\n\nThe BJP president has told West Bengal BJP ministers that the party should not interfere in government functioning.",
+      "summary": "The Maharashtra Government has unveiled a Fodder Development Policy to tackle a shortage.\n\nGovernance must change for the age of AI, according to Chandrababu Naidu, who says the next 20 years are crucial for India.\n\nCongress has sought a discussion on CS and Law Secretary letters in the J&K Assembly, while BJP legislators staged a walkout over the Statehood resolution.\n\nThe Supreme Court will hear a West Bengal plea against bail to a Nandigram Congress candidate on October 5.\n\nThe Kerala HC has directed transparency in the selection of Sabarimala and Malikappuram Melsanthis.\n\nThe Keralam government has forwarded proposals by film bodies to departments concerned ahead of finalising a draft industry policy for Malayalam cinema.",
       "citations": [
         {
           "headline": "Maharashtra Government unveils Fodder Development Policy to tackle shortage",
@@ -87,10 +87,22 @@
           "published_at": "2026-09-30"
         },
         {
-          "headline": "Bombay High Court to hear plea seeking transparency in Maharashtra SIR",
-          "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-plea-seeking-transparency-in-maharashtra-sir/article71520795.ece",
+          "headline": "Governance must change for the age of AI, next 20 years crucial for India: Naidu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/governance-must-change-for-the-age-of-ai-next-20-years-crucial-for-india-chandrababu-naidu/article71523081.ece",
           "source": "The Hindu National",
-          "published_at": "2026-09-29"
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "\u2018Can officers act as government?\u2019 Congress seeks discussion on CS, Law Secretary letters in J&K Assembly",
+          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/can-officers-act-as-government-congress-seeks-discussion-on-cs-law-secretary-letters-in-jk-assembly/article71525135.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "Supreme Court to hear West Bengal plea against bail to Nandigram Congress candidate on October 5",
+          "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-west-bengal-plea-against-bail-to-nandigram-congress-candidate-on-october-5/article71527105.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-09-30"
         },
         {
           "headline": "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
@@ -99,10 +111,10 @@
           "published_at": "2026-09-30"
         },
         {
-          "headline": "Nabin tells West Bengal BJP ministers that party should not interfere in government functioning",
-          "url": "https://www.thehindu.com/news/national/west-bengal/nabin-tells-west-bengal-bjp-ministers-that-party-should-not-interfere-in-government-functioning/article71521056.ece",
+          "headline": "Industry status to Malayalam cinema: Single-window clearance for shooting, lower power tariffs for cinema halls among proposals mooted by film bodies",
+          "url": "https://www.thehindu.com/news/national/kerala/industry-status-to-malayalam-cinema-single-window-clearance-for-shooting-lower-power-tariffs-for-cinema-halls-among-proposals-mooted-by-film-bodies/article71527188.ece",
           "source": "The Hindu National",
-          "published_at": "2026-09-29"
+          "published_at": "2026-09-30"
         }
       ]
     }

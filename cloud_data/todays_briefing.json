@@ -1,24 +1,18 @@
 {
-  "generated_at": "2026-10-01T01:09:55.787111",
+  "generated_at": "2026-10-01T08:33:20.826637",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes the announcement of a $5 million investment in Charter Space to bring insurance to space companies, the launch of new AI-powered services by Airbnb, and the release of the Sonos Ace Ultra headphones. Additionally, BAG Ventures has raised $11.3 million to invest in AI startups, Cloudflare plans to issue quantum-safe TLS certificates, and OpenAI CEO Sam Altman has stated that the company will not go public until its models are safe. Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, has received a design refresh, and the Wing Hummingbird 7000W-B delivery drone has been authorized by the FAA.",
+      "summary": "Today's most important technology news includes the launch of a new design for Grokipedia, an AI-powered competitor to Wikipedia. OpenAI CEO Sam Altman says the company won't go public until its models are safe, while BAG Ventures raises $11.3M to invest in AI startups. Airbnb adds AI search and social features, and Charter Space raises $5M to bring insurance to space companies. Sonos Ace Ultra headphones are reviewed, and Cloudflare plans to issue quantum-safe TLS certificates. A Wing Hummingbird 7000W-B delivery drone is also featured.",
       "citations": [
         {
-          "headline": "Charter Space raises $5M to bring insurance to the stars",
-          "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-          "source": "TechCrunch",
-          "published_at": "2026-09-30"
+          "headline": "Elon Musk\u2019s Grokipedia has a \u2018newly refreshed\u2019 design",
+          "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+          "source": "The Verge",
+          "published_at": "2026-10-01"
         },
         {
-          "headline": "Airbnb adds AI search, more social features",
-          "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-          "source": "TechCrunch",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-          "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+          "headline": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
           "source": "The Verge",
           "published_at": "2026-09-30"
         },
@@ -29,22 +23,28 @@
           "published_at": "2026-09-30"
         },
         {
+          "headline": "Airbnb adds AI search, more social features",
+          "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "Charter Space raises $5M to bring insurance to the stars",
+          "url": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+          "source": "TechCrunch",
+          "published_at": "2026-09-30"
+        },
+        {
+          "headline": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+          "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+          "source": "The Verge",
+          "published_at": "2026-09-30"
+        },
+        {
           "headline": "Cloudflare plans to issue quantum-safe TLS certificates",
           "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
           "source": "Ars Technica",
           "published_at": "2026-09-30"
-        },
-        {
-          "headline": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-          "source": "The Verge",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "Elon Musk\u2019s Grokipedia has a \u2018newly refreshed\u2019 design",
-          "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-          "source": "The Verge",
-          "published_at": "2026-10-01"
         },
         {
           "headline": "Potato by air",
@@ -55,11 +55,17 @@
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India's joint initiative to ease regulatory procedures for foreign portfolio investors. This comes as global uncertainty impacts the market, with high crude oil prices, rising bond yields, and continued foreign selling shaping the landscape. In other news, a resurgent El Ni\u00f1o pattern may deepen a selloff in Southeast Asian bonds, pushing yields higher. Indian equity benchmarks have also experienced a decline due to profit booking and rising oil prices.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to improve regulatory procedures, particularly for foreign portfolio investors. This comes as the Nifty 50 index closed down by 95.75 points, reaching 22,620.45, and the Nifty index is under pressure, with 22,600 acting as a significant support level. The BSE Hospitals Index also faced a steep 5% drop following a landmark ruling by the Supreme Court of India on cancer drug markups. Meanwhile, a resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -70,8 +76,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -80,24 +86,12 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Supreme Court will hear a plea from West Bengal against bail for a Nandigram Congress candidate on October 5. The Kerala High Court has directed the state government to expedite the disposal of pending cases against MPs and MLAs based on District Judiciary recommendations. The Maharashtra government has unveiled a Fodder Development Policy to tackle shortages.\n\nOther news includes a by-election in Tamil Nadu that triggered the first Motion of Confidence in Indian legislature, a 76-year-old man being sentenced to 13 years in jail for a 1988 bank robbery, and a call for a discussion on CS and Law Secretary letters in the J&K Assembly.",
+      "summary": "The most important politics news today includes the Kerala High Court directing the State government to expedite the disposal of pending cases against MPs and MLAs based on District Judiciary recommendations. The Cabinet has also cleared a Rs 1.86 Lakh Crore Green Energy Corridor, which will facilitate grid integration and power evacuation within the States/UTs of India.\n\nOther news includes the hiring of 220 recruits in Maharashtra's forensic labs, the approval of a \u20b993.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab\u2019s Kharar, and the praise of Indian pilot Smit Machchhar by President Murmu and PM Modi for saving an Israel-bound flight from crashing.",
       "citations": [
-        {
-          "headline": "Supreme Court to hear West Bengal plea against bail to Nandigram Congress candidate on October 5",
-          "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-west-bengal-plea-against-bail-to-nandigram-congress-candidate-on-october-5/article71527105.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-09-30"
-        },
         {
           "headline": "Kerala High Court directs State govt. to expedite disposal of pending cases against MPs and MLAs based on District Judiciary recommendations",
           "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-directs-state-govt-to-expedite-disposal-of-pending-cases-against-mps-and-mlas-based-on-district-judiciary-recommendations/article71529500.ece",
@@ -105,28 +99,28 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Maharashtra Government unveils Fodder Development Policy to tackle shortage",
-          "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-unveils-fodder-development-policy-to-tackle-shortage/article71525137.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "A Lok Sabha bypoll in Tamil Nadu that triggered the first Motion of Confidence in Indian legislature",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/a-lok-sabha-bypoll-in-tamil-nadu-that-triggered-the-first-motion-of-confidence-in-indian-legislature/article71525790.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-09-30"
-        },
-        {
-          "headline": "Keralam Man, 76, Gets 13 Years Jail In 1988 Bank Robbery Case",
-          "url": "https://www.ndtv.com/india-news/keralam-man-76-gets-13-years-jail-in-1988-bank-robbery-case-12117666#publisher=newsstand",
+          "headline": "Cabinet Clears Rs 1.86 Lakh Crore Green Energy Corridor",
+          "url": "https://www.ndtv.com/india-news/centre-approves-rs-1-86-lakh-crore-green-energy-corridor-phase-iii-12120013#publisher=newsstand",
           "source": "NDTV India News",
-          "published_at": "2026-09-30"
+          "published_at": "2026-10-01"
         },
         {
-          "headline": "\u2018Can officers act as government?\u2019 Congress seeks discussion on CS, Law Secretary letters in J&K Assembly",
-          "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/can-officers-act-as-government-congress-seeks-discussion-on-cs-law-secretary-letters-in-jk-assembly/article71525135.ece",
+          "headline": "Why are Maharashtra\u2019s forensic labs hiring 220 recruits in the cyber/TASI department? | Explained",
+          "url": "https://www.thehindu.com/news/national/maharashtra/why-maharashtras-forensic-labs-are-struggling-to-keep-pace-with-casework-explained/article71531396.ece",
           "source": "The Hindu National",
-          "published_at": "2026-09-30"
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Centre approves \u20b993.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab\u2019s Kharar",
+          "url": "https://www.thehindu.com/news/national/punjab/union-tourism-ministry-approves-9394-crore-for-redeveloping-maharaja-ajj-sarovar-in-kharar/article71528960.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash",
+          "url": "https://www.thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-01"
         }
       ]
     }

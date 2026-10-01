@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T16:09:03.972289",
+  "generated_at": "2026-10-01T21:40:32.204311",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of AI hearing glasses by startup Legato, which aims to make hearing care more accessible. Audible is also rolling out new features that allow listeners to explore book worlds and interact with characters using AI. Amazon is offering early Prime Day deals, while Samsung has raised prices on the Galaxy S26 by $100. The new Kindle lineup features lighter and thinner designs, and Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, has received a design refresh. Additionally, Satlyt, founded by a former Google and SpaceX product manager, has raised $8 million to run AI on satellites.",
+      "summary": "Today's technology news includes the launch of AI hearing glasses by startup Legato, which aims to make hearing care more accessible. Audible is also introducing new features that allow users to explore book worlds and interact with characters using generative AI. Amazon is offering early Prime Day deals on hardware and other products, while Samsung has raised prices on the Galaxy S26 by $100. Additionally, Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, has received a design refresh, and Satlyt, founded by a former Google and SpaceX product manager, has raised $8 million to run AI on satellites.",
       "citations": [
         {
           "headline": "Hearing tech startup Legato launches its AI hearing glasses",
@@ -29,12 +29,6 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-          "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-01"
-        },
-        {
           "headline": "Elon Musk\u2019s Grokipedia has a \u2018newly refreshed\u2019 design",
           "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
           "source": "The Verge",
@@ -49,7 +43,7 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. However, the Nifty index is under pressure, with 22,600 acting as a significant support level, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore. Indian equity benchmarks have also experienced a decline over two sessions due to profit booking and rising oil prices. In other news, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to make it easier for foreign portfolio investors to enter the market. This comes as investors approach October with high crude oil prices, increasing bond yields, and continued foreign selling. A resurgent El Ni\u00f1o pattern is also threatening to push yields higher, just as rising US Treasury rates and oil prices squeeze regional debt.\n\nIn other news, Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nFinally, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. Following this announcement, the BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -58,9 +52,15 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "headline": "Can October turn the tide for Indian stocks after September rout?",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
           "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
@@ -78,7 +78,7 @@
       ]
     },
     "politics": {
-      "summary": "The most important politics news today includes the Kerala High Court directing the state government to expedite the disposal of pending cases against MPs and MLAs based on District Judiciary recommendations. The Cabinet has also cleared a Rs 1.86 Lakh Crore Green Energy Corridor, which will facilitate grid integration and power evacuation within the States/UTs of India.\n\nIn other news, the Union Tourism Ministry has approved a \u20b993.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab\u2019s Kharar, and the High Court has granted relief to the viral Kumbh Girl in a date of birth row.",
+      "summary": "Today's most important politics news includes the Kerala High Court directing the state government to expedite the disposal of pending cases against MPs and MLAs based on District Judiciary recommendations. The Cabinet has also cleared a Rs 1.86 Lakh Crore Green Energy Corridor, which will facilitate grid integration and power evacuation within the States/UTs of India.\n\nIn other news, the Union Tourism Ministry has approved a \u20b993.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab\u2019s Kharar, while the High Court has granted relief to the 'Viral Kumbh Girl' in a date of birth row.",
       "citations": [
         {
           "headline": "Kerala High Court directs State govt. to expedite disposal of pending cases against MPs and MLAs based on District Judiciary recommendations",

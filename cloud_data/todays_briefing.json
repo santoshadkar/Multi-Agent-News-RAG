@@ -1,32 +1,20 @@
 {
-  "generated_at": "2026-10-01T21:40:32.204311",
+  "generated_at": "2026-10-02T01:25:49.785429",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of AI hearing glasses by startup Legato, which aims to make hearing care more accessible. Audible is also introducing new features that allow users to explore book worlds and interact with characters using generative AI. Amazon is offering early Prime Day deals on hardware and other products, while Samsung has raised prices on the Galaxy S26 by $100. Additionally, Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, has received a design refresh, and Satlyt, founded by a former Google and SpaceX product manager, has raised $8 million to run AI on satellites.",
+      "summary": "TechCrunch Disrupt 2026 is built around the question: How do you build an enduring company in the AI era?\n\nA new California law places new rules on autonomous vehicles operators. Robotaxi operators will face fines for blocking first responders.\n\nGrokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page.\n\nThe new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
       "citations": [
         {
-          "headline": "Hearing tech startup Legato launches its AI hearing glasses",
-          "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "source": "TechCrunch",
-          "published_at": "2026-10-01"
+          "published_at": "2026-10-02"
         },
         {
-          "headline": "Audible\u2019s new features let you explore book worlds \u2014 and use AI to talk to characters",
-          "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+          "headline": "Robotaxi operators will face fines for blocking first responders",
+          "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
           "source": "TechCrunch",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "The best early October Prime Day deals happening now",
-          "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-          "source": "The Verge",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Samsung raised prices on the Galaxy S26 by $100",
-          "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
-          "source": "The Verge",
-          "published_at": "2026-10-01"
+          "published_at": "2026-10-02"
         },
         {
           "headline": "Elon Musk\u2019s Grokipedia has a \u2018newly refreshed\u2019 design",
@@ -35,15 +23,15 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-          "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+          "headline": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+          "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
           "source": "TechCrunch",
           "published_at": "2026-10-01"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to make it easier for foreign portfolio investors to enter the market. This comes as investors approach October with high crude oil prices, increasing bond yields, and continued foreign selling. A resurgent El Ni\u00f1o pattern is also threatening to push yields higher, just as rising US Treasury rates and oil prices squeeze regional debt.\n\nIn other news, Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nFinally, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. Following this announcement, the BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. The India Market Access portal, launched in September 2025, is a significant step in this initiative.\n\nHowever, Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt.\n\nMarket experts have also shared their top stock picks for 1 October.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -52,8 +40,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -64,21 +52,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
+          "headline": "Raja Venkatraman recommends two stocks for 1 October",
+          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
+          "headline": "Stock recommendations for 1 October from MarketSmith India",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Kerala High Court directing the state government to expedite the disposal of pending cases against MPs and MLAs based on District Judiciary recommendations. The Cabinet has also cleared a Rs 1.86 Lakh Crore Green Energy Corridor, which will facilitate grid integration and power evacuation within the States/UTs of India.\n\nIn other news, the Union Tourism Ministry has approved a \u20b993.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab\u2019s Kharar, while the High Court has granted relief to the 'Viral Kumbh Girl' in a date of birth row.",
+      "summary": "The Kerala High Court has directed the state government to expedite the disposal of pending cases against MPs and MLAs based on District Judiciary recommendations. The Centre has approved a Rs 1.86 Lakh Crore Green Energy Corridor to facilitate grid integration and power evacuation within the States/UTs of India. The Punjab government and the Centre have approved a \u20b993.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab\u2019s Kharar.\n\nPresident Murmu and PM Modi have praised Indian pilot Smit Machchhar for saving an Israel-bound flight from crashing. The High Court has granted relief to the 'Viral Kumbh Girl' in a date of birth row.",
       "citations": [
         {
           "headline": "Kerala High Court directs State govt. to expedite disposal of pending cases against MPs and MLAs based on District Judiciary recommendations",
@@ -95,6 +83,12 @@
         {
           "headline": "Centre approves \u20b993.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab\u2019s Kharar",
           "url": "https://www.thehindu.com/news/national/punjab/union-tourism-ministry-approves-9394-crore-for-redeveloping-maharaja-ajj-sarovar-in-kharar/article71528960.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash",
+          "url": "https://www.thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-01"
         },

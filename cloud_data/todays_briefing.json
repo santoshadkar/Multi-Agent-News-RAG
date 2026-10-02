@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-02T08:08:37.655720",
+  "generated_at": "2026-10-02T15:32:47.047169",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a new California law that will fine robotaxi operators for blocking first responders. Elon Musk's Grokipedia has received a design refresh, and the new Kindle has been released without a raised bezel. Audible has introduced new features that allow users to explore book worlds and interact with characters, while hearing tech startup Legato has launched AI hearing glasses. Samsung has raised prices on the Galaxy S26 by $100, and TechCrunch Disrupt 2026 is focusing on building enduring companies in the AI era.",
+      "summary": "TechCrunch Disrupt 2026 is focusing on how to build an enduring company in the AI era. Amazon has warned that the US economy and national security could be harmed if people block data centres. A new California law will see robotaxi operators fined for blocking first responders. Tesla's recovery has hit a speed bump, with fewer vehicles sold in the third quarter than a year ago.",
       "citations": [
+        {
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-02"
+        },
+        {
+          "headline": "Amazon writes scary blog warning communities not to block data centers",
+          "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+          "source": "The Verge",
+          "published_at": "2026-10-02"
+        },
         {
           "headline": "Robotaxi operators will face fines for blocking first responders",
           "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
@@ -11,55 +23,19 @@
           "published_at": "2026-10-02"
         },
         {
-          "headline": "Elon Musk\u2019s Grokipedia has a \u2018newly refreshed\u2019 design",
-          "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+          "headline": "Tesla\u2019s recovery hits a speed bump",
+          "url": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
           "source": "The Verge",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-          "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Audible\u2019s new features let you explore book worlds \u2014 and use AI to talk to characters",
-          "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Hearing tech startup Legato launches its AI hearing glasses",
-          "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Samsung raised prices on the Galaxy S26 by $100",
-          "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
-          "source": "The Verge",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
           "published_at": "2026-10-02"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. A resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt. Market experts have shared their top stock picks for 1 October, while the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, leading to a steep drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which highlighted troubling markups on cancer drugs enforced by hospitals. This led to a 5% drop in the BSE Hospitals Index, causing notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.\n\nAdditionally, a resurgent El Ni\u00f1o pattern is threatening to deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt.\n\nIn India, the Securities and Exchange Board and the Reserve Bank have joined forces to enhance regulatory procedures and make it easier for foreign portfolio investors to enter the market.",
       "citations": [
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -70,27 +46,15 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Raja Venkatraman recommends two stocks for 1 October",
-          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stock recommendations for 1 October from MarketSmith India",
-          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Parliamentary panel has postponed its visit to the Supreme Court over concerns about the separation of powers. The Assam government has ordered that ambulances should not be stopped for VIP convoys, following a backlash after police stopped an ambulance in Silchar. The Election Commission has been accused of making a mockery of the Constitution by Dipankar during a Jan Sunwai in Patna.\n\nIn other news, Andhra Pradesh HRD Minister Lokesh has asked officials to set skill training targets, and a retired official has been arrested under the POCSO Act in Ongole after a girl's friend called 112. Nitin Gadkari has called ethanol blending a step towards diversification of the agricultural sector, and three officials have been killed in a Mizoram accident.",
+      "summary": "The Parliamentary panel has postponed a visit to the Supreme Court over concerns about the separation of powers. The Assam government has ordered that ambulances should not be stopped for VIP convoys, following a backlash after police stopped an ambulance in Silchar. In other news, three Press Information Bureau and Doordarshan officials have been killed in an accident in Mizoram.\n\nIn Andhra Pradesh, the HRD Minister Lokesh has asked officials to set skill training targets, and a retired official has been arrested under the POCSO Act in Ongole. Meanwhile, Nitin Gadkari has called ethanol blending a step towards diversification of the agricultural sector, and Dipankar has said that the Election Commission is making a mockery of the Constitution.",
       "citations": [
         {
           "headline": "Parliament Panel Delays Top Court Visit On 'One Nation One Election' Bills",
@@ -105,9 +69,9 @@
           "published_at": "2026-10-02"
         },
         {
-          "headline": "Election Commission making a mockery of the Constitution: Dipankar",
-          "url": "https://www.thehindu.com/news/national/election-commission-making-a-mockery-of-the-constitution-dipankar/article71533826.ece",
-          "source": "The Hindu National",
+          "headline": "Press Information Bureau, Doordarshan Officials Killed In Mizoram Accident",
+          "url": "https://www.ndtv.com/india-news/press-information-bureau-doordarshan-officials-killed-in-mizoram-accident-12128781#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-02"
         },
         {
@@ -129,9 +93,9 @@
           "published_at": "2026-10-02"
         },
         {
-          "headline": "Press Information Bureau, Doordarshan Officials Killed In Mizoram Accident",
-          "url": "https://www.ndtv.com/india-news/press-information-bureau-doordarshan-officials-killed-in-mizoram-accident-12128781#publisher=newsstand",
-          "source": "NDTV India News",
+          "headline": "Election Commission making a mockery of the Constitution: Dipankar",
+          "url": "https://www.thehindu.com/news/national/election-commission-making-a-mockery-of-the-constitution-dipankar/article71533826.ece",
+          "source": "The Hindu National",
           "published_at": "2026-10-02"
         }
       ]

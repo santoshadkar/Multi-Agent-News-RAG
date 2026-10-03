@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:16:19.997818",
+  "generated_at": "2026-10-03T06:12:01.238882",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a new California law that will fine robotaxi operators for blocking first responders, Amazon's push for support for AI data centre projects, and a blog post from the CEO of Amazon Web Services warning of the potential harm to the US economy and national security if data centres are blocked.\n\nTesla's recovery has hit a speed bump, with the company selling fewer vehicles in the third quarter than a year ago.\n\nTechCrunch Disrupt 2026 is built around the question of how to build an enduring company in the AI era.",
+      "summary": "Today's most important technology news includes a new California law that will fine robotaxi operators for blocking first responders, Amazon's call for support for AI data center projects, and Meta's plan to give away Muse code for free to encourage its use in everyday gadgets. TechCrunch Disrupt 2026 is also underway, with a focus on building enduring companies in the AI era. Additionally, Home Assistant is rebranding its cloud service to Link, citing big tech's negative impact on the cloud.",
       "citations": [
         {
           "headline": "Robotaxi operators will face fines for blocking first responders",
@@ -17,25 +17,31 @@
           "published_at": "2026-10-02"
         },
         {
-          "headline": "Tesla\u2019s recovery hits a speed bump",
-          "url": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
-          "source": "The Verge",
-          "published_at": "2026-10-02"
+          "headline": "Meta wants your next gadget to be Muse-infused",
+          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
         },
         {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
           "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "source": "TechCrunch",
           "published_at": "2026-10-02"
+        },
+        {
+          "headline": "Home Assistant says \u2018Big tech ruined the cloud, so we&#8217;re out\u2019",
+          "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
+          "source": "The Verge",
+          "published_at": "2026-10-02"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty index is under pressure, with 22,600 acting as a significant support level, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore. The rupee settled flat against the US dollar amidst heavy FII outflows.\n\nIn other news, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nThe Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling that highlighted troubling markups on cancer drugs enforced by hospitals.",
+      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. Benchmark indices also faced a decline as global uncertainty impacted the market and investor sentiment remained cautious. The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
         {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -46,39 +52,63 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the postponement of a Parliamentary panel's visit to the Supreme Court over concerns about separation of powers. The Assam Government has ordered that ambulances should not be stopped for VIP convoys, following a backlash after police stopped an ambulance in Silchar. The Election Commission has been accused of making a mockery of the Constitution by Dipankar, during a public hearing in Patna on the issue of wrongful SIR deletions in Bihar.",
+      "summary": "The CJP has announced a protest on October 10 against the Chief Election Commissioner, Gyanesh Kumar.\n\nThe US midterm elections are taking place this year, and Donald Trump has been campaigning.\n\nThere has been a surge in food inspections in India, but safety fears persist ahead of festivals.\n\nA seven-year-old student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby.\n\nThe BJD has launched its annual month-long public outreach programme on the occasion of Mahatma Gandhi's birth anniversary.\n\nTVK ministers have criticised DMK chief Stalin for allegedly body-shaming Dharapuram bypoll candidate Sathyabama.\n\nPargat Singh has replaced Warring as the Punjab Congress president.",
       "citations": [
         {
-          "headline": "Parliament Panel Delays Top Court Visit On 'One Nation One Election' Bills",
-          "url": "https://www.ndtv.com/india-news/parliament-panel-delays-top-court-visit-on-one-nation-one-election-bills-12128415#publisher=newsstand",
+          "headline": "\"Chalo Delhi\": CJP Announces Protest On October 10 Against Poll Body Chief",
+          "url": "https://www.ndtv.com/india-news/chalo-delhi-cjp-leader-abhijeet-dipke-announces-protest-on-october-10-against-chief-election-commissioner-gyanesh-kumar-12132214#publisher=newsstand",
           "source": "NDTV India News",
-          "published_at": "2026-10-02"
+          "published_at": "2026-10-03"
         },
         {
-          "headline": "'Don't Stop Ambulances For VIP Convoys': Assam Government's Order Amid Row",
-          "url": "https://www.ndtv.com/india-news/dont-stop-ambulances-for-vip-convoys-assam-governments-order-amid-row-12128481#publisher=newsstand",
+          "headline": "US Midterm Elections 2026: Why They Matter And How They Shape US Politics",
+          "url": "https://www.ndtv.com/education/did-you-know-us-mid-term-elections-2026-what-are-the-2026-midterm-elections-and-how-do-they-shape-us-politics-12132666#publisher=newsstand",
           "source": "NDTV India News",
-          "published_at": "2026-10-02"
+          "published_at": "2026-10-03"
         },
         {
-          "headline": "Election Commission making a mockery of the Constitution: Dipankar",
-          "url": "https://www.thehindu.com/news/national/election-commission-making-a-mockery-of-the-constitution-dipankar/article71533826.ece",
+          "headline": "Food Inspections Surge 46%, But Safety Fears Persist Ahead Of Festivals",
+          "url": "https://www.ndtv.com/india-news/food-inspections-safety-festival-season-tukaram-mundhe-fssai-adulteration-12128401#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Allahabad HC to hear suo motu PIL on noise pollution after student\u2019s death",
+          "url": "https://www.thehindu.com/news/national/allahabad-hc-to-hear-suo-motu-pil-on-noise-pollution-after-students-death/article71536862.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-02"
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Mohan Charan Majhi government epitome of mismanagement: Naveen Patnaik",
+          "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-brands-odishas-government-as-mismanaged/article71537058.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "TVK Ministers slam DMK chief Stalin over alleged body-shaming of Dharapuram bypoll candidate",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-ministers-slam-dmk-chief-stalin-over-alleged-body-shaming-of-dharapuram-bypoll-candidate/article71539648.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Who is Pargat Singh,\u00a0the former\u00a0Olympic\u00a0hockey captain who just replaced Warring as Punjab Congress president?",
+          "url": "https://www.thehindu.com/news/national/punjab/pargat-singh-new-punjab-congress-president-warring-replaced/article71539667.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-03"
         }
       ]
     }

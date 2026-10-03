@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-10-03T12:20:04.986312",
+  "generated_at": "2026-10-03T17:05:30.287855",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a new California law that will fine robotaxi operators for blocking first responders, Amazon's blog warning communities not to block data centers, and Meta's plan to give away Muse code for free. Other stories include AI hallucinations affecting customer service jobs, data centers' impact on the environment, and Home Assistant's decision to rename its cloud service due to concerns about big tech.",
+      "summary": "Today's technology news includes a report that Meta is giving away the code for Muse, its AI assistant, for free. Meanwhile, an OpenAI safety employee has resigned and is speaking out about the company's culture. In other news, Bitchat has become largely unavailable in India following government restrictions, and Spotify billionaire Farooq Abbasi has spoken about his body scan startup, Neko Health.",
       "citations": [
-        {
-          "headline": "Robotaxi operators will face fines for blocking first responders",
-          "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-02"
-        },
-        {
-          "headline": "Amazon writes scary blog warning communities not to block data centers",
-          "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-          "source": "The Verge",
-          "published_at": "2026-10-02"
-        },
         {
           "headline": "Meta wants your next gadget to be Muse-infused",
           "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -23,27 +11,33 @@
           "published_at": "2026-10-03"
         },
         {
-          "headline": "AI hallucinations are making entitled customers even worse",
-          "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+          "headline": "An OpenAI safety employee has quit and is sounding the alarm",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
           "source": "The Verge",
-          "published_at": "2026-10-02"
+          "published_at": "2026-10-03"
         },
         {
-          "headline": "If a data center is camouflaged in the woods, will anyone hate it?",
-          "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-          "source": "The Verge",
-          "published_at": "2026-10-02"
+          "headline": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
         },
         {
-          "headline": "Home Assistant says \u2018Big tech ruined the cloud, so we&#8217;re out\u2019",
-          "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
-          "source": "The Verge",
-          "published_at": "2026-10-02"
+          "headline": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
+          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Spotify billionaire\u2019s body scan startup has come to America",
+          "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to simplify regulatory procedures for foreign portfolio investors. This comes as the Nifty index faces pressure due to global uncertainty and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore.\n\nIn other news, the Supreme Court of India has urged an investigation into reports of hospitals directing patients to specific pharmacies for their medications, causing a 5% drop in the BSE Hospitals Index.\n\nAdditionally, a resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -52,8 +46,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -62,40 +56,16 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The most important politics news today includes the announcement of a protest by CJP against the Chief Election Commissioner Gyanesh Kumar on October 10, 2026. The US midterm elections are also in the spotlight, with President Donald Trump's visit to Peterbilt Motors in Denton being reported. In India, there is a surge in food inspections ahead of festivals, but safety concerns remain. Other notable stories include the appointment of Pargat Singh as the new Punjab Congress president, the BJD's launch of its annual month-long public outreach program, and a controversy surrounding the Election Commission's internal disputes.",
+      "summary": "Today's most important politics news includes the announcement of a protest against the Chief Election Commissioner in India, the launch of a public outreach programme by the BJD, and the replacement of Warring as the Punjab Congress president by Pargat Singh.\n\nOther news includes a surge in food inspections in India ahead of festivals, a controversy surrounding the Election Commission, and the death of a seven-year-old student in Allahabad.\n\nIn the US, the midterm elections are shaping politics, while in Tamil Nadu, TVK ministers have criticised DMK chief Stalin for alleged body-shaming of a bypoll candidate.",
       "citations": [
         {
           "headline": "\"Chalo Delhi\": CJP Announces Protest On October 10 Against Poll Body Chief",
           "url": "https://www.ndtv.com/india-news/chalo-delhi-cjp-leader-abhijeet-dipke-announces-protest-on-october-10-against-chief-election-commissioner-gyanesh-kumar-12132214#publisher=newsstand",
           "source": "NDTV India News",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "US Midterm Elections 2026: Why They Matter And How They Shape US Politics",
-          "url": "https://www.ndtv.com/education/did-you-know-us-mid-term-elections-2026-what-are-the-2026-midterm-elections-and-how-do-they-shape-us-politics-12132666#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Food Inspections Surge 46%, But Safety Fears Persist Ahead Of Festivals",
-          "url": "https://www.ndtv.com/india-news/food-inspections-safety-festival-season-tukaram-mundhe-fssai-adulteration-12128401#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Who is Pargat Singh,\u00a0the former\u00a0Olympic\u00a0hockey captain who just replaced Warring as Punjab Congress president?",
-          "url": "https://www.thehindu.com/news/national/punjab/pargat-singh-new-punjab-congress-president-warring-replaced/article71539667.ece",
-          "source": "The Hindu National",
           "published_at": "2026-10-03"
         },
         {
@@ -105,9 +75,33 @@
           "published_at": "2026-10-03"
         },
         {
+          "headline": "Who is Pargat Singh,\u00a0the former\u00a0Olympic\u00a0hockey captain who just replaced Warring as Punjab Congress president?",
+          "url": "https://www.thehindu.com/news/national/punjab/pargat-singh-new-punjab-congress-president-warring-replaced/article71539667.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Food Inspections Surge 46%, But Safety Fears Persist Ahead Of Festivals",
+          "url": "https://www.ndtv.com/india-news/food-inspections-safety-festival-season-tukaram-mundhe-fssai-adulteration-12128401#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-03"
+        },
+        {
           "headline": "When Election Commission was rocked by internal disputes | Explained",
           "url": "https://www.thehindu.com/news/national/when-election-commission-was-rocked-by-internal-disputes-explained/article71539602.ece",
           "source": "The Hindu National",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Allahabad HC to hear suo motu PIL on noise pollution after student\u2019s death",
+          "url": "https://www.thehindu.com/news/national/allahabad-hc-to-hear-suo-motu-pil-on-noise-pollution-after-students-death/article71536862.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "US Midterm Elections 2026: Why They Matter And How They Shape US Politics",
+          "url": "https://www.ndtv.com/education/did-you-know-us-mid-term-elections-2026-what-are-the-2026-midterm-elections-and-how-do-they-shape-us-politics-12132666#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-03"
         },
         {

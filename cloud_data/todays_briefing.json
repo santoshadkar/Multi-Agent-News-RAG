@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-03T20:46:50.642558",
+  "generated_at": "2026-10-03T23:36:40.271137",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes the resignation of an OpenAI safety employee, David Robinson, who is speaking out about the company's culture and the dangers of AI. In other news, Meta is giving away Muse code for free, and Bitchat has been removed from app stores in India following a government order. Meanwhile, Spotify billionaire Farooq Abbasi's body scan startup, Neko Health, has arrived in America, and Splice CEO Kakul Srivastava has expressed concerns about AI emails.",
+      "summary": "Today's technology news is dominated by AI. An OpenAI safety employee has resigned, claiming the company's culture is broken and sounding the alarm about the dangers of AI. Meanwhile, Capcom is preparing for a future where games are created with AI, and a list of notable AI agents that can live in your text messages has been published.\n\nOther news includes the arrival of Spotify billionaire Farooq Abbasi's body scan startup Neko Health in America, and the disappearance of Jack Dorsey's Bitchat from app stores in India following a government order.",
       "citations": [
+        {
+          "headline": "All the AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
+        },
         {
           "headline": "An OpenAI safety employee has quit and is sounding the alarm",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "source": "The Verge",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
           "source": "The Verge",
           "published_at": "2026-10-03"
         },
@@ -17,15 +29,9 @@
           "published_at": "2026-10-03"
         },
         {
-          "headline": "Meta wants your next gadget to be Muse-infused",
-          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
-          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-          "source": "TechCrunch",
+          "headline": "Capcom is preparing for a \u2018future where we create games together with AI\u2019",
+          "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+          "source": "The Verge",
           "published_at": "2026-10-03"
         },
         {
@@ -35,15 +41,15 @@
           "published_at": "2026-10-03"
         },
         {
-          "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-          "source": "The Verge",
+          "headline": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
+          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "source": "TechCrunch",
           "published_at": "2026-10-03"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate the entry of foreign portfolio investors into the market. This comes as Indian equity benchmarks have declined due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. In other news, the Supreme Court of India has called for an investigation into steep markups on cancer drugs in hospitals, causing a 5% drop in the BSE Hospitals Index. Meanwhile, a resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as US Treasury rates and oil prices rise.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The launch of the India Market Access portal in September 2025 marked a significant step forward in this initiative.\n\nHowever, Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. Following this announcement, the BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -62,17 +68,11 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The most important politics news today includes the announcement of a protest by CJP against Chief Election Commissioner Gyanesh Kumar on October 10, the launch of BJD's annual month-long public outreach programme, and the replacement of Warring as the Punjab Congress president by Pargat Singh, a former Olympic hockey captain.\n\nOther news includes a surge in food inspections ahead of festivals, but safety fears persist, and a seven-year-old student's death at Balrampur school during a procession with loudspeakers and a music system.\n\nIn the US, President Donald Trump visited Peterbilt Motors in Denton, and the midterm elections are shaping US politics.",
+      "summary": "The CJP has announced a protest against the Chief Election Commissioner Gyanesh Kumar on October 10th. The Election Commission has been rocked by internal disputes, including a challenge to the appointment of two Election Commissioners and a recommendation to the President for the removal of Navin Chawla.\n\nIn other news, the Allahabad HC will hear a suo motu PIL on noise pollution after a seven-year-old student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby.\n\nThe BJD has launched its annual month-long public outreach programme on the occasion of Mahatma Gandhi's birth anniversary.\n\nThe US midterm elections are also in the news, with President Donald Trump visiting Peterbilt Motors in Denton.",
       "citations": [
         {
           "headline": "\"Chalo Delhi\": CJP Announces Protest On October 10 Against Poll Body Chief",
@@ -81,26 +81,20 @@
           "published_at": "2026-10-03"
         },
         {
-          "headline": "Mohan Charan Majhi government epitome of mismanagement: Naveen Patnaik",
-          "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-brands-odishas-government-as-mismanaged/article71537058.ece",
+          "headline": "When Election Commission was rocked by internal disputes | Explained",
+          "url": "https://www.thehindu.com/news/national/when-election-commission-was-rocked-by-internal-disputes-explained/article71539602.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Who is Pargat Singh,\u00a0the former\u00a0Olympic\u00a0hockey captain who just replaced Warring as Punjab Congress president?",
-          "url": "https://www.thehindu.com/news/national/punjab/pargat-singh-new-punjab-congress-president-warring-replaced/article71539667.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Food Inspections Surge 46%, But Safety Fears Persist Ahead Of Festivals",
-          "url": "https://www.ndtv.com/india-news/food-inspections-safety-festival-season-tukaram-mundhe-fssai-adulteration-12128401#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-03"
         },
         {
           "headline": "Allahabad HC to hear suo motu PIL on noise pollution after student\u2019s death",
           "url": "https://www.thehindu.com/news/national/allahabad-hc-to-hear-suo-motu-pil-on-noise-pollution-after-students-death/article71536862.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Mohan Charan Majhi government epitome of mismanagement: Naveen Patnaik",
+          "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-brands-odishas-government-as-mismanaged/article71537058.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-03"
         },

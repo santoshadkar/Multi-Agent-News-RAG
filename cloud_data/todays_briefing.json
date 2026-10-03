@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T20:29:45.666031",
+  "generated_at": "2026-10-03T00:16:19.997818",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a new California law that will fine robotaxi operators for blocking first responders, Amazon's call for support for AI data centre projects, and a blog post warning communities not to block data centres. Tesla's recovery has hit a speed bump, with the company selling fewer vehicles in the third quarter than a year ago. Home Assistant has announced it is renaming its cloud service to Home Assistant Link, citing concerns about big tech.",
+      "summary": "Today's technology news includes a new California law that will fine robotaxi operators for blocking first responders, Amazon's push for support for AI data centre projects, and a blog post from the CEO of Amazon Web Services warning of the potential harm to the US economy and national security if data centres are blocked.\n\nTesla's recovery has hit a speed bump, with the company selling fewer vehicles in the third quarter than a year ago.\n\nTechCrunch Disrupt 2026 is built around the question of how to build an enduring company in the AI era.",
       "citations": [
         {
           "headline": "Robotaxi operators will face fines for blocking first responders",
@@ -23,15 +23,15 @@
           "published_at": "2026-10-02"
         },
         {
-          "headline": "Home Assistant says \u2018Big tech ruined the cloud, so we&#8217;re out\u2019",
-          "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
-          "source": "The Verge",
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
           "published_at": "2026-10-02"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty index is under pressure, with foreign portfolio investors recording a net sale of shares worth Rs 10,148 crore. Meanwhile, the BSE Hospitals Index faced a steep 5% drop following a Supreme Court of India ruling on cancer drug markups. Market experts have shared their top stock picks for 1 October, with MarketSmith India revealing its top stock recommendations.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty index is under pressure, with 22,600 acting as a significant support level, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore. The rupee settled flat against the US dollar amidst heavy FII outflows.\n\nIn other news, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nThe Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling that highlighted troubling markups on cancer drugs enforced by hospitals.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -46,27 +46,21 @@
           "published_at": "2026-10-01"
         },
         {
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
+        },
+        {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Raja Venkatraman recommends two stocks for 1 October",
-          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stock recommendations for 1 October from MarketSmith India",
-          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
-          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Parliamentary panel has postponed its Supreme Court visit over concerns about the separation of powers. The Assam government has ordered that ambulances should not be stopped for VIP convoys. The Election Commission has been accused of making a mockery of the Constitution.\n\nIn other news, Andhra Pradesh's HRD Minister Lokesh has asked officials to set skill training targets. A retired official has been arrested under the POCSO Act in Ongole. Nitin Gadkari has called ethanol blending a step towards diversification of the agricultural sector. Three Press Information Bureau and Doordarshan officials have been killed in a Mizoram accident.",
+      "summary": "Today's most important politics news includes the postponement of a Parliamentary panel's visit to the Supreme Court over concerns about separation of powers. The Assam Government has ordered that ambulances should not be stopped for VIP convoys, following a backlash after police stopped an ambulance in Silchar. The Election Commission has been accused of making a mockery of the Constitution by Dipankar, during a public hearing in Patna on the issue of wrongful SIR deletions in Bihar.",
       "citations": [
         {
           "headline": "Parliament Panel Delays Top Court Visit On 'One Nation One Election' Bills",
@@ -84,30 +78,6 @@
           "headline": "Election Commission making a mockery of the Constitution: Dipankar",
           "url": "https://www.thehindu.com/news/national/election-commission-making-a-mockery-of-the-constitution-dipankar/article71533826.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-02"
-        },
-        {
-          "headline": "Andhra HRD Minister Lokesh asks officials to set skill training targets",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-hrd-minister-lokesh-asks-officials-to-set-skill-training-targets/article71533734.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-02"
-        },
-        {
-          "headline": "Retired official arrested under POCSO Act in Ongole after girl\u2019s friend calls 112",
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/retired-official-arrested-under-pocso-act-in-ongole-after-girls-friend-calls-112/article71533927.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-02"
-        },
-        {
-          "headline": "Nitin Gadkari calls Ethanol blending a step towards diversification of agricultural sector",
-          "url": "https://www.thehindu.com/business/nitin-gadkari-calls-ethanol-blending-a-step-towards-diversification-of-agricultural-sector/article71533432.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-02"
-        },
-        {
-          "headline": "Press Information Bureau, Doordarshan Officials Killed In Mizoram Accident",
-          "url": "https://www.ndtv.com/india-news/press-information-bureau-doordarshan-officials-killed-in-mizoram-accident-12128781#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-02"
         }
       ]

@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-04T04:59:50.570531",
+  "generated_at": "2026-10-04T11:04:31.160080",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by AI. An OpenAI safety employee, David Robinson, has resigned and is speaking out against the company's culture. Meanwhile, Capcom is preparing for a future of game development with AI, and a list of AI agents that can live in your text messages has been compiled. In other news, Meta is giving away Muse code for free, Jack Dorsey's Bitchat has disappeared from app stores in India, and Spotify billionaire Farooq Abbasi's body scan startup has arrived in America.",
+      "summary": "Today's technology news includes a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. Jack Dorsey's Bitchat has disappeared from app stores in India after a government order. An OpenAI safety employee has quit and is sounding the alarm, claiming the company's culture is broken. Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it. Splice CEO Kakul Srivastava thinks AI emails are killing conversations. Capcom is preparing for a 'future where we create games together with AI'. Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
       "citations": [
         {
           "headline": "All the AI agents that can live in your text messages",
           "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
+          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
           "source": "TechCrunch",
           "published_at": "2026-10-03"
         },
@@ -17,15 +23,21 @@
           "published_at": "2026-10-03"
         },
         {
-          "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-          "source": "The Verge",
-          "published_at": "2026-10-03"
-        },
-        {
           "headline": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
           "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
           "source": "TechCrunch",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Spotify billionaire\u2019s body scan startup has come to America",
+          "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+          "source": "The Verge",
           "published_at": "2026-10-03"
         },
         {
@@ -39,23 +51,11 @@
           "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
           "source": "TechCrunch",
           "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
-          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Spotify billionaire\u2019s body scan startup has come to America",
-          "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-03"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. However, the Nifty index is under pressure, with 22,600 acting as a significant support level. Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The BSE Hospitals Index has also faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty index is under pressure, with 22,600 acting as a significant support level, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals.\n\nMeanwhile, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -70,21 +70,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Indian Election Commission is facing protests and controversy. Shiv Sena (UBT) and MNS have accused the Commission of deceiving voters, while T.N. Seshan has challenged the appointment of two Election Commissioners in court. Meanwhile, the BJP MP Tarun Chugh has criticised the Bhagwant Mann's AAP Government in Punjab after the murder of LGBTQ influencer Mad Sandhu in Amritsar.\n\nIndia's High Commissioner to Bangladesh has said that Sheikh Hasina's extradition is possible via a \"well-structured\" process.",
+      "summary": "The most important politics news today includes the launch of a website by Rahul Gandhi amid protests against Chief Election Commissioner Gyanesh Kumar. The Shiv Sena (UBT) and MNS have accused the Election Commission of deceiving voters. The Rajasthan government has been urged to prepare a contingency plan to deal with a 'drought-like' situation, and the Madras High Court has called for the mandatory attachment and confiscation of properties acquired through corrupt means.",
       "citations": [
         {
           "headline": "\u2018Satyagraha\u2019 website launched by Rahul Gandhi: What is it?",
@@ -99,26 +99,20 @@
           "published_at": "2026-10-04"
         },
         {
-          "headline": "\"Chalo Delhi\": CJP Announces Protest On October 10 Against Poll Body Chief",
-          "url": "https://www.ndtv.com/india-news/chalo-delhi-cjp-leader-abhijeet-dipke-announces-protest-on-october-10-against-chief-election-commissioner-gyanesh-kumar-12132214#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "When Election Commission was rocked by internal disputes | Explained",
-          "url": "https://www.thehindu.com/news/national/when-election-commission-was-rocked-by-internal-disputes-explained/article71539602.ece",
+          "headline": "Rajasthan government should prepare contingency plan to deal with \u2018drought-like\u2019 situation: Ashok Gehlot",
+          "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-government-should-prepare-contingency-plan-to-deal-with-drought-like-situation-ashok-gehlot/article71542955.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Bhagwant Mann's AAP Government Under Fire From Punjab Opposition After LGBTQ Influencer Shot Dead",
-          "url": "https://www.ndtv.com/india-news/punjab-bhagwant-mann-government-under-fire-from-opposition-after-lgbtq-influencer-shot-dead-12135985#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-04"
         },
         {
-          "headline": "Sheikh Hasina\u2019s extradition possible via \u2018well-structured\u2019 process: India\u2019s High Commissioner to Bangladesh",
-          "url": "https://www.thehindu.com/news/national/sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-commissioner-to-bangladesh/article71540564.ece",
+          "headline": "Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists a PIL plea before Madras High Court",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/abandon-pattinapakkam-assembly-cum-secretariat-complex-project-insists-a-pil-plea-before-madras-high-court/article71542928.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-04"
+        },
+        {
+          "headline": "Mandatory attachment, confiscation essential to combat vice of corruption, says Madras High Court",
+          "url": "https://www.thehindu.com/news/cities/Madurai/mandatory-attachment-confiscation-essential-to-combat-vice-of-corruption-says-madras-high-court/article71541840.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-04"
         }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T23:36:40.271137",
+  "generated_at": "2026-10-04T04:59:50.570531",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by AI. An OpenAI safety employee has resigned, claiming the company's culture is broken and sounding the alarm about the dangers of AI. Meanwhile, Capcom is preparing for a future where games are created with AI, and a list of notable AI agents that can live in your text messages has been published.\n\nOther news includes the arrival of Spotify billionaire Farooq Abbasi's body scan startup Neko Health in America, and the disappearance of Jack Dorsey's Bitchat from app stores in India following a government order.",
+      "summary": "Today's technology news is dominated by AI. An OpenAI safety employee, David Robinson, has resigned and is speaking out against the company's culture. Meanwhile, Capcom is preparing for a future of game development with AI, and a list of AI agents that can live in your text messages has been compiled. In other news, Meta is giving away Muse code for free, Jack Dorsey's Bitchat has disappeared from app stores in India, and Spotify billionaire Farooq Abbasi's body scan startup has arrived in America.",
       "citations": [
         {
           "headline": "All the AI agents that can live in your text messages",
@@ -35,8 +35,8 @@
           "published_at": "2026-10-03"
         },
         {
-          "headline": "Spotify billionaire\u2019s body scan startup has come to America",
-          "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+          "headline": "Meta wants your next gadget to be Muse-infused",
+          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
           "source": "TechCrunch",
           "published_at": "2026-10-03"
         },
@@ -45,15 +45,27 @@
           "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
           "source": "TechCrunch",
           "published_at": "2026-10-03"
+        },
+        {
+          "headline": "Spotify billionaire\u2019s body scan startup has come to America",
+          "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-03"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The launch of the India Market Access portal in September 2025 marked a significant step forward in this initiative.\n\nHowever, Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. Following this announcement, the BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. However, the Nifty index is under pressure, with 22,600 acting as a significant support level. Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The BSE Hospitals Index has also faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -72,8 +84,20 @@
       ]
     },
     "politics": {
-      "summary": "The CJP has announced a protest against the Chief Election Commissioner Gyanesh Kumar on October 10th. The Election Commission has been rocked by internal disputes, including a challenge to the appointment of two Election Commissioners and a recommendation to the President for the removal of Navin Chawla.\n\nIn other news, the Allahabad HC will hear a suo motu PIL on noise pollution after a seven-year-old student died at Balrampur school while a procession carrying loudspeakers and a music system was passing nearby.\n\nThe BJD has launched its annual month-long public outreach programme on the occasion of Mahatma Gandhi's birth anniversary.\n\nThe US midterm elections are also in the news, with President Donald Trump visiting Peterbilt Motors in Denton.",
+      "summary": "The Indian Election Commission is facing protests and controversy. Shiv Sena (UBT) and MNS have accused the Commission of deceiving voters, while T.N. Seshan has challenged the appointment of two Election Commissioners in court. Meanwhile, the BJP MP Tarun Chugh has criticised the Bhagwant Mann's AAP Government in Punjab after the murder of LGBTQ influencer Mad Sandhu in Amritsar.\n\nIndia's High Commissioner to Bangladesh has said that Sheikh Hasina's extradition is possible via a \"well-structured\" process.",
       "citations": [
+        {
+          "headline": "\u2018Satyagraha\u2019 website launched by Rahul Gandhi: What is it?",
+          "url": "https://www.thehindu.com/news/national/satyagraha-website-rahul-gandhi-explained-what-is-it/article71542853.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-04"
+        },
+        {
+          "headline": "Thackeray Brothers To Lead Mega Mumbai Protest Against Poll Body Chief Today",
+          "url": "https://www.ndtv.com/india-news/thackeray-brothers-to-lead-mega-mumbai-protest-against-poll-body-chief-gyanesh-kumar-today-12135939#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-04"
+        },
         {
           "headline": "\"Chalo Delhi\": CJP Announces Protest On October 10 Against Poll Body Chief",
           "url": "https://www.ndtv.com/india-news/chalo-delhi-cjp-leader-abhijeet-dipke-announces-protest-on-october-10-against-chief-election-commissioner-gyanesh-kumar-12132214#publisher=newsstand",
@@ -87,22 +111,16 @@
           "published_at": "2026-10-03"
         },
         {
-          "headline": "Allahabad HC to hear suo motu PIL on noise pollution after student\u2019s death",
-          "url": "https://www.thehindu.com/news/national/allahabad-hc-to-hear-suo-motu-pil-on-noise-pollution-after-students-death/article71536862.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Mohan Charan Majhi government epitome of mismanagement: Naveen Patnaik",
-          "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-brands-odishas-government-as-mismanaged/article71537058.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "US Midterm Elections 2026: Why They Matter And How They Shape US Politics",
-          "url": "https://www.ndtv.com/education/did-you-know-us-mid-term-elections-2026-what-are-the-2026-midterm-elections-and-how-do-they-shape-us-politics-12132666#publisher=newsstand",
+          "headline": "Bhagwant Mann's AAP Government Under Fire From Punjab Opposition After LGBTQ Influencer Shot Dead",
+          "url": "https://www.ndtv.com/india-news/punjab-bhagwant-mann-government-under-fire-from-opposition-after-lgbtq-influencer-shot-dead-12135985#publisher=newsstand",
           "source": "NDTV India News",
-          "published_at": "2026-10-03"
+          "published_at": "2026-10-04"
+        },
+        {
+          "headline": "Sheikh Hasina\u2019s extradition possible via \u2018well-structured\u2019 process: India\u2019s High Commissioner to Bangladesh",
+          "url": "https://www.thehindu.com/news/national/sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-commissioner-to-bangladesh/article71540564.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-04"
         }
       ]
     }

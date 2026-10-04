@@ -1,61 +1,55 @@
 {
-  "generated_at": "2026-10-04T11:04:31.160080",
+  "generated_at": "2026-10-04T16:38:55.915744",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. Jack Dorsey's Bitchat has disappeared from app stores in India after a government order. An OpenAI safety employee has quit and is sounding the alarm, claiming the company's culture is broken. Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it. Splice CEO Kakul Srivastava thinks AI emails are killing conversations. Capcom is preparing for a 'future where we create games together with AI'. Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "summary": "Today's technology news includes the IEA and climate negotiators setting a target for shifting the economy to run on electricity, and Trump unveiling his new Super Intelligence Force.\n\nIn other news, Amazon's October Prime Day has seen discounts on Apple products, including the iPad Mini, the M5 MacBook Air, and the AirPods Pro 3.\n\nMeanwhile, an AI couldn't beat humans at StarCraft, so it decided to cheat, and New Jersey's lieutenant governor Dale Caldwell was forced to resign after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules.",
       "citations": [
         {
-          "headline": "All the AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-03"
+          "headline": "All hail electrification. But let\u2019s talk about the hard part.",
+          "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+          "source": "Ars Technica",
+          "published_at": "2026-10-04"
         },
         {
-          "headline": "Jack Dorsey\u2019s Bitchat disappears from app stores in India after government order",
-          "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+          "headline": "Trump unveils his new Super Intelligence Force",
+          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
           "source": "TechCrunch",
-          "published_at": "2026-10-03"
+          "published_at": "2026-10-04"
         },
         {
-          "headline": "An OpenAI safety employee has quit and is sounding the alarm",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "headline": "The iPad Mini is slightly cheaper again during Prime Day",
+          "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
           "source": "The Verge",
-          "published_at": "2026-10-03"
+          "published_at": "2026-10-04"
         },
         {
-          "headline": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
-          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Spotify billionaire\u2019s body scan startup has come to America",
-          "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-03"
-        },
-        {
-          "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-          "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+          "headline": "The MacBook Air M5 is $200 off for the first time in months",
+          "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-10-03"
+          "published_at": "2026-10-04"
         },
         {
-          "headline": "Capcom is preparing for a \u2018future where we create games together with AI\u2019",
-          "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+          "headline": "The AirPods Pro 3 are a fantastic deal at $179",
+          "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
           "source": "The Verge",
-          "published_at": "2026-10-03"
+          "published_at": "2026-10-04"
         },
         {
-          "headline": "Meta wants your next gadget to be Muse-infused",
-          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-03"
+          "headline": "An AI couldn\u2019t beat humans at StarCraft, so it decided to cheat",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "source": "The Verge",
+          "published_at": "2026-10-04"
+        },
+        {
+          "headline": "Well, if AI said it, it must be true",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "published_at": "2026-10-04"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty index is under pressure, with 22,600 acting as a significant support level, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals.\n\nMeanwhile, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45. Meanwhile, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -64,8 +58,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -74,21 +68,15 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The most important politics news today includes the launch of a website by Rahul Gandhi amid protests against Chief Election Commissioner Gyanesh Kumar. The Shiv Sena (UBT) and MNS have accused the Election Commission of deceiving voters. The Rajasthan government has been urged to prepare a contingency plan to deal with a 'drought-like' situation, and the Madras High Court has called for the mandatory attachment and confiscation of properties acquired through corrupt means.",
+      "summary": "Today's most important politics news includes the extradition of Sheikh Hasina, which India's High Commissioner to Bangladesh says is possible via a 'well-structured' process.\n\nThe Shiv Sena (UBT) and MNS have accused the Election Commission of deceiving voters, and the Thackeray brothers are set to lead a mega protest in Mumbai against the poll body chief today.\n\nThe Rajasthan government has been urged to prepare a contingency plan to deal with a 'drought-like' situation, and the Madras High Court has called for the mandatory attachment and confiscation of properties acquired through corrupt means.\n\nThe Bhagwant Mann's AAP Government is under fire from the Punjab Opposition after an LGBTQ influencer was shot dead.",
       "citations": [
         {
-          "headline": "\u2018Satyagraha\u2019 website launched by Rahul Gandhi: What is it?",
-          "url": "https://www.thehindu.com/news/national/satyagraha-website-rahul-gandhi-explained-what-is-it/article71542853.ece",
+          "headline": "Sheikh Hasina\u2019s extradition possible via \u2018well-structured\u2019 process: India\u2019s High Commissioner to Bangladesh",
+          "url": "https://www.thehindu.com/news/national/sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-commissioner-to-bangladesh/article71540564.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-04"
         },
@@ -105,15 +93,15 @@
           "published_at": "2026-10-04"
         },
         {
-          "headline": "Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists a PIL plea before Madras High Court",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/abandon-pattinapakkam-assembly-cum-secretariat-complex-project-insists-a-pil-plea-before-madras-high-court/article71542928.ece",
+          "headline": "Mandatory attachment, confiscation essential to combat vice of corruption, says Madras High Court",
+          "url": "https://www.thehindu.com/news/cities/Madurai/mandatory-attachment-confiscation-essential-to-combat-vice-of-corruption-says-madras-high-court/article71541840.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-04"
         },
         {
-          "headline": "Mandatory attachment, confiscation essential to combat vice of corruption, says Madras High Court",
-          "url": "https://www.thehindu.com/news/cities/Madurai/mandatory-attachment-confiscation-essential-to-combat-vice-of-corruption-says-madras-high-court/article71541840.ece",
-          "source": "The Hindu National",
+          "headline": "Bhagwant Mann's AAP Government Under Fire From Punjab Opposition After LGBTQ Influencer Shot Dead",
+          "url": "https://www.ndtv.com/india-news/punjab-bhagwant-mann-government-under-fire-from-opposition-after-lgbtq-influencer-shot-dead-12135985#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-04"
         }
       ]

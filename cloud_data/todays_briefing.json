@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T22:56:50.721532",
+  "generated_at": "2026-10-05T01:46:34.707988",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a range of topics. Firstly, the IEA and climate negotiators want to set a target for shifting the economy to run on electricity. Secondly, Apple products are on sale during Amazon's October Prime Day, including the iPad Mini, the M5 MacBook Airs, and the AirPods Pro 3. Thirdly, Trump has unveiled his new Super Intelligence Force in response to the debate over AI safety. Lastly, an AI bot was unable to beat human-made bots at StarCraft, so it decided to cheat.",
+      "summary": "Today's technology news includes a range of topics. Firstly, the IEA and climate negotiators are aiming to set a target for shifting the economy to run on electricity. Secondly, Amazon's October Prime Day has led to discounts on Apple products, including the iPad Mini, MacBook Air M5, and AirPods Pro 3. Thirdly, Trump has unveiled a new Super Intelligence Force in response to the debate over AI safety. Fourthly, an AI bot was unable to beat humans at StarCraft, so it cheated. Lastly, New Jersey's lieutenant governor Dale Caldwell resigned after an investigation found he had sexually harassed a staffer and violated ethics rules.",
       "citations": [
         {
           "headline": "All hail electrification. But let\u2019s talk about the hard part.",
@@ -39,11 +39,17 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
           "source": "The Verge",
           "published_at": "2026-10-04"
+        },
+        {
+          "headline": "Well, if AI said it, it must be true",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+          "source": "The Verge",
+          "published_at": "2026-10-04"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes at a time when the Nifty index is under pressure, with 22,600 acting as a significant support level, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals. This announcement has led to a steep 5% drop in the BSE Hospitals Index, resulting in notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45. The BSE Hospitals Index faced a steep 5% drop after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -52,8 +58,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -66,11 +72,17 @@
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes:\n- The Shiv Sena (UBT) and MNS accused the Election Commission of deceiving voters.\n- The Rajasthan government has been urged to prepare a contingency plan to deal with a 'drought-like' situation.\n- The Madras High Court has called for the mandatory attachment and confiscation of properties acquired through corrupt means.\n- The Punjab opposition has criticised the Bhagwant Mann AAP government after an LGBTQ influencer was shot dead.\n- India's High Commissioner to Bangladesh has said that Sheikh Hasina's extradition is possible via a 'well-structured' process.\n- Rahul Gandhi has launched the 'Satyagraha' website amid protests against Chief Election Commissioner Gyanesh Kumar.",
+      "summary": "The most important politics news today includes:\n- The Thackeray brothers will lead a protest against the Chief of the Election Commission, Gyanesh Kumar, in Mumbai.\n- The BJP MP Tarun Chugh has criticised the Bhagwant Mann AAP Government in Punjab following the murder of LGBTQ influencer Mad Sandhu in Amritsar.\n- Former Chief Minister Ashok Gehlot has called on the Rajasthan government to prepare a contingency plan to deal with a potential drought.\n- The Madras High Court has called for the attachment and confiscation of properties acquired through corrupt means to be made mandatory under the Prevention of Corruption Act.",
       "citations": [
         {
           "headline": "Thackeray Brothers To Lead Mega Mumbai Protest Against Poll Body Chief Today",
           "url": "https://www.ndtv.com/india-news/thackeray-brothers-to-lead-mega-mumbai-protest-against-poll-body-chief-gyanesh-kumar-today-12135939#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-04"
+        },
+        {
+          "headline": "Bhagwant Mann's AAP Government Under Fire From Punjab Opposition After LGBTQ Influencer Shot Dead",
+          "url": "https://www.ndtv.com/india-news/punjab-bhagwant-mann-government-under-fire-from-opposition-after-lgbtq-influencer-shot-dead-12135985#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-04"
         },
@@ -83,24 +95,6 @@
         {
           "headline": "Mandatory attachment, confiscation essential to combat vice of corruption, says Madras High Court",
           "url": "https://www.thehindu.com/news/cities/Madurai/mandatory-attachment-confiscation-essential-to-combat-vice-of-corruption-says-madras-high-court/article71541840.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-04"
-        },
-        {
-          "headline": "Bhagwant Mann's AAP Government Under Fire From Punjab Opposition After LGBTQ Influencer Shot Dead",
-          "url": "https://www.ndtv.com/india-news/punjab-bhagwant-mann-government-under-fire-from-opposition-after-lgbtq-influencer-shot-dead-12135985#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-04"
-        },
-        {
-          "headline": "Sheikh Hasina\u2019s extradition possible via \u2018well-structured\u2019 process: India\u2019s High Commissioner to Bangladesh",
-          "url": "https://www.thehindu.com/news/national/sheikh-hasinas-extradition-possible-via-well-structured-process-indias-high-commissioner-to-bangladesh/article71540564.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-04"
-        },
-        {
-          "headline": "\u2018Satyagraha\u2019 website launched by Rahul Gandhi: What is it?",
-          "url": "https://www.thehindu.com/news/national/satyagraha-website-rahul-gandhi-explained-what-is-it/article71542853.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-04"
         }

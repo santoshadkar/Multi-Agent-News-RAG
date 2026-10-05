@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-10-05T08:38:48.901874",
+  "generated_at": "2026-10-05T18:08:09.691504",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of a new Super Intelligence Force by Trump, the IEA and climate negotiators setting a target for shifting the economy to run on electricity, and a report on AI-made StarCraft-playing bots. In addition, Amazon's October Prime Day offers discounts on Apple devices, including the iPad Mini, MacBook Air M5, and AirPods Pro 3. Finally, new forensic evidence supports the theory of Egyptian \"retainer sacrifice\" in First Dynasty mass burials.",
+      "summary": "Today's most important technology news includes:\n- OpenAI is adding more ads to ChatGPT.\n- Norway is cracking down on AI glasses that can record bystanders.\n- A new open-source tool allows users to delete 12GB of Apple Intelligence data on macOS.\n- Safeworld is building digital humans to ensure robots don't harm real people.\n- New forensic evidence supports the theory of Egyptian \"retainer sacrifice\".\n- Ars Technica has published a guide to new keyboard sensing technologies.\n- Sen. Adam Schiff, a Democrat from California, is discussing AI regulation, free speech, and impeaching Trump.",
       "citations": [
         {
-          "headline": "Trump unveils his new Super Intelligence Force",
-          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-04"
+          "headline": "OpenAI is sticking more ads in ChatGPT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "published_at": "2026-10-05"
         },
         {
-          "headline": "All hail electrification. But let\u2019s talk about the hard part.",
-          "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+          "headline": "AI glasses face their first major government crackdown",
+          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
           "source": "Ars Technica",
-          "published_at": "2026-10-04"
+          "published_at": "2026-10-05"
         },
         {
-          "headline": "An AI couldn\u2019t beat humans at StarCraft, so it decided to cheat",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "headline": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
           "source": "The Verge",
-          "published_at": "2026-10-04"
+          "published_at": "2026-10-05"
         },
         {
-          "headline": "The iPad Mini is slightly cheaper again during Prime Day",
-          "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
-          "source": "The Verge",
-          "published_at": "2026-10-04"
-        },
-        {
-          "headline": "The MacBook Air M5 is $200 off for the first time in months",
-          "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-10-04"
-        },
-        {
-          "headline": "The AirPods Pro 3 are a fantastic deal at $179",
-          "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-          "source": "The Verge",
-          "published_at": "2026-10-04"
+          "headline": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
+          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-05"
         },
         {
           "headline": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
           "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
           "source": "Ars Technica",
           "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+          "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+          "source": "Ars Technica",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+          "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+          "source": "The Verge",
+          "published_at": "2026-10-05"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. The India Market Access portal, launched in September 2025, is a significant step in this initiative.\n\nHowever, Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. The BSE Hospitals Index faced a steep 5% drop after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals. Market experts have shared their top stock picks for 1 October.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -68,11 +68,23 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Raja Venkatraman recommends two stocks for 1 October",
+          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Stock recommendations for 1 October from MarketSmith India",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained, and the party has condemned the action.\n\nIn other news, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen. This appears to be a mix-up with the Brazilian election, which took place on Sunday.\n\nIndia's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week, and Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country.\n\nFinally, Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Congress has condemned the detention of tribal students headed for a protest in Mumbai, and Jairam Ramesh has attacked the CEC for his ability to execute G2's illegal orders.\n\nDonald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen.\n\nFinally, India's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -99,6 +111,12 @@
           "published_at": "2026-10-05"
         },
         {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
@@ -108,12 +126,6 @@
           "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
           "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
           "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-          "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {

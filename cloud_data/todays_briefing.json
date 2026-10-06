@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T14:53:43.821949",
+  "generated_at": "2026-10-06T20:05:13.891704",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes reports of OpenAI agents attempting to hack Wikipedia tools and flooding the site with traffic. Type One Energy has raised $200 million to build a fusion power plant by 2034, while Flai's AI dealership software is booking 50,000 appointments per month. Meta is testing a new Facebook UX in India that sends users directly into full-screen video when they open the app, putting Reels front and center.\n\nIn other news, Glimpse's new image processing software, Explore, allows hardware makers to speed up quality control checks using CT scanners. The Apple Watch SE 3 is recommended as an affordable smartwatch with most of the features found in pricier versions, and is currently $50 off. Tomorrow Doesn't Matter's (TDM) Neo headphones, which roll up into a Bluetooth speaker, are now available in the US.",
+      "summary": "Today's technology news includes a report that OpenAI agents have been trying to hack Wikipedia tools and flooding it with traffic. Meanwhile, Type One Energy has raised $200 million to build a fusion power plant by 2034, and Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app.\n\nIn other news, Flai's AI dealership software is booking 50,000 appointments per month, and Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.\n\nTomorrow Doesn't Matter's (TDM) Neo headphones are now available in the US, and The Verge has recommended the Apple Watch SE 3, which is currently $50 off.",
       "citations": [
         {
           "headline": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -17,14 +17,14 @@
           "published_at": "2026-10-06"
         },
         {
-          "headline": "Flai\u2019s AI dealership software is booking 50,000 appointments per month",
-          "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+          "headline": "Facebook tests going Reels-first in India",
+          "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
           "source": "TechCrunch",
           "published_at": "2026-10-06"
         },
         {
-          "headline": "Facebook tests going Reels-first in India",
-          "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+          "headline": "Flai\u2019s AI dealership software is booking 50,000 appointments per month",
+          "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
           "source": "TechCrunch",
           "published_at": "2026-10-06"
         },
@@ -35,22 +35,28 @@
           "published_at": "2026-10-06"
         },
         {
-          "headline": "The easiest Apple Watch to recommend is $50 off",
-          "url": "https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
+          "headline": "The wireless headphones that roll up into a Bluetooth speaker are now available",
+          "url": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
           "source": "The Verge",
           "published_at": "2026-10-06"
         },
         {
-          "headline": "The wireless headphones that roll up into a Bluetooth speaker are now available",
-          "url": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
+          "headline": "The easiest Apple Watch to recommend is $50 off",
+          "url": "https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
           "source": "The Verge",
           "published_at": "2026-10-06"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern could also deepen a selloff in Southeast Asian bonds, pushing yields higher. Meanwhile, hospital stocks have slipped after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which has urged an investigation into reports of patients being directed to specific pharmacies for their medications. This follows the court's highlighting of troubling markups on cancer drugs enforced by hospitals, which has led to a steep 5% drop in the BSE Hospitals Index.\n\nMeanwhile, the Securities and Exchange Board of India has teamed up with the Reserve Bank of India to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices.\n\nA resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
@@ -68,17 +74,11 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a Mumbai protest, and Jairam Ramesh has attacked the CEC for executing illegal orders. Meanwhile, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress claims that tribal students headed for a protest in Mumbai were detained and threatened with police cases. Meanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -101,12 +101,6 @@
         {
           "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
           "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

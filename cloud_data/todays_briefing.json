@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-10-05T18:08:09.691504",
+  "generated_at": "2026-10-06T00:41:12.428238",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes:\n- OpenAI is adding more ads to ChatGPT.\n- Norway is cracking down on AI glasses that can record bystanders.\n- A new open-source tool allows users to delete 12GB of Apple Intelligence data on macOS.\n- Safeworld is building digital humans to ensure robots don't harm real people.\n- New forensic evidence supports the theory of Egyptian \"retainer sacrifice\".\n- Ars Technica has published a guide to new keyboard sensing technologies.\n- Sen. Adam Schiff, a Democrat from California, is discussing AI regulation, free speech, and impeaching Trump.",
+      "summary": "Today's most important technology news includes a new forensic analysis of First Dynasty mass burials, which has found signs of fatal blunt force trauma on 39% of skulls. OpenAI is introducing more ads into ChatGPT, which will appear when users generate images. Norway is cracking down on AI glasses that can record bystanders, and an open-source tool has been released that allows users to delete 12GB of Apple Intelligence data on macOS.",
       "citations": [
+        {
+          "headline": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+          "source": "Ars Technica",
+          "published_at": "2026-10-05"
+        },
         {
           "headline": "OpenAI is sticking more ads in ChatGPT",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
@@ -21,35 +27,11 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
           "source": "The Verge",
           "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-          "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-          "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-          "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-          "source": "The Verge",
-          "published_at": "2026-10-05"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. The BSE Hospitals Index faced a steep 5% drop after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals. Market experts have shared their top stock picks for 1 October.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. The India Market Access portal launched in September 2025 as a significant step forward in this initiative.\n\nHowever, global uncertainty has impacted the market, with benchmark indices facing a decline and investor sentiment remaining cautious. The Nifty index is under pressure, with 22,600 acting as a significant support level.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling that highlighted troubling markups on cancer drugs enforced by hospitals.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -58,8 +40,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -68,23 +50,11 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Raja Venkatraman recommends two stocks for 1 October",
-          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stock recommendations for 1 October from MarketSmith India",
-          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Congress has condemned the detention of tribal students headed for a protest in Mumbai, and Jairam Ramesh has attacked the CEC for his ability to execute G2's illegal orders.\n\nDonald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen.\n\nFinally, India's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, and Jairam Ramesh has attacked the CEC for executing illegal orders. Meanwhile, Donald Trump has called the US electoral process 'corrupt' by citing a non-existent Indian election, possibly confusing it with Brazil's presidential election.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -120,18 +90,6 @@
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
-          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

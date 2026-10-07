@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T14:26:22.785678",
+  "generated_at": "2026-10-07T20:32:23.198252",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes Google's announcement of Playground, a browser-based platform for creating custom games with AI, as well as updates to its Pixel Buds 2A and Pro 2. Spotify is expanding its audiobook offerings to over 180 markets, with 350,000 titles in 120 languages. Microsoft is hosting an event in San Francisco to discuss the future of Windows and Surface, with a focus on local AI. Amazon's Prime Big Deal Days sale continues, offering discounts on tech products from various brands. AI is also making waves in food delivery, with startups like Bites challenging established players like DoorDash.",
+      "summary": "Today's technology news includes Google's announcement of Playground, a new browser-based platform for making custom games from AI prompts, and an update to its Pixel Buds 2A and Pro 2 earbuds, which will now feature sleep detection. Spotify is expanding its audiobook offering to over 180 markets, with 350,000 titles available in over 120 languages. Microsoft is set to reveal what's coming next for Windows and Surface, with a focus on local AI. Amazon's Prime Big Deal Days event is ongoing, with fresh discounts on tech products from Apple, Sony, Google, and more.",
       "citations": [
         {
           "headline": "Google now lets you make games with AI",
@@ -33,21 +33,21 @@
           "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
           "source": "The Verge",
           "published_at": "2026-10-07"
-        },
-        {
-          "headline": "AI could upend food delivery",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-          "source": "The Verge",
-          "published_at": "2026-10-07"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as investors approach October with high crude oil prices, increasing bond yields, and continued foreign selling. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, and the Nifty index is under pressure, with 22,600 acting as a significant support level.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals.",
+      "summary": "The Securities and Exchange Board of India has joined forces with the Reserve Bank of India to streamline regulatory procedures and attract foreign portfolio investors. However, the market is facing challenges due to global uncertainty, rising oil prices, and high bond yields. A resurgent El Ni\u00f1o pattern could further impact Southeast Asian bonds, pushing yields higher. In India, hospital stocks slipped after the Supreme Court questioned steep markups on cancer drugs, resulting in a 5% drop in the BSE Hospitals Index.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -64,9 +64,9 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
-          "source": "Economic Times Markets",
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
@@ -78,7 +78,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court is to list a plea to allow peaceful protests to Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nIn other news, Donald Trump has cited an Indian election that didn't happen to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, claiming that his ability to 'execute G2's illegal orders' makes him a liability for the country. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week. Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, and Jairam Ramesh has attacked the CEC for executing illegal orders. Meanwhile, Donald Trump has called the US electoral process 'corrupt', citing a non-existent Indian election.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -105,27 +105,15 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
           "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
-          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
-          "source": "NDTV India News",
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "source": "The Hindu National",
           "published_at": "2026-10-05"
         }
       ]

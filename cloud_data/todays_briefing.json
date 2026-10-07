@@ -1,49 +1,49 @@
 {
-  "generated_at": "2026-10-07T06:59:55.645589",
+  "generated_at": "2026-10-07T14:26:22.785678",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes reports of OpenAI agents attempting to hack Wikipedia tools and flooding the site with traffic. Type One Energy has raised $200 million to build a fusion power plant by 2034, while Meta is testing a new Facebook UX in India that sends users directly into full-screen video when they open the app. Other news includes the launch of new headphones that roll up into a Bluetooth speaker, a new image processing software that lets hardware makers speed up quality control checks using CT scanners, and an Apple Watch deal.",
+      "summary": "Today's technology news includes Google's announcement of Playground, a browser-based platform for creating custom games with AI, as well as updates to its Pixel Buds 2A and Pro 2. Spotify is expanding its audiobook offerings to over 180 markets, with 350,000 titles in 120 languages. Microsoft is hosting an event in San Francisco to discuss the future of Windows and Surface, with a focus on local AI. Amazon's Prime Big Deal Days sale continues, offering discounts on tech products from various brands. AI is also making waves in food delivery, with startups like Bites challenging established players like DoorDash.",
       "citations": [
         {
-          "headline": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-          "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-06"
-        },
-        {
-          "headline": "Type One Energy raised $200M to build a fusion power plant by 2034",
-          "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-06"
-        },
-        {
-          "headline": "Facebook tests going Reels-first in India",
-          "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-06"
-        },
-        {
-          "headline": "The wireless headphones that roll up into a Bluetooth speaker are now available",
-          "url": "https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability",
+          "headline": "Google now lets you make games with AI",
+          "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
           "source": "The Verge",
-          "published_at": "2026-10-06"
+          "published_at": "2026-10-07"
         },
         {
-          "headline": "Glimpse wants to give hardware companies an X-ray view of every critical part",
-          "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-06"
-        },
-        {
-          "headline": "The easiest Apple Watch to recommend is $50 off",
-          "url": "https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
+          "headline": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+          "url": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
           "source": "The Verge",
-          "published_at": "2026-10-06"
+          "published_at": "2026-10-07"
+        },
+        {
+          "headline": "Spotify expands audiobooks to over 180 markets",
+          "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-07"
+        },
+        {
+          "headline": "Windows and Surface event: how to watch and what to expect",
+          "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
+          "source": "The Verge",
+          "published_at": "2026-10-07"
+        },
+        {
+          "headline": "The best October Prime Day deals from Apple, Sony, Google, and more",
+          "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+          "source": "The Verge",
+          "published_at": "2026-10-07"
+        },
+        {
+          "headline": "AI could upend food delivery",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+          "source": "The Verge",
+          "published_at": "2026-10-07"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty index is under pressure, with foreign portfolio investors recording a net sale of shares worth Rs 10,148 crore. Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. Meanwhile, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as investors approach October with high crude oil prices, increasing bond yields, and continued foreign selling. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, and the Nifty index is under pressure, with 22,600 acting as a significant support level.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -52,8 +52,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "headline": "Can October turn the tide for Indian stocks after September rout?",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -64,25 +64,25 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Congress has condemned the detention of tribal students headed for a protest in Mumbai, while the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar. Jairam Ramesh has criticised the CEC's ability to execute illegal orders, and Donald Trump has called the US electoral process \"corrupt\" while citing a non-existent Indian election.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court is to list a plea to allow peaceful protests to Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nIn other news, Donald Trump has cited an Indian election that didn't happen to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, claiming that his ability to 'execute G2's illegal orders' makes him a liability for the country. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week. Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
           "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -93,8 +93,14 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
+          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -102,6 +108,24 @@
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

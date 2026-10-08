@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-08T00:49:40.448200",
+  "generated_at": "2026-10-08T07:07:28.298349",
   "sections": {
     "technology": {
-      "summary": "Today, Spotify announced that it will expand its audiobook offering to over 180 markets, making 350,000 titles available in over 120 languages. Google has also been busy, announcing a new browser-based platform for making custom games from AI prompts, as well as detailing an update to its Pixel Buds 2A and Pro 2 earbuds. Meanwhile, Microsoft is heading to San Francisco to reveal what's next for Windows and Surface, and Amazon's Prime Big Deal Days event is in full swing.",
+      "summary": "Today's technology news includes Microsoft's new AI-friendly hardware and Windows changes, India's rejection of Elon Musk's claim of discrimination over Starlink launch, Spotify's expansion of audiobooks to over 180 markets, Amazon's Prime Big Deal Days event, AI's potential impact on food delivery, Google's new Pixel Buds update, and the company's launch of Playground, a browser-based platform for making custom games from AI prompts.",
       "citations": [
+        {
+          "headline": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "source": "Ars Technica",
+          "published_at": "2026-10-08"
+        },
+        {
+          "headline": "India rejects Elon Musk\u2019s claim of discrimination over Starlink launch",
+          "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-08"
+        },
         {
           "headline": "Spotify expands audiobooks to over 180 markets",
           "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
@@ -11,8 +23,14 @@
           "published_at": "2026-10-07"
         },
         {
-          "headline": "Google now lets you make games with AI",
-          "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+          "headline": "The best October Prime Day deals from Apple, Sony, Google, and more",
+          "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+          "source": "The Verge",
+          "published_at": "2026-10-07"
+        },
+        {
+          "headline": "AI could upend food delivery",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
           "source": "The Verge",
           "published_at": "2026-10-07"
         },
@@ -23,21 +41,15 @@
           "published_at": "2026-10-07"
         },
         {
-          "headline": "Windows and Surface event: how to watch and what to expect",
-          "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
-          "source": "The Verge",
-          "published_at": "2026-10-07"
-        },
-        {
-          "headline": "The best October Prime Day deals from Apple, Sony, Google, and more",
-          "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+          "headline": "Google now lets you make games with AI",
+          "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
           "source": "The Verge",
           "published_at": "2026-10-07"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to make it easier for foreign portfolio investors to enter the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern is threatening to push yields higher as rising US Treasury rates and oil prices squeeze regional debt. The Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, leading to a steep 5% drop in the BSE Hospitals Index.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points, reaching 22,620.45. In other news, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. This has led to a 5% drop in the BSE Hospitals Index, causing notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -52,12 +64,6 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
@@ -66,7 +72,7 @@
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence, and the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and condemned the action, while the Delhi Police have responded to protests at Jantar Mantar by stating that there were no instructions for cops without name tags. In other news, former US President Trump has cited a non-existent Indian election to call the US electoral process 'corrupt', and India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Congress has claimed that tribal students headed for a protest in Mumbai were detained, and Jairam Ramesh has attacked the CEC, calling him a liability for the country.\n\nFormer US President Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt', and India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week.\n\nFinally, Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -81,15 +87,21 @@
           "published_at": "2026-10-05"
         },
         {
+          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
+          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
           "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
-          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
-          "source": "NDTV India News",
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
@@ -101,6 +113,12 @@
         {
           "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
           "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         }

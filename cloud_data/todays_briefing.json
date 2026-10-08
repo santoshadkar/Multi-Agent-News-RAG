@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-10-07T20:32:23.198252",
+  "generated_at": "2026-10-08T00:49:40.448200",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes Google's announcement of Playground, a new browser-based platform for making custom games from AI prompts, and an update to its Pixel Buds 2A and Pro 2 earbuds, which will now feature sleep detection. Spotify is expanding its audiobook offering to over 180 markets, with 350,000 titles available in over 120 languages. Microsoft is set to reveal what's coming next for Windows and Surface, with a focus on local AI. Amazon's Prime Big Deal Days event is ongoing, with fresh discounts on tech products from Apple, Sony, Google, and more.",
+      "summary": "Today, Spotify announced that it will expand its audiobook offering to over 180 markets, making 350,000 titles available in over 120 languages. Google has also been busy, announcing a new browser-based platform for making custom games from AI prompts, as well as detailing an update to its Pixel Buds 2A and Pro 2 earbuds. Meanwhile, Microsoft is heading to San Francisco to reveal what's next for Windows and Surface, and Amazon's Prime Big Deal Days event is in full swing.",
       "citations": [
+        {
+          "headline": "Spotify expands audiobooks to over 180 markets",
+          "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-07"
+        },
         {
           "headline": "Google now lets you make games with AI",
           "url": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
@@ -14,12 +20,6 @@
           "headline": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
           "url": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
           "source": "The Verge",
-          "published_at": "2026-10-07"
-        },
-        {
-          "headline": "Spotify expands audiobooks to over 180 markets",
-          "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-          "source": "TechCrunch",
           "published_at": "2026-10-07"
         },
         {
@@ -37,23 +37,11 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India has joined forces with the Reserve Bank of India to streamline regulatory procedures and attract foreign portfolio investors. However, the market is facing challenges due to global uncertainty, rising oil prices, and high bond yields. A resurgent El Ni\u00f1o pattern could further impact Southeast Asian bonds, pushing yields higher. In India, hospital stocks slipped after the Supreme Court questioned steep markups on cancer drugs, resulting in a 5% drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to make it easier for foreign portfolio investors to enter the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern is threatening to push yields higher as rising US Treasury rates and oil prices squeeze regional debt. The Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, leading to a steep 5% drop in the BSE Hospitals Index.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -78,7 +66,7 @@
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, and Jairam Ramesh has attacked the CEC for executing illegal orders. Meanwhile, Donald Trump has called the US electoral process 'corrupt', citing a non-existent Indian election.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence, and the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and condemned the action, while the Delhi Police have responded to protests at Jantar Mantar by stating that there were no instructions for cops without name tags. In other news, former US President Trump has cited a non-existent Indian election to call the US electoral process 'corrupt', and India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -93,27 +81,27 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
-          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
           "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-          "source": "The Hindu National",
+          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
+          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

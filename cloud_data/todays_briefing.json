@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T15:56:46.752319",
+  "generated_at": "2026-10-09T20:42:29.769742",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes Microsoft's decision to allow Microsoft 365 Family and Premium subscribers to share AI benefits, as well as the company's dispute with the US over alleged immigration rule abuse. OpenAI is standing firm on its decision to fire three AI safety researchers, while Meta has banned ads from TikTok's parent company ByteDance across the US and several other countries. Google's new operating system, Googlebook, has received mixed reviews, with praise for its hardware but criticism of its software. Meanwhile, Instinct, an AI agent startup, has gained buzz for its text message-based interface. TechCrunch Disrupt 2026 is also underway, featuring various networking events and startup showcases in San Francisco.",
+      "summary": "Today's technology news includes Microsoft's decision to allow Microsoft 365 Family and Premium subscribers to share AI benefits, as well as the company's dispute with the US government over alleged immigration rule abuse. OpenAI has defended its decision to fire three AI safety researchers, while Meta has banned ads from TikTok's parent company ByteDance across the US and several other countries. Google's new operating system has received mixed reviews, with praise for its hardware but criticism of its software. President Donald Trump has attempted to rebrand AI, and TechCrunch Disrupt 2026 is underway in San Francisco.",
       "citations": [
         {
           "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
@@ -35,8 +35,8 @@
           "published_at": "2026-10-09"
         },
         {
-          "headline": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
-          "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+          "headline": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+          "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
           "source": "The Verge",
           "published_at": "2026-10-09"
         },
@@ -49,7 +49,7 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate the entry of foreign portfolio investors into the market. This comes amid a challenging market landscape characterized by high crude oil prices, rising bond yields, and persistent foreign selling. In other news, a resurgent El Ni\u00f1o pattern may exacerbate the selloff in Southeast Asian bonds, potentially driving up yields as US Treasury rates and oil prices rise. Meanwhile, Indian hospital stocks have taken a hit following a Supreme Court ruling on steep cancer drug markups, with the BSE Hospitals Index dropping 5%.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as investors approach October, which is historically a positive month for market returns, but recent downturns could challenge this pattern. Benchmark indices have faced a decline as global uncertainty impacts the market and investor sentiment remains cautious. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -64,21 +64,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, while Jairam Ramesh has attacked the CEC for executing illegal orders. Former US President Donald Trump has called the US electoral process 'corrupt', citing a non-existent Indian election. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained.\n\nMeanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -105,14 +105,14 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

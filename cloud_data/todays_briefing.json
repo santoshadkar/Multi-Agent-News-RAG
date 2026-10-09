@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-09T01:50:37.205034",
+  "generated_at": "2026-10-09T08:40:19.957226",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of a $30 million funding round for AI-native software startup Vesta, led by Conversion Capital. Uber and China's Pony.ai plan to launch robotaxis in London, while Nvidia aims to make robotaxis and humanoid robots safer with physical AI. Microsoft has debuted new AI-friendly hardware and Windows changes, and Google has released a new local-first Granola competitor. China's Manus has raised over $500 million in its first funding round since splitting with Meta, and India has rejected Elon Musk's claim of discrimination over the Starlink launch. In gaming news, GTA VI leaks continue with a lengthy gameplay video featuring a naked Jason running around Vice City.",
+      "summary": "Today's most important technology news includes Microsoft's announcement that it will allow Microsoft 365 Family and Premium subscribers to share AI benefits, including Copilot and AI usage features, alongside access to Office apps and OneDrive storage. This follows the debut of new AI-friendly hardware and Windows changes at a Microsoft event.\n\nIn other news, India has rejected Elon Musk's claim of discrimination over the Starlink launch, while Uber and China's Pony.ai plan to launch robotaxis in London.\n\nVesta, an AI-native software startup, has raised $30 million to bring swarms of agents to mortgage lenders, and China's Manus has raised over $500 million in its first funding round since splitting with Meta.\n\nFinally, GTA VI leaks continue with a lengthy (and very nude) gameplay video.",
       "citations": [
         {
-          "headline": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-          "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+          "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+          "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+          "source": "The Verge",
+          "published_at": "2026-10-09"
+        },
+        {
+          "headline": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "source": "Ars Technica",
+          "published_at": "2026-10-08"
+        },
+        {
+          "headline": "India rejects Elon Musk\u2019s claim of discrimination over Starlink launch",
+          "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
           "source": "TechCrunch",
           "published_at": "2026-10-08"
         },
@@ -17,32 +29,14 @@
           "published_at": "2026-10-08"
         },
         {
-          "headline": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-          "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-08"
-        },
-        {
-          "headline": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-08"
-        },
-        {
-          "headline": "Google releases a new local-first Granola competitor",
-          "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+          "headline": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+          "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
           "source": "TechCrunch",
           "published_at": "2026-10-08"
         },
         {
           "headline": "China\u2019s Manus raises over $500M in first funding round since split with Meta",
           "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-08"
-        },
-        {
-          "headline": "India rejects Elon Musk\u2019s claim of discrimination over Starlink launch",
-          "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
           "source": "TechCrunch",
           "published_at": "2026-10-08"
         },
@@ -55,7 +49,7 @@
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. Benchmark indices also faced a decline as global uncertainty impacted the market and investor sentiment remained cautious. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to enhance regulatory procedures and make it easier for foreign portfolio investors to enter the market. In a landmark ruling, the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals, leading to a steep drop in the BSE Hospitals Index and notable losses for industry giants.",
+      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate foreign portfolio investors' entry into the market. A resurgent El Ni\u00f1o pattern may exacerbate the selloff in Southeast Asian bonds, pushing yields higher amid rising US Treasury rates and oil prices. The Supreme Court of India's landmark ruling on hospital markups for cancer drugs resulted in a 5% drop in the BSE Hospitals Index, impacting major players like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
           "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
@@ -64,15 +58,15 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
-          "source": "Economic Times Markets",
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
@@ -84,7 +78,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students who were headed to Mumbai to protest. Jairam Ramesh has attacked the CEC, claiming his ability to execute illegal orders makes him a liability for the country. Meanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests to Jantar Mantar. Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, claiming his ability to execute G2's illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -105,8 +99,8 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -117,9 +111,15 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
-          "source": "The Hindu National",
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

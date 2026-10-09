@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-09T08:40:19.957226",
+  "generated_at": "2026-10-09T15:56:46.752319",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes Microsoft's announcement that it will allow Microsoft 365 Family and Premium subscribers to share AI benefits, including Copilot and AI usage features, alongside access to Office apps and OneDrive storage. This follows the debut of new AI-friendly hardware and Windows changes at a Microsoft event.\n\nIn other news, India has rejected Elon Musk's claim of discrimination over the Starlink launch, while Uber and China's Pony.ai plan to launch robotaxis in London.\n\nVesta, an AI-native software startup, has raised $30 million to bring swarms of agents to mortgage lenders, and China's Manus has raised over $500 million in its first funding round since splitting with Meta.\n\nFinally, GTA VI leaks continue with a lengthy (and very nude) gameplay video.",
+      "summary": "Today's most important technology news includes Microsoft's decision to allow Microsoft 365 Family and Premium subscribers to share AI benefits, as well as the company's dispute with the US over alleged immigration rule abuse. OpenAI is standing firm on its decision to fire three AI safety researchers, while Meta has banned ads from TikTok's parent company ByteDance across the US and several other countries. Google's new operating system, Googlebook, has received mixed reviews, with praise for its hardware but criticism of its software. Meanwhile, Instinct, an AI agent startup, has gained buzz for its text message-based interface. TechCrunch Disrupt 2026 is also underway, featuring various networking events and startup showcases in San Francisco.",
       "citations": [
         {
           "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
@@ -11,55 +11,55 @@
           "published_at": "2026-10-09"
         },
         {
-          "headline": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "headline": "Microsoft barred from sponsoring foreign workers for US residency",
+          "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
           "source": "Ars Technica",
-          "published_at": "2026-10-08"
+          "published_at": "2026-10-09"
         },
         {
-          "headline": "India rejects Elon Musk\u2019s claim of discrimination over Starlink launch",
-          "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-08"
-        },
-        {
-          "headline": "Uber and China\u2019s Pony.ai plan to launch robotaxis in London",
-          "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-08"
-        },
-        {
-          "headline": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-          "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-08"
-        },
-        {
-          "headline": "China\u2019s Manus raises over $500M in first funding round since split with Meta",
-          "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-08"
-        },
-        {
-          "headline": "GTA VI leaks continue with a lengthy (and very nude) gameplay video",
-          "url": "https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked",
+          "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
           "source": "The Verge",
-          "published_at": "2026-10-08"
+          "published_at": "2026-10-09"
+        },
+        {
+          "headline": "Meta is banning TikTok ads across its platforms",
+          "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
+          "source": "The Verge",
+          "published_at": "2026-10-09"
+        },
+        {
+          "headline": "A week with Googlebooks: four notes from our testing so far",
+          "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
+          "source": "The Verge",
+          "published_at": "2026-10-09"
+        },
+        {
+          "headline": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
+          "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+          "source": "The Verge",
+          "published_at": "2026-10-09"
+        },
+        {
+          "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can\u2019t Miss",
+          "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-09"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate foreign portfolio investors' entry into the market. A resurgent El Ni\u00f1o pattern may exacerbate the selloff in Southeast Asian bonds, pushing yields higher amid rising US Treasury rates and oil prices. The Supreme Court of India's landmark ruling on hospital markups for cancer drugs resulted in a 5% drop in the BSE Hospitals Index, impacting major players like Apollo Hospitals and Fortis Healthcare.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate the entry of foreign portfolio investors into the market. This comes amid a challenging market landscape characterized by high crude oil prices, rising bond yields, and persistent foreign selling. In other news, a resurgent El Ni\u00f1o pattern may exacerbate the selloff in Southeast Asian bonds, potentially driving up yields as US Treasury rates and oil prices rise. Meanwhile, Indian hospital stocks have taken a hit following a Supreme Court ruling on steep cancer drug markups, with the BSE Hospitals Index dropping 5%.",
       "citations": [
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Can October turn the tide for Indian stocks after September rout?",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -78,7 +78,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests to Jantar Mantar. Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, claiming his ability to execute G2's illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, while Jairam Ramesh has attacked the CEC for executing illegal orders. Former US President Donald Trump has called the US electoral process 'corrupt', citing a non-existent Indian election. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -99,14 +99,20 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
           "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
           "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

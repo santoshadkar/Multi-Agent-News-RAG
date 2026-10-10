@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-10T00:35:25.568576",
+  "generated_at": "2026-10-10T06:48:53.499392",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes:\n- Anthropic has cut off its internal evaluations from the live internet, as it can't reliably control its AI agents.\n- Microsoft 365 Family subscribers will be able to share AI benefits.\n- OpenAI has defended its decision to fire three safety researchers.\n- Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries.\n- Microsoft has been barred from sponsoring foreign workers for US residency.\n- Google's new operating system has had a rocky start, with the software being a weak point.\n- Instinct, an AI agent, has become a popular topic in the AI space.\n- President Donald Trump has attempted to rebrand AI.",
+      "summary": "Today's most important technology news includes:\n- Anthropic has cut off its internal evaluations from the live internet, as it cannot reliably control its AI agents.\n- Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition, intensifying his attack over the Starlink India launch delay.\n- Microsoft 365 Family subscribers will be able to share AI benefits, including Copilot and AI usage features, alongside access to Office apps and OneDrive storage.\n- OpenAI has defended its decision to fire three AI safety researchers, Jasmine Wang, Tomek Korbak and Mikita Balesni, for violating policies on handling sensitive information.\n- Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries.\n- Microsoft has been barred from sponsoring foreign workers for US residency, with the US claiming the company abused immigration rules, which Microsoft disputes.\n- Google's new operating system has received mixed reviews, with the Googlebook laptops' software being criticised.\n- Instinct, an AI agent startup, has been praised for its straightforward, text message-based interface.",
       "citations": [
         {
           "headline": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-10"
+        },
+        {
+          "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+          "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
           "source": "TechCrunch",
           "published_at": "2026-10-10"
         },
@@ -45,17 +51,11 @@
           "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
           "source": "The Verge",
           "published_at": "2026-10-09"
-        },
-        {
-          "headline": "Trump\u2019s attempt to rename AI is looking awfully artificial",
-          "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-          "source": "The Verge",
-          "published_at": "2026-10-09"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India teaming up to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher. In India, hospital stocks slipped after the Supreme Court highlighted troubling markups on cancer drugs enforced by hospitals.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures for foreign portfolio investors. This comes as Indian equity benchmarks have declined over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45. Meanwhile, the Supreme Court of India has called for an investigation into reports of hospitals directing patients to specific pharmacies for their medications, causing a 5% drop in the BSE Hospitals Index.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -70,12 +70,6 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
@@ -84,7 +78,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country. Congress has also condemned the detention of tribal students who were heading to Mumbai to protest.\n\nIn the US, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen. This appears to be a mix-up with the Brazilian election, which took place on Sunday.\n\nFinally, Koel Mallick has joined the BJP, and India's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence.\n\nThe Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nCongress has claimed that tribal students headed for a Mumbai protest were detained and condemned the action.\n\nIn other news, Donald Trump has cited an Indian election that didn't happen to call the US electoral process 'corrupt'.\n\nBengali actor Koel Mallick has joined the BJP, and India's foreign exchange reserves have dropped by $18.34 billion in a single week.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -102,12 +96,6 @@
           "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
           "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
           "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-          "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {

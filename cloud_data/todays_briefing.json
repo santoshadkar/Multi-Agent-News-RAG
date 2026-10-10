@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-10-10T18:18:59.962410",
+  "generated_at": "2026-10-10T22:19:26.638201",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a review of the Telo MT1, America's smallest electric truck, which has a cab-over design and is said to turn heads. LG has released a 75-inch RGB LED TV, but the article suggests that OLEDs are still better. Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition, and Anthropic has turned off live internet access for all internal evaluations until further notice.\n\nOther articles include a review of an AI bird feeder, a list of AI agents that can live in text messages, and a report on AI agent makers promising privacy.",
+      "summary": "Today's most important technology news includes Elon Musk's intensifying attack on Indian billionaire Mukesh Ambani over the Starlink India launch delay, and Anthropic's decision to cut off its internal evaluations from the live internet due to its inability to reliably control its AI agents. Additionally, OpenAI unveiled its new AI agent Dots at OpenAI DevDay, promising to set a new standard for privacy in frontier AI. Other notable stories include the review of the Telo MT1, America's smallest electric truck, and the LG MRGB95B RGB LED TV, which is good for certain situations but not as good as an OLED.",
       "citations": [
-        {
-          "headline": "The Telo MT1 is a big truck trapped in a tiny truck\u2019s body",
-          "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-          "source": "The Verge",
-          "published_at": "2026-10-10"
-        },
-        {
-          "headline": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
-          "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-          "source": "The Verge",
-          "published_at": "2026-10-10"
-        },
         {
           "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
           "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
@@ -29,27 +17,27 @@
           "published_at": "2026-10-10"
         },
         {
-          "headline": "My brief romance with an AI bird feeder",
-          "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+          "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
           "source": "The Verge",
           "published_at": "2026-10-10"
         },
         {
-          "headline": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "source": "TechCrunch",
+          "headline": "The Telo MT1 is a big truck trapped in a tiny truck\u2019s body",
+          "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+          "source": "The Verge",
           "published_at": "2026-10-10"
         },
         {
-          "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+          "headline": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
+          "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
           "source": "The Verge",
           "published_at": "2026-10-10"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The launch of the India Market Access portal in September 2025 marked a significant step forward in this initiative.\n\nHowever, global uncertainty has impacted the market and investor sentiment remains cautious. Benchmark indices faced a decline, with the Nifty index under pressure. Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices.\n\nIn other news, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nFinally, hospital stocks slipped after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The launch of the India Market Access portal in September 2025 marked a significant step forward in this initiative.\n\nHowever, global uncertainty has impacted the market and investor sentiment remains cautious. Benchmark indices have faced a decline, with the Nifty index under pressure. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nA resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nIn a landmark ruling, the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. Following this announcement, the BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -84,7 +72,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress claims that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nMeanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC for executing illegal orders, while Koel Mallick has joined the BJP. India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence, as well as the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has claimed that tribal students headed for a protest in Mumbai were detained, while the Delhi Police have responded to criticism of cops without name tags at the Jantar Mantar protest. Meanwhile, former US President Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -99,39 +87,21 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
-          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
           "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
+          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
+          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
-          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

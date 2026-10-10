@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T13:24:32.243601",
+  "generated_at": "2026-10-10T18:18:59.962410",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a review of the Telo MT1, America's smallest electric truck, which is said to turn heads due to its unique design. LG has released a 75-inch RGB LED TV, but the article argues that OLEDs are still superior. Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition, while Anthropic has cut off its internal evaluations from the live internet due to concerns over controlling its AI agents.",
+      "summary": "Today's technology news includes a review of the Telo MT1, America's smallest electric truck, which has a cab-over design and is said to turn heads. LG has released a 75-inch RGB LED TV, but the article suggests that OLEDs are still better. Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition, and Anthropic has turned off live internet access for all internal evaluations until further notice.\n\nOther articles include a review of an AI bird feeder, a list of AI agents that can live in text messages, and a report on AI agent makers promising privacy.",
       "citations": [
         {
           "headline": "The Telo MT1 is a big truck trapped in a tiny truck\u2019s body",
@@ -27,21 +27,39 @@
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
           "source": "TechCrunch",
           "published_at": "2026-10-10"
+        },
+        {
+          "headline": "My brief romance with an AI bird feeder",
+          "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+          "source": "The Verge",
+          "published_at": "2026-10-10"
+        },
+        {
+          "headline": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-10"
+        },
+        {
+          "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+          "source": "The Verge",
+          "published_at": "2026-10-10"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which has urged a probe into reports of hospitals directing patients to specific pharmacies for their medications, leading to a steep 5% drop in the BSE Hospitals Index.\n\nThe Securities and Exchange Board of India has teamed up with the Reserve Bank of India to make it easier for foreign portfolio investors to enter the market, with the launch of the India Market Access portal in September 2025.\n\nIndian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points, reaching 22,620.45.\n\nA resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The launch of the India Market Access portal in September 2025 marked a significant step forward in this initiative.\n\nHowever, global uncertainty has impacted the market and investor sentiment remains cautious. Benchmark indices faced a decline, with the Nifty index under pressure. Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices.\n\nIn other news, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nFinally, hospital stocks slipped after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
       "citations": [
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -56,11 +74,17 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students who were heading to Mumbai to protest, seeking the resignation of the tribal development minister and the department's commissioner.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that didn't happen. This appears to be a mix-up with Brazil, which held the first round of its presidential election on Sunday.\n\nBengali actor Koel Mallick has joined the BJP, and Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly declined by $18.34 billion in a single week.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress claims that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nMeanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC for executing illegal orders, while Koel Mallick has joined the BJP. India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -93,15 +117,15 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
-          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
           "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {

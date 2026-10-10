@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-10-10T06:48:53.499392",
+  "generated_at": "2026-10-10T13:24:32.243601",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes:\n- Anthropic has cut off its internal evaluations from the live internet, as it cannot reliably control its AI agents.\n- Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition, intensifying his attack over the Starlink India launch delay.\n- Microsoft 365 Family subscribers will be able to share AI benefits, including Copilot and AI usage features, alongside access to Office apps and OneDrive storage.\n- OpenAI has defended its decision to fire three AI safety researchers, Jasmine Wang, Tomek Korbak and Mikita Balesni, for violating policies on handling sensitive information.\n- Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries.\n- Microsoft has been barred from sponsoring foreign workers for US residency, with the US claiming the company abused immigration rules, which Microsoft disputes.\n- Google's new operating system has received mixed reviews, with the Googlebook laptops' software being criticised.\n- Instinct, an AI agent startup, has been praised for its straightforward, text message-based interface.",
+      "summary": "Today's technology news includes a review of the Telo MT1, America's smallest electric truck, which is said to turn heads due to its unique design. LG has released a 75-inch RGB LED TV, but the article argues that OLEDs are still superior. Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition, while Anthropic has cut off its internal evaluations from the live internet due to concerns over controlling its AI agents.",
       "citations": [
         {
-          "headline": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-          "source": "TechCrunch",
+          "headline": "The Telo MT1 is a big truck trapped in a tiny truck\u2019s body",
+          "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+          "source": "The Verge",
+          "published_at": "2026-10-10"
+        },
+        {
+          "headline": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
+          "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+          "source": "The Verge",
           "published_at": "2026-10-10"
         },
         {
@@ -17,46 +23,22 @@
           "published_at": "2026-10-10"
         },
         {
-          "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-          "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-          "source": "The Verge",
-          "published_at": "2026-10-09"
-        },
-        {
-          "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-          "source": "The Verge",
-          "published_at": "2026-10-09"
-        },
-        {
-          "headline": "Meta is banning TikTok ads across its platforms",
-          "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
-          "source": "The Verge",
-          "published_at": "2026-10-09"
-        },
-        {
-          "headline": "Microsoft barred from sponsoring foreign workers for US residency",
-          "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-09"
-        },
-        {
-          "headline": "A week with Googlebooks: four notes from our testing so far",
-          "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
-          "source": "The Verge",
-          "published_at": "2026-10-09"
-        },
-        {
-          "headline": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
-          "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-          "source": "The Verge",
-          "published_at": "2026-10-09"
+          "headline": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-10"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures for foreign portfolio investors. This comes as Indian equity benchmarks have declined over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45. Meanwhile, the Supreme Court of India has called for an investigation into reports of hospitals directing patients to specific pharmacies for their medications, causing a 5% drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which has urged a probe into reports of hospitals directing patients to specific pharmacies for their medications, leading to a steep 5% drop in the BSE Hospitals Index.\n\nThe Securities and Exchange Board of India has teamed up with the Reserve Bank of India to make it easier for foreign portfolio investors to enter the market, with the launch of the India Market Access portal in September 2025.\n\nIndian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points, reaching 22,620.45.\n\nA resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
@@ -70,15 +52,15 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence.\n\nThe Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nCongress has claimed that tribal students headed for a Mumbai protest were detained and condemned the action.\n\nIn other news, Donald Trump has cited an Indian election that didn't happen to call the US electoral process 'corrupt'.\n\nBengali actor Koel Mallick has joined the BJP, and India's foreign exchange reserves have dropped by $18.34 billion in a single week.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students who were heading to Mumbai to protest, seeking the resignation of the tribal development minister and the department's commissioner.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that didn't happen. This appears to be a mix-up with Brazil, which held the first round of its presidential election on Sunday.\n\nBengali actor Koel Mallick has joined the BJP, and Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly declined by $18.34 billion in a single week.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -114,6 +96,12 @@
           "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
           "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
           "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {

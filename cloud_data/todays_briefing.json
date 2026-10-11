@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-11T01:40:05.222766",
+  "generated_at": "2026-10-11T08:29:06.339223",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes Elon Musk's intensification of his attack on Indian billionaire Mukesh Ambani over the Starlink India launch delay, accusing him of blocking competition. Anthropic has cut off its internal evaluations from the live internet, citing its inability to reliably control its AI agents. OpenAI CEO Sam Altman unveiled the company's new AI agent Dots at OpenAI DevDay, promising to set a new standard for privacy in frontier AI.\n\nOther technology news includes the release of LG's RGB LED TV, the Telo MT1 electric truck, and AI-driven bird feeders. Additionally, a list of notable AI agents that can live in text messages has been compiled.",
+      "summary": "Today's technology news includes a review of the Telo MT1, America's smallest electric truck, which is said to turn heads with its unique design. LG's RGB LED TV is also reviewed, with the verdict that it is good for certain situations, but an OLED is better.\n\nIn other news, Elon Musk has intensified his attack on Indian billionaire Mukesh Ambani over the Starlink India launch delay, accusing him of blocking competition. Anthropic has cut off its internal evaluations from the live internet, citing an inability to reliably control its AI agents.\n\nThere is also a review of an AI bird feeder, a look at the brains of people on psychedelics, and a list of AI agents that can live in your text messages.",
       "citations": [
+        {
+          "headline": "The Telo MT1 is a big truck trapped in a tiny truck\u2019s body",
+          "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+          "source": "The Verge",
+          "published_at": "2026-10-10"
+        },
+        {
+          "headline": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
+          "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+          "source": "The Verge",
+          "published_at": "2026-10-10"
+        },
         {
           "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
           "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
@@ -17,27 +29,15 @@
           "published_at": "2026-10-10"
         },
         {
-          "headline": "AI agent makers are promising privacy \u2014 will they deliver?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-          "source": "The Verge",
-          "published_at": "2026-10-10"
-        },
-        {
-          "headline": "LG\u2019s RGB LED TV is good for certain situations, but an OLED is better",
-          "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-          "source": "The Verge",
-          "published_at": "2026-10-10"
-        },
-        {
-          "headline": "The Telo MT1 is a big truck trapped in a tiny truck\u2019s body",
-          "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
-          "source": "The Verge",
-          "published_at": "2026-10-10"
-        },
-        {
           "headline": "My brief romance with an AI bird feeder",
           "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
           "source": "The Verge",
+          "published_at": "2026-10-10"
+        },
+        {
+          "headline": "One with the world? A new look at brains transformed by psychedelics.",
+          "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+          "source": "Ars Technica",
           "published_at": "2026-10-10"
         },
         {
@@ -49,29 +49,17 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India has joined forces with the Reserve Bank of India to simplify regulatory procedures for foreign portfolio investors. This comes as the Nifty index faces pressure due to global uncertainty and investor caution, with foreign portfolio investors recording net sales of Rs 10,148 crore. Indian equity benchmarks have also declined over two sessions due to profit booking and rising oil prices, while hospital stocks have slipped following a Supreme Court of India ruling on cancer drug markups. Meanwhile, a resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which highlighted steep markups on cancer drugs enforced by hospitals, causing a 5% drop in the BSE Hospitals Index. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate foreign portfolio investors' entry into the market. Southeast Asian bonds are at risk of a selloff due to a resurgent El Ni\u00f1o pattern, while Indian equity benchmarks have declined due to profit booking and rising oil prices.",
       "citations": [
-        {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
         {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -80,11 +68,17 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court is set to list a plea to allow peaceful protests to Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. The Congress party has condemned the detention of tribal students who were heading to Mumbai to protest.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that did not happen. This appears to be a mix-up with Brazil, which held its first round of presidential elections on Sunday.\n\nIndia's foreign exchange reserves have dropped by $18.34 billion in a single week, and actor Koel Mallick has joined the BJP.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, and Jairam Ramesh has attacked the CEC for executing illegal orders. Meanwhile, Donald Trump has called the US electoral process 'corrupt', citing a non-existent Indian election, and India's foreign exchange reserves have dropped by $18.34 billion in a single week.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -111,6 +105,12 @@
           "published_at": "2026-10-05"
         },
         {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
@@ -119,12 +119,6 @@
         {
           "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
           "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
-          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         }

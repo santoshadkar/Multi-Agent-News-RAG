@@ -1,21 +1,9 @@
 {
-  "generated_at": "2026-10-11T20:02:03.378247",
+  "generated_at": "2026-10-12T00:19:03.866554",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes a discussion of the potential of local AI, as well as the challenges of voice AI. Apple's upcoming \"Welcome Home\" event is expected to feature smart home-related announcements, including refreshes to Apple TV and HomePod Mini, and a new smart home hub. In healthcare, Efferon has developed blood-purification technology to combat pediatric sepsis. Other news includes the unveiling of the full trailer for Blade Runner 2099 at NYCC, and a product that makes it easier to style and care for curly hair.",
+      "summary": "Today's most important technology news includes Apple's upcoming \"Welcome Home\" launch event, where the company is expected to announce refreshes to Apple TV and HomePod Mini, as well as a new smart home hub and platform called homeOS. Additionally, a Battlefield 200 startup called Efferon has developed blood-purification technology to save children from pediatric sepsis. In other news, TechCrunch Mobility reports that a roadblock has been cleared for self-driving trucks, and The Verge discusses the rise and fall of the LeapPad, a smart book that was once a popular toy in the United States.",
       "citations": [
-        {
-          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
-        },
-        {
-          "headline": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
-          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-11"
-        },
         {
           "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
           "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
@@ -29,22 +17,28 @@
           "published_at": "2026-10-11"
         },
         {
-          "headline": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-          "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-          "source": "Ars Technica",
+          "headline": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+          "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+          "source": "TechCrunch",
           "published_at": "2026-10-11"
         },
         {
-          "headline": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-          "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-          "source": "TechCrunch",
+          "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
+          "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+          "source": "The Verge",
           "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to streamline regulatory procedures and attract foreign portfolio investors. Meanwhile, Indian equity benchmarks have declined due to profit booking and rising oil prices, and a resurgent El Ni\u00f1o pattern may exacerbate Southeast Asian bond selloffs. In the healthcare sector, hospital stocks slipped after the Supreme Court of India called for an investigation into steep cancer drug markups.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which has urged a probe into reports of patients being directed to specific pharmacies for their medications, following troubling markups on cancer drugs enforced by hospitals. This has led to a steep 5% drop in the BSE Hospitals Index, causing notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.\n\nIn other news, the Securities and Exchange Board of India has teamed up with the Reserve Bank of India to make it easier for foreign portfolio investors to enter the market. This initiative was marked by the launch of the India Market Access portal in September 2025.\n\nIndian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nA resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
@@ -62,17 +56,11 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained, and the party has condemned the action.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week. Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country. Finally, Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained. Meanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -102,24 +90,6 @@
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
-          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

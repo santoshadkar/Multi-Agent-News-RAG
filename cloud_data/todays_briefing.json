@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T06:01:19.288501",
+  "generated_at": "2026-10-14T12:43:59.485245",
   "sections": {
     "technology": {
-      "summary": "TechCrunch Disrupt 2026 is focused on how to build an enduring company in the AI era. Microsoft has announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. Amazon has over 1 million robot workers, which raises questions about the future of human employees. Fitbit has released the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless.",
+      "summary": "Today's technology news is dominated by AI, with Microsoft announcing its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for its products and services. The chip is said to improve the cost and efficiency of running AI workloads in the cloud and handle the latest reasoning models and agentic tasks. Meanwhile, a former Plaud executive has raised $26 million for an AI app that listens to users in the background, and Amazon has over 1 million robot workers.\n\nOther news includes the launch of the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless, and Apple's upcoming \"Welcome Home\" event, where the company is expected to announce refreshes to Apple TV and HomePod Mini, as well as a new smart home hub and platform called homeOS.",
       "citations": [
         {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -11,10 +11,22 @@
           "published_at": "2026-10-12"
         },
         {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
           "source": "The Verge",
           "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
         },
         {
           "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
@@ -27,11 +39,17 @@
           "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
           "published_at": "2026-10-12"
+        },
+        {
+          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
+          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India has partnered with the Reserve Bank of India to improve regulatory procedures, particularly for foreign portfolio investors. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as US Treasury rates and oil prices rise. Market experts have shared their top stock picks for 1 October.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty 50 index closed down by 95.75 points, reaching 22,620.45, and the BSE Hospitals Index faced a 5% drop after the Supreme Court of India highlighted troubling markups on cancer drugs. Meanwhile, a resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -46,27 +64,21 @@
           "published_at": "2026-10-01"
         },
         {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
           "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Raja Venkatraman recommends two stocks for 1 October",
-          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stock recommendations for 1 October from MarketSmith India",
-          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, claiming his ability to execute illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying that his ability to execute G2's illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-15T05:40:49.388740",
+  "generated_at": "2026-10-15T11:04:28.997155",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which will make the company less reliant on Nvidia's GPUs. The Fitbit Edge has also been officially launched, offering a middle ground between the Fitbit Air and the Google Pixel Watch 5. Amazon's use of over 1 million robot workers has raised questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era.",
+      "summary": "Today's most important technology news includes the launch of the Fitbit Edge, a fitness tracker for those who want to receive notifications without a screen. Microsoft has announced its third-generation Maia in-house AI chip, which will improve the cost and efficiency of running AI workloads in the cloud. Amazon has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 is focused on building enduring companies in the AI era.\n\nOther news includes the upcoming Apple \"Welcome Home\" launch event, where smart home-related announcements are expected, and a former Plaud exec raising $26 million for an AI app that listens to users in the background.",
       "citations": [
         {
-          "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
-          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
           "source": "The Verge",
           "published_at": "2026-10-12"
         },
@@ -27,34 +27,28 @@
           "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "source": "TechCrunch",
           "published_at": "2026-10-12"
+        },
+        {
+          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
+          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
+        },
+        {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and attract foreign portfolio investors. However, global uncertainty and high crude oil prices have led to a decline in benchmark indices, with the Nifty 50 index closing down by 95.75 points. A resurgent El Ni\u00f1o pattern could further impact Southeast Asian bonds, pushing yields higher. Meanwhile, a Supreme Court ruling on hospital markups for cancer drugs has caused a 5% drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to simplify regulatory procedures for foreign portfolio investors. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. The BSE Hospitals Index faced a steep 5% drop after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals. Market experts have also shared their top stock picks for 1 October.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
@@ -68,11 +62,23 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Raja Venkatraman recommends two stocks for 1 October",
+          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Stock recommendations for 1 October from MarketSmith India",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence, and the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has claimed that tribal students headed for a Mumbai protest were detained, and the Delhi Police have responded to protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar. In other news, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that did not happen, and Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country. Congress has also claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nElsewhere, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt', while India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.\n\nFinally, Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -87,21 +93,33 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
           "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {

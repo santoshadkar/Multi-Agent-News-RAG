@@ -1,18 +1,12 @@
 {
-  "generated_at": "2026-10-16T23:20:19.520915",
+  "generated_at": "2026-10-17T03:36:47.766813",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which will make the company less reliant on Nvidia's GPUs. The Fitbit Edge, a new fitness tracker, has also been launched, offering a compromise for those who want notifications without a screen. Amazon's use of over 1 million robot workers is raising questions about the future of human employees. TechCrunch Disrupt 2026 is focusing on building enduring companies in the AI era.\n\nOther stories include a former Plaud executive raising $26 million for an AI app that listens to users in the background, and a look at the challenges of learning to use local AI. Apple's upcoming \"Welcome Home\" event is expected to feature smart home-related announcements, while the LeapPad's failure to compete with the iPad is explored.",
+      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, which will make the company less reliant on Nvidia's GPUs. Amazon has over 1 million robot workers, which raises questions about the future of human employees. A former Plaud executive has raised $26 million for an AI app that listens to users in the background. The Fitbit Edge fitness tracker has been officially announced, and Apple's \"Welcome Home\" event is expected to bring updates to Apple TV and HomePod Mini, as well as a new smart home hub.",
       "citations": [
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
           "published_at": "2026-10-12"
         },
@@ -23,39 +17,27 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
-        },
-        {
           "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
           "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch",
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
-          "published_at": "2026-10-11"
+          "published_at": "2026-10-12"
         },
         {
           "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
           "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
           "source": "The Verge",
           "published_at": "2026-10-11"
-        },
-        {
-          "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
-          "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as the Nifty 50 index closed down by 95.75 points, reaching 22,620.45, and the Nifty index is under pressure, with 22,600 acting as a significant support level. The rupee settled flat against the US dollar amidst heavy FII outflows. Meanwhile, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to make it easier for foreign portfolio investors to enter the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. The BSE Hospitals Index faced a steep 5% drop after the Supreme Court of India urged a probe into reports of patients being directed to specific pharmacies for their medications. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -70,8 +52,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -84,23 +66,11 @@
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes:\n- The Delhi High Court dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence.\n- Jairam Ramesh attacked the CEC, citing his ability to execute G2's illegal orders, which makes him a liability for the country.\n- Congress claimed that tribal students headed for a Mumbai protest were detained and condemned the action.\n- The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar.\n- Donald Trump cited an Indian election that didn't happen to call the US electoral process 'corrupt'.\n- India's foreign exchange reserves declined by USD 18.34 billion in a single week.\n- Bengali actor Koel Mallick joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
           "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -111,8 +81,26 @@
           "published_at": "2026-10-05"
         },
         {
+          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
+          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-17T03:36:47.766813",
+  "generated_at": "2026-10-17T08:22:53.105477",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, which will make the company less reliant on Nvidia's GPUs. Amazon has over 1 million robot workers, which raises questions about the future of human employees. A former Plaud executive has raised $26 million for an AI app that listens to users in the background. The Fitbit Edge fitness tracker has been officially announced, and Apple's \"Welcome Home\" event is expected to bring updates to Apple TV and HomePod Mini, as well as a new smart home hub.",
+      "summary": "Today's technology news is dominated by AI. Microsoft has announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. A former Plaud exec has raised $26 million for an AI app that listens to users in the background. Amazon now has over one million robot workers, raising questions about the future of human employees.\n\nOther news includes the launch of the Fitbit Edge, a new fitness tracker, and an upcoming Apple event, where the company is expected to announce refreshes to Apple TV and HomePod Mini, as well as a new smart home hub and platform.",
       "citations": [
+        {
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
@@ -11,15 +23,15 @@
           "published_at": "2026-10-12"
         },
         {
+          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
+        },
+        {
           "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
           "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
           "source": "Ars Technica",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-          "source": "TechCrunch",
           "published_at": "2026-10-12"
         },
         {
@@ -37,23 +49,17 @@
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to make it easier for foreign portfolio investors to enter the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. The BSE Hospitals Index faced a steep 5% drop after the Supreme Court of India urged a probe into reports of patients being directed to specific pharmacies for their medications. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher as rising US Treasury rates and oil prices squeeze regional debt.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which has urged a probe into reports of hospitals directing patients to specific pharmacies for their medications, resulting in a steep 5% drop in the BSE Hospitals Index.\n\nIn other news, the Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market.\n\nA resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nMarket experts have shared their top stock picks for 1 October.",
       "citations": [
-        {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
         {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -62,11 +68,23 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Raja Venkatraman recommends two stocks for 1 October",
+          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Stock recommendations for 1 October from MarketSmith India",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and threatened with police cases.\n\nMeanwhile, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen. Jairam Ramesh has attacked the CEC, claiming his ability to execute G2's illegal orders makes him a liability for the country. India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.\n\nFinally, Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",

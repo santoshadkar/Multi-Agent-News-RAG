@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T00:44:03.874127",
+  "generated_at": "2026-10-18T05:32:44.999429",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which will make the company less reliant on Nvidia's GPUs. Amazon now has over 1 million robot workers, raising questions about the future of human employees. Former Plaud executive has raised $26 million for an AI app that listens to users in the background. Fitbit has officially launched the Fitbit Edge, a fitness tracker for those who want notifications without a screen. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era. Apple's upcoming \"Welcome Home\" event is expected to feature smart home-related announcements, including refreshes to Apple TV and HomePod Mini, and a new smart home hub.",
+      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, which reduces its reliance on Nvidia's GPUs. Amazon's use of over 1 million robot workers is also a key topic, raising questions about the future of human employees. The Fitbit Edge, a new fitness tracker, has been officially released, and a former Plaud executive has raised $26 million for an AI app that listens to users in the background. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era, while Apple's upcoming \"Welcome Home\" event is expected to feature smart home-related announcements.",
       "citations": [
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
@@ -17,15 +17,15 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
-        },
-        {
           "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
           "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
           "published_at": "2026-10-12"
         },
         {
@@ -43,7 +43,7 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. The India Market Access portal, launched in September 2025, is a significant step in this initiative.\n\nHowever, global uncertainty has impacted the market, with benchmark indices declining and investor sentiment remaining cautious. The Nifty index is under pressure, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore.\n\nIn other news, a resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher. Indian equity benchmarks have also experienced a decline due to profit booking and rising oil prices.\n\nFinally, hospital stocks have slipped after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. The India Market Access portal launched in September 2025 as part of this initiative.\n\nHowever, global uncertainty has impacted the market and investor sentiment remains cautious. Benchmark indices have faced a decline, with the Nifty index under pressure and foreign portfolio investors recording a net sale of shares worth Rs 10,148 crore.\n\nIn other news, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, following a landmark ruling highlighting troubling markups on cancer drugs enforced by hospitals.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -58,18 +58,6 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
@@ -78,7 +66,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence.\n\nThe Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nCongress has condemned the detention of tribal students headed for a protest in Mumbai, where they were seeking the resignation of the tribal development minister and the department's commissioner.\n\nDonald Trump has called the US electoral process \"corrupt\", citing an Indian election that didn't happen.\n\nIndia's foreign exchange reserves have dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that didn't happen. Jairam Ramesh has attacked the CEC for executing \"illegal orders\". India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -107,6 +95,12 @@
         {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

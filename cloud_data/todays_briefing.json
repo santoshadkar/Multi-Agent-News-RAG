@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-10-20T04:04:55.242583",
+  "generated_at": "2026-10-20T09:52:23.650669",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which will make the company less reliant on Nvidia's GPUs. Amazon has over one million robot workers, which raises questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era. Other news includes the launch of the Fitbit Edge, a new fitness tracker, and the upcoming Apple \"Welcome Home\" event, which will feature smart home-related announcements.",
+      "summary": "Today's technology news includes a former Plaud executive raising $26 million for an AI app that listens to users in the background, Microsoft announcing its third-generation Maia in-house AI chip, and Amazon's use of over 1 million robot workers. Additionally, Fitbit has officially launched the Fitbit Edge, a new fitness tracker, and Apple is expected to make several smart home-related announcements at its upcoming \"Welcome Home\" event.",
       "citations": [
+        {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
@@ -14,12 +20,6 @@
           "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
           "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
           "source": "Ars Technica",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
           "published_at": "2026-10-12"
         },
         {
@@ -37,11 +37,17 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt. The Supreme Court of India has also highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
+      "summary": "The Securities and Exchange Board of India has teamed up with the Reserve Bank of India to make it easier for foreign portfolio investors to enter the market. However, global uncertainty has impacted the market and investor sentiment remains cautious, with benchmark indices facing a decline. Indian equity benchmarks have also experienced a decline over two sessions due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -56,17 +62,11 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence, and the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has claimed that tribal students headed for a protest in Mumbai were detained, and the CEC's ability to execute illegal orders has been criticised. Meanwhile, former US President Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt', and India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence, as well as the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has claimed that tribal students headed for a protest in Mumbai were detained, while Jairam Ramesh has attacked the CEC for his ability to execute illegal orders. Former US President Donald Trump has called the US electoral process 'corrupt' in reference to an Indian election that did not happen.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -96,12 +96,6 @@
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

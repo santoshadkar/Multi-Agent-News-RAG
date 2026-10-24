@@ -1,18 +1,12 @@
 {
-  "generated_at": "2026-10-24T00:26:05.732866",
+  "generated_at": "2026-10-24T05:32:21.391940",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's third-generation Maia in-house AI chip, which is designed to improve the cost and efficiency of running AI workloads in the cloud. The Fitbit Edge fitness tracker has also been officially unveiled, offering a compromise between the Fitbit Air and the Google Pixel Watch 5. Amazon's use of over 1 million robot workers has raised questions about the future of human employees, while a former Plaud executive has raised $26 million for an AI app that listens to users in the background.\n\nOther news includes a smart book that helps children learn to read, the upcoming Apple \"Welcome Home\" launch event, and a guide to TechCrunch Disrupt 2026, which focuses on building enduring companies in the AI era.",
+      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which is designed to improve the cost and efficiency of running AI workloads in the cloud. Amazon's use of over 1 million robot workers is also in the spotlight, raising questions about the future of human employment. In other news, a former Plaud executive has raised $26 million for an AI app that listens to users in the background, and the Fitbit Edge fitness tracker has been officially unveiled.",
       "citations": [
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
           "published_at": "2026-10-12"
         },
@@ -29,28 +23,22 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
-          "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
-          "published_at": "2026-10-11"
-        },
-        {
-          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
-        },
-        {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
           "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. A resurgent El Ni\u00f1o pattern threatens to deepen a selloff in Southeast Asian bonds, pushing yields higher as US Treasury rates and oil prices rise. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to simplify regulatory procedures for foreign portfolio investors, with the India Market Access portal launching in September 2025.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The launch of the India Market Access portal in September 2025 marked a significant step forward in this initiative.\n\nHowever, Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nFinally, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. Following this announcement, the BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
+        {
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
         {
           "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
@@ -64,15 +52,15 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nIn other news, former US President Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. India's foreign exchange reserves have reportedly dropped by USD 18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that didn't happen. Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly declined by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -93,14 +81,14 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

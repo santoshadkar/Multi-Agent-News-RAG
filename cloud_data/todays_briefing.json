@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T16:39:55.219574",
+  "generated_at": "2026-10-26T21:29:39.464032",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes the launch of the Fitbit Edge, a fitness tracker for those who want to avoid a screenless device, and Microsoft's announcement of its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. Amazon's use of over 1 million robot workers is also a significant development, raising questions about the future of human employees. Other notable stories include the upcoming Apple \"Welcome Home\" launch event, where new smart home devices are expected to be unveiled, and the TechCrunch Disrupt 2026 conference, which will explore the question of how to build an enduring company in the AI era.",
+      "summary": "Today's most important technology news includes the launch of the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless. Microsoft has also announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. Amazon now has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 is focused on building enduring companies in the AI era, while a former Plaud exec has raised $26 million for an AI app that listens to users in the background.",
       "citations": [
         {
           "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
@@ -23,21 +23,21 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
-        },
-        {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
           "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch",
           "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The India Market Access portal was launched in September 2025.\n\nThe Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. Benchmark indices faced a decline as global uncertainty impacted the market and investor sentiment remained cautious.\n\nThe Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, highlighting troubling markups on cancer drugs enforced by hospitals. The BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.\n\nMarketSmith India and Raja Venkatraman have revealed their top stock recommendations for 1 October.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, while the Nifty index is under pressure, with 22,600 acting as a significant support level. The BSE Hospitals Index faced a steep 5% drop after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals. Market experts have shared their top stock picks for 1 October.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -64,25 +64,43 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stock recommendations for 1 October from MarketSmith India",
-          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
+          "headline": "Raja Venkatraman recommends two stocks for 1 October",
+          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Raja Venkatraman recommends two stocks for 1 October",
-          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
+          "headline": "Stock recommendations for 1 October from MarketSmith India",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes:\n- The Delhi High Court dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence.\n- Donald Trump cited an Indian election that didn't happen to call the US electoral process 'corrupt'.\n- India's foreign exchange reserves reportedly declined by USD 18.34 billion in a single week.\n- Jairam Ramesh attacked the CEC, calling him a liability for the country.\n- The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar.\n- Congress claims tribal students headed for a Mumbai protest were detained and condemns the action.\n- Bengali actor Koel Mallick joined the BJP a day after her Rajya Sabha nomination.\n- Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that didn't happen. This appears to be a mix-up with Brazil, which held the first round of its presidential election on Sunday.\n\nIndia's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.\n\nFinally, Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
           "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Supreme Court to list plea to allow peaceful protests  to Jantar Mantar",
+          "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
+          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -99,32 +117,8 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Supreme Court to list plea to allow peaceful protests  to Jantar Mantar",
-          "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
           "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
-          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         }

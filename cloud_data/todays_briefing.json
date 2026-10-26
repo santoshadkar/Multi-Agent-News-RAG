@@ -1,15 +1,9 @@
 {
-  "generated_at": "2026-10-25T23:06:02.958702",
+  "generated_at": "2026-10-26T03:55:21.488515",
   "sections": {
     "technology": {
-      "summary": "TechCrunch Disrupt 2026 is focusing on how to build enduring companies in the AI era. Microsoft has announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. Amazon has over 1 million robot workers, raising questions about the future of human employees. Fitbit has officially announced the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless.",
+      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which will make the company less reliant on Nvidia's GPUs. Amazon has over one million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era. Fitbit has launched the Fitbit Edge, a fitness tracker for those who want notifications without a screen.",
       "citations": [
-        {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
-        },
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
@@ -23,6 +17,12 @@
           "published_at": "2026-10-12"
         },
         {
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
           "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
           "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
@@ -31,7 +31,7 @@
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate foreign portfolio investors' entry into the market. A resurgent El Ni\u00f1o pattern may exacerbate the selloff in Southeast Asian bonds, pushing yields higher amidst rising US Treasury rates and oil prices.",
+      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate foreign portfolio investors' entry into the market. Meanwhile, a landmark Supreme Court ruling in India has exposed steep markups on cancer drugs in hospitals, causing a 5% drop in the BSE Hospitals Index. Southeast Asian debt is also under pressure due to a resurgent El Ni\u00f1o pattern, rising US Treasury rates, and oil prices.",
       "citations": [
         {
           "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
@@ -46,6 +46,12 @@
           "published_at": "2026-10-01"
         },
         {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
           "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
@@ -54,7 +60,7 @@
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence, as well as the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. The Congress party has condemned the detention of tribal students headed for a protest in Mumbai, while the Delhi Police have responded to criticism over cops without name tags at a protest. Meanwhile, former US President Donald Trump has mistakenly cited an Indian election that didn't happen to call the US electoral process 'corrupt'.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week.\n\nFinally, Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -69,21 +75,39 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
           "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T01:18:04.807683",
+  "generated_at": "2026-10-27T07:30:35.943423",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which is designed to improve the cost and efficiency of running AI workloads in the cloud. Amazon's use of over 1 million robot workers is also a significant development, raising questions about the future of human employees. In addition, the Fitbit Edge, a new fitness tracker, has been officially launched, offering a compromise between smartwatches and screenless devices. Other notable news includes a former Plaud executive raising $26 million for an AI app that listens to users in the background, and TechCrunch Disrupt 2026 focusing on building enduring companies in the AI era.",
+      "summary": "Today's technology news is dominated by the announcement of Microsoft's third-generation Maia in-house AI chip, which is designed to improve the cost and efficiency of running AI workloads in the cloud. Meanwhile, Amazon has over one million robot workers, raising questions about the future of human employees. In other news, a former Plaud executive has raised $26 million for an AI app that listens to users in the background, and Fitbit has officially announced the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless.",
       "citations": [
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
@@ -17,27 +17,21 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
           "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
           "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch",
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
           "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore, and the Nifty 50 index closed down by 95.75 points. Benchmark indices have faced a decline due to global uncertainty and investor caution, as well as high crude oil prices, increasing bond yields, and continued foreign selling. Meanwhile, the Supreme Court of India has urged a probe into reports of hospitals directing patients to specific pharmacies for cancer drugs, leading to a 5% drop in the BSE Hospitals Index.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. However, the Nifty index is under pressure, with 22,600 acting as a significant support level, and foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore.\n\nIn other news, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nMeanwhile, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -52,15 +46,9 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
-          "source": "Economic Times Markets",
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
@@ -72,7 +60,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and threatened with police cases.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that did not happen. Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students who were heading to Mumbai to protest. Jairam Ramesh has attacked the CEC, claiming his ability to execute illegal orders makes him a liability for the country.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week. Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -99,14 +87,14 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

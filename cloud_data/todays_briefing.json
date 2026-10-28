@@ -1,18 +1,12 @@
 {
-  "generated_at": "2026-10-28T04:45:55.061212",
+  "generated_at": "2026-10-28T11:07:30.171540",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes the announcement of Microsoft's third-generation Maia in-house AI chip, which is designed to be the \"primary AI inference system\" for Microsoft's products and services. The Fitbit Edge, a new fitness-tracking device from Google, has also been officially announced. Additionally, Amazon has over 1 million robot workers, raising questions about the future of human employees. Other notable news includes the upcoming Apple \"Welcome Home\" launch event, where smart home-related announcements are expected, and the TechCrunch Disrupt 2026 event, which will focus on building enduring companies in the AI era.",
+      "summary": "Today's technology news includes Microsoft's announcement of its third-generation Maia in-house AI chip, which is designed to be the \"primary AI inference system\" for Microsoft's products and services. Amazon's use of over 1 million robot workers is also a key topic, raising questions about the future of human employment. Additionally, a former Plaud executive has raised $26 million for an AI app that listens to users in the background, and Fitbit has officially announced the Fitbit Edge, a fitness tracker for those who want notifications without a screen.",
       "citations": [
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
           "published_at": "2026-10-12"
         },
@@ -23,31 +17,31 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
           "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45. Meanwhile, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, leading to a 5% drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to simplify regulatory procedures for foreign portfolio investors, with the launch of the India Market Access portal in September 2025. A landmark Supreme Court ruling in India has highlighted steep markups on cancer drugs in hospitals, causing a 5% drop in the BSE Hospitals Index. Southeast Asian bonds are at risk of a selloff due to a resurgent El Ni\u00f1o pattern, which could push yields higher.",
       "citations": [
         {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -56,11 +50,17 @@
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
+        },
+        {
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence.\n\nThe Supreme Court is to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nCongress claims that tribal students headed for a protest in Mumbai were detained.\n\nDonald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen.\n\nIndia's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence.\n\nThe Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nCongress has claimed that tribal students headed for a protest in Mumbai were detained.\n\nFormer US President Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'.\n\nIndia's foreign exchange reserves have reportedly declined by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",

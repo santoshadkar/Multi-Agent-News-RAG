@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T23:39:41.030828",
+  "generated_at": "2026-10-28T04:45:55.061212",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by the launch of Microsoft's third-generation Maia in-house AI chip, which is designed to be the \"primary AI inference system\" for Microsoft's products and services. The chip is said to improve the cost and efficiency of running AI workloads in the cloud and handle the latest reasoning models and agentic tasks.\n\nOther stories include the launch of the Fitbit Edge, a fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5 in the company's current wearable lineup, and the announcement of Amazon's over 1 million robot workers, which raises questions about the future of human employees.\n\nAdditionally, TechCrunch Disrupt 2026 is set to explore the question of how to build an enduring company in the AI era, while Apple's \"Welcome Home\" launch event is expected to feature refreshes to Apple TV and HomePod Mini, as well as a new smart home hub and platform called homeOS.",
+      "summary": "Today's most important technology news includes the announcement of Microsoft's third-generation Maia in-house AI chip, which is designed to be the \"primary AI inference system\" for Microsoft's products and services. The Fitbit Edge, a new fitness-tracking device from Google, has also been officially announced. Additionally, Amazon has over 1 million robot workers, raising questions about the future of human employees. Other notable news includes the upcoming Apple \"Welcome Home\" launch event, where smart home-related announcements are expected, and the TechCrunch Disrupt 2026 event, which will focus on building enduring companies in the AI era.",
       "citations": [
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
@@ -23,28 +23,22 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
-        },
-        {
           "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
           "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
           "source": "The Verge",
           "published_at": "2026-10-11"
+        },
+        {
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. The BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.\n\nIn other news, the Securities and Exchange Board of India has teamed up with the Reserve Bank of India to enhance various regulatory procedures. Their primary focus is on making it easier for foreign portfolio investors to enter the market. The launch of the India Market Access portal in September 2025 marked a significant step forward in this initiative.\n\nAdditionally, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45. Meanwhile, the Supreme Court of India has urged a probe into reports of patients being directed to specific pharmacies for their medications, leading to a 5% drop in the BSE Hospitals Index.",
       "citations": [
-        {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
@@ -52,15 +46,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and threatened with police cases.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week. Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence.\n\nThe Supreme Court is to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nCongress claims that tribal students headed for a protest in Mumbai were detained.\n\nDonald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen.\n\nIndia's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -89,12 +89,6 @@
         {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

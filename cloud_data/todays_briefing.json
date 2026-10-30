@@ -1,13 +1,19 @@
 {
-  "generated_at": "2026-10-30T15:42:47.728588",
+  "generated_at": "2026-10-30T20:32:59.461425",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of the Fitbit Edge, a fitness tracker for those who want to receive notifications without a screen. Microsoft has announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. Amazon now has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era.",
+      "summary": "Today's technology news is dominated by AI. Microsoft has announced its third-generation Maia in-house AI chip, which will improve the cost and efficiency of running AI workloads in the cloud. Amazon has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 will explore how to build an enduring company in the AI era.\n\nOther news includes the launch of the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless, and the upcoming Apple \"Welcome Home\" event, which is expected to feature smart home-related announcements.",
       "citations": [
         {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
           "published_at": "2026-10-12"
         },
         {
@@ -17,31 +23,37 @@
           "published_at": "2026-10-12"
         },
         {
+          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
+        },
+        {
           "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
           "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
           "source": "Ars Technica",
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
           "published_at": "2026-10-12"
+        },
+        {
+          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
+          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which has urged an investigation into reports of hospitals directing patients to specific pharmacies for their medications, causing a 5% drop in the BSE Hospitals Index.\n\nIn other news, the Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market.\n\nMeanwhile, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt.\n\nFinally, Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points.",
+      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. A resurgent El Ni\u00f1o pattern is also threatening to deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt. In India, the Securities and Exchange Board and the Reserve Bank have teamed up to enhance regulatory procedures and make it easier for foreign portfolio investors to enter the market.",
       "citations": [
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -52,15 +64,15 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Donald Trump has called the US electoral process 'corrupt' in reference to an Indian election that didn't happen. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and threatened with police cases. Jairam Ramesh has criticised the CEC's ability to execute illegal orders, while Donald Trump has called the US electoral process 'corrupt' and cited an Indian election that didn't happen. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -81,14 +93,20 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
           "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
           "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

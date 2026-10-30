@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T01:43:09.523908",
+  "generated_at": "2026-10-30T08:18:41.405715",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes the launch of the Fitbit Edge, a fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5 in the company's wearable lineup. Microsoft has announced its third-generation Maia in-house AI chip, designed to improve the cost and efficiency of running AI workloads in the cloud. Amazon has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era.",
+      "summary": "Today's most important technology news includes the launch of the Fitbit Edge, a fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5 in the company's current wearable lineup. Microsoft has also announced its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for Microsoft's products and services. Additionally, Amazon has over 1 million robot workers, raising questions about the future of human employees.",
       "citations": [
         {
           "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
@@ -21,17 +21,11 @@
           "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
           "source": "Ars Technica",
           "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which highlighted troubling markups on cancer drugs enforced by hospitals and urged a probe into reports of patients being directed to specific pharmacies for their medications. This announcement led to a steep 5% drop in the BSE Hospitals Index, causing notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.\n\nIn other news, the Securities and Exchange Board of India has teamed up with the Reserve Bank of India to enhance various regulatory procedures, with a focus on making it easier for foreign portfolio investors to enter the market.\n\nAdditionally, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher as rising US Treasury rates and oil prices squeeze regional debt.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which has urged a probe into reports of patients being directed to specific pharmacies for their medications. This announcement has led to a 5% drop in the BSE Hospitals Index, causing notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.\n\nIn other news, the Securities and Exchange Board of India has teamed up with the Reserve Bank of India to enhance regulatory procedures and make it easier for foreign portfolio investors to enter the market.\n\nMarket experts have also shared their top stock picks for 1 October, with MarketSmith India revealing its top stock recommendations for the day.",
       "citations": [
         {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
@@ -46,15 +40,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "headline": "Raja Venkatraman recommends two stocks for 1 October",
+          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
+          "source": "LiveMint Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Stock recommendations for 1 October from MarketSmith India",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, who were seeking the resignation of the tribal development minister and the department's commissioner.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying his ability to execute G2's illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and threatened with police cases.\n\nMeanwhile, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen. Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country.\n\nIn other news, India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",

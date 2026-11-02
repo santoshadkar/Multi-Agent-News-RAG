@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T21:00:38.714287",
+  "generated_at": "2026-11-02T00:36:22.473697",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by AI. Microsoft has announced its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for Microsoft's products and services. The chip will improve the cost and efficiency of running AI workloads in the cloud. Meanwhile, Amazon has over 1 million robot workers, raising questions about the future of human employees.\n\nTechCrunch Disrupt 2026 is focused on building enduring companies in the AI era, while a former Plaud exec has raised $26 million for an AI app that listens to users in the background.\n\nOther news includes the launch of the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless, and Apple's upcoming \"Welcome Home\" event, where smart home-related announcements are expected.",
+      "summary": "Today's technology news is dominated by AI, with Microsoft announcing its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for Microsoft's products and services. Meanwhile, a former Plaud exec has raised $26 million for an AI app that listens to users in the background, and Amazon has over 1 million robot workers. Other stories include the launch of the Fitbit Edge, a new fitness tracker, and a look at the history of the LeapPad, a smart book that couldn't survive the iPad.",
       "citations": [
         {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -41,15 +41,15 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+          "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
+          "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
           "source": "The Verge",
           "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to improve regulatory procedures, with a focus on making it easier for foreign portfolio investors to enter the market. This comes as investors approach October, a month that has historically favoured positive market returns, but which could be challenged by high crude oil prices, increasing bond yields, and continued foreign selling.\n\nIn other news, a resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt. Meanwhile, Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices.\n\nThe BSE Hospitals Index has also faced a steep 5% drop following a landmark ruling by the Supreme Court of India, which highlighted troubling markups on cancer drugs enforced by hospitals.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India's joint initiative to ease regulatory procedures for foreign portfolio investors, with the launch of the India Market Access portal in September 2025. Indian equity benchmarks have declined due to profit booking and rising oil prices, while the Nifty 50 index closed down by 95.75 points. A resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher. In India, hospital stocks slipped after the Supreme Court highlighted markups on cancer drugs, urging an investigation into patient medication practices.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -58,8 +58,8 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -67,12 +67,6 @@
           "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
@@ -84,11 +78,29 @@
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence, and the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has claimed that tribal students headed for a Mumbai protest were detained, and the Delhi Police have responded to protests demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Former US President Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt', and India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.",
+      "summary": "Today's most important politics news includes:\n- The Delhi High Court dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence.\n- Donald Trump cited a non-existent Indian election to call the US electoral process \"corrupt\".\n- India's foreign exchange reserves declined by $18.34 billion in a single week.\n- Jairam Ramesh attacked the CEC for executing illegal orders, a day after a Supreme Court judge remarked that any process that \"disenfranchises\" millions of Indian citizens is \"intrinsically arbitrary\".\n- The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar.\n- Congress claims that tribal students headed for a protest in Mumbai were detained and threatened with police cases.\n- Bengali actor Koel Mallick joined the BJP a day after her Rajya Sabha nomination.\n- Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
           "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -105,20 +117,14 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
-          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
+          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         }

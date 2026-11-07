@@ -1,15 +1,9 @@
 {
-  "generated_at": "2026-11-07T02:37:53.722257",
+  "generated_at": "2026-11-07T09:45:51.885523",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of the Fitbit Edge, a fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5 in the company's current wearable lineup. Microsoft has also announced its third-generation Maia in-house AI chip, which is designed to be the \"primary AI inference system\" for Microsoft's products and services. Amazon has over 1 million robot workers, which raises questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era, and a former Plaud exec has raised $26 million for an AI app that listens to users in the background.",
+      "summary": "Today's most important technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which will make the company less reliant on Nvidia's GPUs. Amazon has over 1 million robot workers, which raises questions about the future of human employees. TechCrunch Disrupt 2026 is focused on building enduring companies in the AI era. Fitbit has launched the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless.",
       "citations": [
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
@@ -29,26 +23,26 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-          "source": "TechCrunch",
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
           "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in benchmark indices due to global uncertainty and cautious investor sentiment, with the Nifty index under pressure and foreign portfolio investors recording net sales. Indian equity benchmarks also experienced a decline over two sessions due to profit booking and rising oil prices. In other news, the Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures for foreign portfolio investors, while a resurgent El Ni\u00f1o pattern may exacerbate a selloff in Southeast Asian bonds.",
+      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. A resurgent El Ni\u00f1o pattern is also threatening to deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market, with the launch of the India Market Access portal in September 2025. Additionally, a landmark ruling by the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, resulting in a steep 5% drop in the BSE Hospitals Index.",
       "citations": [
-        {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
         {
           "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
@@ -58,25 +52,19 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence, as well as Jairam Ramesh's criticism of the CEC's ability to execute illegal orders. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Meanwhile, Congress claims that tribal students headed for a protest in Mumbai were detained, and Donald Trump has called the US electoral process 'corrupt' while citing a non-existent Indian election.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, while Jairam Ramesh has attacked the CEC for executing illegal orders. Meanwhile, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
           "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -95,6 +83,12 @@
         {
           "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
           "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

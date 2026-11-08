@@ -1,26 +1,14 @@
 {
-  "generated_at": "2026-11-08T14:15:55.293252",
+  "generated_at": "2026-11-08T19:25:41.030174",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by the announcement of Microsoft's new AI chip, Maia 300, which will make the company less reliant on Nvidia's GPUs. The chip is designed to be the \"primary AI inference system\" for Microsoft's products and services, improving the cost and efficiency of running AI workloads in the cloud.\n\nOther news includes the launch of the Fitbit Edge, a new fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5, and the upcoming Apple \"Welcome Home\" event, where the company is expected to announce refreshes to Apple TV and HomePod Mini, as well as a new smart home hub and platform called homeOS.\n\nAdditionally, Amazon has over 1 million robot workers, raising questions about the future of human employees, and a former Plaud exec has raised $26 million for an AI app that listens to users in the background.",
+      "summary": "Today's technology news includes Microsoft's announcement of its third-generation Maia in-house AI chip, which is designed to be the \"primary AI inference system\" for Microsoft's products and services. Amazon's use of over one million robot workers is also in the spotlight, raising questions about the future of human employees. Meanwhile, a former Plaud executive has raised $26 million for an AI app that listens to users in the background, and Fitbit has officially launched the Fitbit Edge, a fitness tracker for those who want notifications without a screen.",
       "citations": [
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
           "source": "The Verge",
           "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
         },
         {
           "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
@@ -33,21 +21,27 @@
           "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch",
           "published_at": "2026-10-12"
+        },
+        {
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
+          "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to simplify regulatory procedures for foreign portfolio investors, with the India Market Access portal launching in September 2025. A resurgent El Ni\u00f1o pattern may exacerbate a selloff in Southeast Asian bonds, pushing yields higher as US Treasury rates and oil prices rise.",
+      "summary": "The Securities and Exchange Board of India has teamed up with the Reserve Bank of India to make it easier for foreign portfolio investors to enter the market. The India Market Access portal launched in September 2025.\n\nIndian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nA resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.\n\nThe Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. Following this announcement, the BSE Hospitals Index faced a steep 5% drop, leading to notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -56,11 +50,17 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, who were seeking the resignation of the tribal development minister and the department's commissioner.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\", citing an Indian election that didn't happen. Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress claims that tribal students headed for a protest in Mumbai were detained.\n\nMeanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week. Finally, Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",

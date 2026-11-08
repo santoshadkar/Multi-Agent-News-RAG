@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T20:43:49.825436",
+  "generated_at": "2026-11-08T00:18:12.270407",
   "sections": {
     "technology": {
-      "summary": "Today's most important technology news includes the launch of the Fitbit Edge, a new fitness tracker from Google, and the announcement of Microsoft's third-generation Maia in-house AI chip, designed to improve the cost and efficiency of running AI workloads in the cloud. Additionally, Amazon now has over 1 million robot workers, and a former Plaud executive has raised $26 million for an AI app that listens to users in the background. TechCrunch Disrupt 2026 is also underway, focusing on building enduring companies in the AI era.",
+      "summary": "Today's most important technology news includes the launch of the Fitbit Edge, a new fitness tracker that sits between the Fitbit Air and Google Pixel Watch 5 in the company's wearable lineup. Microsoft has announced its third-generation Maia in-house AI chip, designed to improve the cost and efficiency of running AI workloads in the cloud. Amazon has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 focuses on building enduring companies in the AI era. Other notable stories include a former Plaud exec raising $26M for an AI app, the upcoming Apple \"Welcome Home\" event, and the rise and fall of the LeapPad.",
       "citations": [
         {
           "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
@@ -23,21 +23,33 @@
           "published_at": "2026-10-12"
         },
         {
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
           "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
           "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch",
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
+          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
+          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
+        },
+        {
+          "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
+          "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as investors approach October with high crude oil prices, increasing bond yields, and continued foreign selling. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher. Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. Benchmark indices have also faced a decline as global uncertainty impacts the market and investor sentiment remains cautious. Meanwhile, a resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -46,8 +58,14 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -56,17 +74,11 @@
           "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, and Jairam Ramesh has attacked the CEC for executing illegal orders. Former US President Donald Trump has called the US electoral process 'corrupt', citing a non-existent Indian election. India's foreign exchange reserves have dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nMeanwhile, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC for his ability to execute illegal orders. India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week. Finally, Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -93,14 +105,14 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
+          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
-          "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

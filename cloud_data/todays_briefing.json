@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-11-10T08:06:29.742103",
+  "generated_at": "2026-11-10T16:53:24.930312",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's third-generation Maia in-house AI chip, which is designed to improve the cost and efficiency of running AI workloads in the cloud. The Fitbit Edge fitness tracker has also been officially announced, offering a compromise for those who want notifications but don't want to go totally screenless. Amazon's use of over 1 million robot workers is also being discussed, raising questions about the future of human employees. Other stories include a former Plaud exec raising $26 million for an AI app that listens to users in the background, and a smart book that couldn't survive the iPad.",
+      "summary": "Today's technology news is dominated by AI. Microsoft has announced its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for Microsoft's products and services. Meanwhile, Amazon has over 1 million robot workers, and a former Plaud exec has raised $26M for an AI app that listens to you in the background.\n\nOther news includes the launch of the Fitbit Edge, a new fitness tracker, and the upcoming Apple \"Welcome Home\" launch event, where we expect a host of smart home-related announcements.\n\nFinally, The Verge has published an article on the LeapPad, a smart book that couldn't survive the iPad.",
       "citations": [
+        {
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
           "source": "The Verge",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
+        },
+        {
+          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+          "source": "Ars Technica",
           "published_at": "2026-10-12"
         },
         {
@@ -17,16 +41,10 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
+          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
+          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+          "source": "The Verge",
+          "published_at": "2026-10-11"
         },
         {
           "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
@@ -37,7 +55,7 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt. The Supreme Court of India has also highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to simplify regulatory procedures for foreign portfolio investors. This comes as Indian equity benchmarks have declined due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt. Meanwhile, the Supreme Court of India has urged a probe into reports of hospitals directing patients to specific pharmacies for cancer drugs, leading to a 5% drop in the BSE Hospitals Index.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -66,7 +84,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained and threatened with police cases.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country. India's foreign exchange reserves have reportedly dropped by $18.34 billion in a single week.\n\nBengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nMeanwhile, Donald Trump has called the US electoral process 'corrupt' by citing an Indian election that didn't happen. This appears to be a mix-up with Brazil, which held the first round of its presidential election on Sunday.\n\nIn other news, India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -95,12 +113,6 @@
         {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

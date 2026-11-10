@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-11-10T16:53:24.930312",
+  "generated_at": "2026-11-10T22:13:15.602911",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by AI. Microsoft has announced its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for Microsoft's products and services. Meanwhile, Amazon has over 1 million robot workers, and a former Plaud exec has raised $26M for an AI app that listens to you in the background.\n\nOther news includes the launch of the Fitbit Edge, a new fitness tracker, and the upcoming Apple \"Welcome Home\" launch event, where we expect a host of smart home-related announcements.\n\nFinally, The Verge has published an article on the LeapPad, a smart book that couldn't survive the iPad.",
+      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which will make the company less reliant on Nvidia's GPUs. The Fitbit Edge, a new fitness tracker, has also been officially launched. Amazon now has over 1 million robot workers, which raises questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era.\n\nOther news includes a former Plaud executive raising $26 million for an AI app that listens to users in the background, a smart book that couldn't survive the iPad, and an upcoming Apple event with expected smart home-related announcements.",
       "citations": [
+        {
+          "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "source": "The Verge",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+          "source": "Ars Technica",
+          "published_at": "2026-10-12"
+        },
         {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
           "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -17,45 +35,21 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
-          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
+          "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
           "source": "The Verge",
           "published_at": "2026-10-11"
-        },
-        {
-          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
         },
         {
           "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
           "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
           "source": "The Verge",
           "published_at": "2026-10-11"
-        },
-        {
-          "headline": "Why the LeapPad couldn&#8217;t survive the iPad",
-          "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to simplify regulatory procedures for foreign portfolio investors. This comes as Indian equity benchmarks have declined due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern could deepen a selloff in Southeast Asian bonds, pushing yields higher as rising US Treasury rates and oil prices squeeze regional debt. Meanwhile, the Supreme Court of India has urged a probe into reports of hospitals directing patients to specific pharmacies for cancer drugs, leading to a 5% drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India joining forces to streamline regulatory procedures and facilitate foreign portfolio investors' entry into the market. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45, due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern may exacerbate the selloff in Southeast Asian bonds, potentially pushing yields higher. The Supreme Court of India's ruling on hospital markups for cancer drugs resulted in a 5% drop in the BSE Hospitals Index, affecting major players like Apollo Hospitals and Fortis Healthcare.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
@@ -84,7 +78,7 @@
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nMeanwhile, Donald Trump has called the US electoral process 'corrupt' by citing an Indian election that didn't happen. This appears to be a mix-up with Brazil, which held the first round of its presidential election on Sunday.\n\nIn other news, India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court is set to list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n\nIn other news, Congress has condemned the detention of tribal students who were headed for a protest in Mumbai, seeking the resignation of the tribal development minister and the department's commissioner.\n\nFormer US President Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen. This appears to be a mix-up with Brazil, which held the first round of its presidential election on Sunday.\n\nBengali actor Koel Mallick has joined the BJP, and India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -117,14 +111,14 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
-          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         }

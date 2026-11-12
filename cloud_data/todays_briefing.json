@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-11-12T17:59:55.693494",
+  "generated_at": "2026-11-12T23:30:23.459222",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by AI. Microsoft is announcing its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for Microsoft's products and services. Meanwhile, a former Plaud exec has raised $26 million for an AI app that listens to users in the background. Amazon has over one million robot workers, and TechCrunch Disrupt 2026 is asking how to build an enduring company in the AI era.\n\nOther news includes the launch of the Fitbit Edge, which sits between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5, and the upcoming Apple \"Welcome Home\" event, where we expect a host of smart home-related announcements.",
+      "summary": "Today's technology news includes the launch of the Fitbit Edge fitness tracker, which sits between the Fitbit Air and Google Pixel Watch 5 in the company's current wearable lineup. Microsoft has also announced its third-generation Maia in-house AI chip, designed to improve the cost and efficiency of running AI workloads in the cloud. Amazon has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 focuses on building enduring companies in the AI era, while a former Plaud exec has raised $26 million for an AI app that listens to users in the background.",
       "citations": [
+        {
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "source": "The Verge",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+          "source": "Ars Technica",
+          "published_at": "2026-10-12"
+        },
         {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
           "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
@@ -15,54 +33,12 @@
           "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch",
           "published_at": "2026-10-12"
-        },
-        {
-          "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
-          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
-        },
-        {
-          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate the entry of foreign portfolio investors into the market. This initiative was bolstered by the launch of the India Market Access portal in September 2025.\n\nHowever, the market faces challenges due to high crude oil prices, increasing bond yields, and continued foreign selling. Indian equity benchmarks have declined over two sessions, with the Nifty 50 index closing down by 95.75 points.\n\nIn other news, a landmark Supreme Court ruling in India has exposed steep markups on cancer drugs in hospitals, causing a 5% drop in the BSE Hospitals Index.\n\nMarket experts have also shared their stock recommendations for 1 October.",
+      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and facilitate foreign portfolio investors' entry into the market. A resurgent El Ni\u00f1o pattern may exacerbate the selloff in Southeast Asian bonds, potentially pushing yields higher amid rising US Treasury rates and oil prices.",
       "citations": [
-        {
-          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Can October turn the tide for Indian stocks after September rout?",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
         {
           "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
@@ -70,27 +46,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Raja Venkatraman recommends two stocks for 1 October",
-          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Stock recommendations for 1 October from MarketSmith India",
-          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
           "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for a SIT probe into the 2020 riots and 2019 Jamia violence, and the Supreme Court's decision to list a plea to allow peaceful protests at Jantar Mantar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, while the Delhi Police have responded to criticism of their handling of protests at Jantar Mantar. In other news, former US President Donald Trump has criticised the US electoral process as 'corrupt', citing a non-existent Indian election.",
+      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a protest in Mumbai were detained.\n\nIn other news, Donald Trump has called the US electoral process 'corrupt' and cited an Indian election that did not happen. Jairam Ramesh has attacked the CEC, saying his ability to execute illegal orders makes him a liability for the country. Bengali actor Koel Mallick has joined the BJP, and India's foreign exchange reserves have reportedly declined by $18.34 billion in a single week.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -105,21 +75,39 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
           "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
           "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
           "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
           "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Bengali Actor Koel Mallick Joins BJP Day After Rajya Sabha Nomination",
+          "url": "https://www.ndtv.com/india-news/bengali-actor-koel-mallick-joins-bjp-day-after-rajya-sabha-nomination-12139391#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
           "published_at": "2026-10-05"
         }
       ]

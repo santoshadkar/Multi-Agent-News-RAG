@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T12:53:55.516489",
+  "generated_at": "2026-11-17T21:35:01.114738",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of the Fitbit Edge, a fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5. Microsoft has announced its third-generation Maia in-house AI chip, which improves the cost and efficiency of running AI workloads in the cloud. Amazon now has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 focuses on building enduring companies in the AI era, while Apple's upcoming \"Welcome Home\" event is expected to feature smart home-related announcements.",
+      "summary": "Today's technology news includes the launch of the Fitbit Edge, a fitness tracker for those who want to receive notifications without a screen, and Microsoft's new AI chip, Maia 300, which will make the company less reliant on Nvidia's GPUs.\n\nAmazon now has over 1 million robot workers, and a former Plaud exec has raised $26 million for an AI app that listens to users in the background.\n\nTechCrunch Disrupt 2026 will explore how to build an enduring company in the AI era, and Apple's \"Welcome Home\" event is expected to include announcements on smart home devices.",
       "citations": [
         {
           "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
@@ -23,6 +23,12 @@
           "published_at": "2026-10-12"
         },
         {
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
           "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "source": "TechCrunch",
@@ -37,20 +43,8 @@
       ]
     },
     "finance": {
-      "summary": "Today's most important finance news includes a decline in Indian equity benchmarks due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. Benchmark indices have also faced a decline as global uncertainty impacts the market and investor sentiment remains cautious. The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to enhance regulatory procedures, aiming to make it easier for foreign portfolio investors to enter the market. In a landmark ruling, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, leading to a steep drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes the Securities and Exchange Board of India and the Reserve Bank of India's joint initiative to ease regulatory procedures for foreign portfolio investors, with the launch of the India Market Access portal in September 2025. Indian equity benchmarks have declined due to profit booking and rising oil prices, impacting the Nifty 50 index. A resurgent El Ni\u00f1o pattern may deepen a selloff in Southeast Asian bonds, pushing yields higher amid rising US Treasury rates and oil prices.",
       "citations": [
-        {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
@@ -58,37 +52,25 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
           "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai.\n\nIn other news, Donald Trump has called the US electoral process 'corrupt', citing an Indian election that did not happen. Jairam Ramesh has attacked the CEC, saying his ability to execute G2's illegal orders makes him a liability for the country. India's foreign exchange reserves have dropped by $18.34 billion in a single week. Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "Today's most important politics news includes:\n- The Delhi High Court dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence.\n- Donald Trump cited a non-existent Indian election to call the US electoral process 'corrupt'.\n- India's foreign exchange reserves reportedly dropped by USD 18.34 billion in a single week.\n- Congress claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n- The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar.\n- Bengali actor Koel Mallick joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
           "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Supreme Court to list plea to allow peaceful protests  to Jantar Mantar",
-          "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
-          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
-          "source": "NDTV India News",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
-          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
@@ -99,15 +81,21 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
+          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
+          "source": "NDTV India News",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
-          "headline": "Opinion: Opinion | India's $18.3 Billion Forex Reserve Shock Is A Warning, Not Just A Number",
-          "url": "https://www.ndtv.com/opinion/indias-18-3-billion-forex-reserve-drop-is-a-warning-not-just-a-number-12139535#publisher=newsstand",
-          "source": "NDTV India News",
+          "headline": "Supreme Court to list plea to allow peaceful protests  to Jantar Mantar",
+          "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece",
+          "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {

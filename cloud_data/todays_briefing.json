@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T02:59:44.079122",
+  "generated_at": "2026-11-19T11:28:18.610377",
   "sections": {
     "technology": {
-      "summary": "Today's technology news is dominated by AI. Microsoft has announced its third-generation Maia in-house AI chip, designed to be the \"primary AI inference system\" for Microsoft's products and services. Amazon has over 1 million robot workers, which raises questions about the future of human employees. TechCrunch Disrupt 2026 is focused on how to build an enduring company in the AI era.\n\nOther news includes the launch of the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless, and the upcoming Apple \"Welcome Home\" launch event, where we expect a host of smart home-related announcements.",
+      "summary": "TechCrunch Disrupt 2026 is focusing on how to build an enduring company in the AI era. Amazon has over 1 million robot workers, raising questions about the future of human employees. Microsoft has announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia\u2019s GPUs. Fitbit has officially launched the Fitbit Edge, a fitness tracker for those who don't want to go totally screenless.",
       "citations": [
         {
           "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -11,9 +11,9 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-          "source": "TechCrunch",
+          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+          "source": "Ars Technica",
           "published_at": "2026-10-12"
         },
         {
@@ -23,37 +23,31 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
-        },
-        {
-          "headline": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-          "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-          "source": "Ars Technica",
-          "published_at": "2026-10-12"
-        },
-        {
           "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
           "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
           "source": "The Verge",
           "published_at": "2026-10-12"
-        },
-        {
-          "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
-          "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
-          "source": "The Verge",
-          "published_at": "2026-10-11"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices. A resurgent El Ni\u00f1o pattern risks deepening a selloff in Southeast Asian bonds, threatening to push yields higher just as rising US Treasury rates and oil prices squeeze regional debt. Meanwhile, hospital stocks have slipped after the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals.",
+      "summary": "The Securities and Exchange Board of India (SEBI) and the Reserve Bank of India (RBI) have joined forces to streamline regulatory procedures, particularly for foreign portfolio investors. This collaboration aims to facilitate market entry for these investors, with the India Market Access portal launching in September 2025 as a significant step forward.\n\nHowever, the market faces challenges due to global uncertainty, high crude oil prices, and rising bond yields. Indian equity benchmarks have declined over two sessions, and the Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, a Supreme Court of India ruling on hospital markups for cancer drugs has led to a 5% drop in the BSE Hospitals Index, affecting major players like Apollo Hospitals and Fortis Healthcare.\n\nAdditionally, a resurgent El Ni\u00f1o pattern may exacerbate Southeast Asian bond selloffs, pushing yields higher amid rising US Treasury rates and oil prices.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Can October turn the tide for Indian stocks after September rout?",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -64,21 +58,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
-          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
-          "source": "LiveMint Markets",
-          "published_at": "2026-10-01"
-        },
-        {
           "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
           "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "El Ni\u00f1o to Compound Drag on Southeast Asian Debt, Analysts Say",
+          "url": "https://www.livemint.com/market/el-ni-o-to-compound-drag-on-southeast-asian-debt-analysts-say-11790814348661.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Jairam Ramesh has attacked the CEC, calling him a liability for the country.\n\nIn other news, Donald Trump has cited a non-existent Indian election to call the US electoral process 'corrupt'. India's foreign exchange reserves have dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. Meanwhile, the Supreme Court will list a plea to allow peaceful protests to Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has claimed that tribal students headed for a Mumbai protest were detained and threatened with police cases.\n\nIn other news, Donald Trump has called the US electoral process 'corrupt' after citing an Indian election that didn't happen. Jairam Ramesh has attacked the CEC, saying that his ability to execute G2's illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -99,14 +93,20 @@
           "published_at": "2026-10-05"
         },
         {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "headline": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+          "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
         {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

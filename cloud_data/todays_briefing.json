@@ -1,15 +1,9 @@
 {
-  "generated_at": "2026-11-21T22:55:08.405048",
+  "generated_at": "2026-11-22T02:54:43.207489",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the launch of the Fitbit Edge, a fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5. Microsoft has announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. Amazon has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era.",
+      "summary": "Today's technology news includes Microsoft's announcement of its third-generation Maia in-house AI chip, which will improve the cost and efficiency of running AI workloads in the cloud. Amazon's use of over 1 million robot workers is also in the spotlight, raising questions about the future of human employees. Meanwhile, a former Plaud executive has raised $26 million for an AI app that listens to users in the background, and Fitbit has officially launched the Fitbit Edge, a fitness tracker for those who want notifications without a screen.",
       "citations": [
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
@@ -23,16 +17,28 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
           "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
+        {
+          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
+          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+          "source": "The Verge",
           "published_at": "2026-10-12"
         }
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to streamline regulatory procedures and make it easier for foreign portfolio investors to enter the market. This comes as benchmark indices face a decline due to global uncertainty and cautious investor sentiment, with the Nifty index under pressure and foreign portfolio investors recording a net sale of shares worth Rs 10,148 crore. Indian equity benchmarks have also experienced a decline over two sessions due to profit booking and rising oil prices, with the Nifty 50 index closing down by 95.75 points. In other news, the Supreme Court of India has urged a probe into reports of hospitals directing patients to specific pharmacies for their medications, leading to a steep 5% drop in the BSE Hospitals Index.",
+      "summary": "Today's most important finance news includes a landmark ruling by the Supreme Court of India, which highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. This led to a steep 5% drop in the BSE Hospitals Index, causing notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.\n\nIn other news, the Securities and Exchange Board of India has teamed up with the Reserve Bank of India to enhance various regulatory procedures, with a primary focus on making it easier for foreign portfolio investors to enter the market.\n\nMarket experts have also shared their top stock picks for 1 October, with MarketSmith India revealing its top stock recommendations for the day.",
       "citations": [
+        {
+          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
@@ -40,27 +46,21 @@
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Pre-market action: Here's the trade setup for today's session",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
-          "source": "Economic Times Markets",
+          "headline": "Raja Venkatraman recommends two stocks for 1 October",
+          "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-1-october-11790773946813.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         },
         {
-          "headline": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
-          "source": "Economic Times Markets",
-          "published_at": "2026-10-01"
-        },
-        {
-          "headline": "Hospital stocks slip after SC query on steep cancer drug markups",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
-          "source": "Economic Times Markets",
+          "headline": "Stock recommendations for 1 October from MarketSmith India",
+          "url": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-1-october-from-marketsmith-india-11790786349121.html",
+          "source": "LiveMint Markets",
           "published_at": "2026-10-01"
         }
       ]
     },
     "politics": {
-      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students who were heading to Mumbai to protest.\n\nIn other news, Donald Trump has called the US electoral process \"corrupt\" while citing an Indian election that didn't happen. Jairam Ramesh has attacked the CEC, claiming that his ability to execute illegal orders makes him a liability for the country.\n\nIndia's foreign exchange reserves have dropped by $18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "The Delhi High Court has dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai.\n\nIn other news, Donald Trump has called the US electoral process 'corrupt' and cited an Indian election that didn't happen. India's foreign exchange reserves have dropped by $18.34 billion in a single week. Bengali actor Koel Mallick has joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
@@ -89,12 +89,6 @@
         {
           "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process \u2018corrupt\u2019",
           "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-          "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },

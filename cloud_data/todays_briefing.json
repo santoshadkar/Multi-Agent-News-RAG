@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-11-26T23:34:26.325436",
+  "generated_at": "2026-11-27T07:27:32.513926",
   "sections": {
     "technology": {
-      "summary": "Today's technology news includes the announcement of Microsoft's new AI chip, the Maia 300, which is designed to be the \"primary AI inference system\" for Microsoft's products and services. Amazon now has over 1 million robot workers, raising questions about the future of human employees. TechCrunch Disrupt 2026 will focus on building enduring companies in the AI era. Fitbit has officially announced the Fitbit Edge, a fitness tracker that sits between the Fitbit Air and the Google Pixel Watch 5. Apple's upcoming \"Welcome Home\" event is expected to include refreshes to Apple TV and HomePod Mini, as well as a new smart home hub and platform called homeOS.",
+      "summary": "TechCrunch Disrupt 2026 is focused on how to build an enduring company in the AI era. Microsoft has announced its third-generation Maia in-house AI chip, which will make it less reliant on Nvidia's GPUs. Amazon now has over 1 million robot workers, which raises questions about the future of human employees. Meanwhile, Apple's upcoming \"Welcome Home\" launch event is expected to include refreshes to Apple TV and HomePod Mini, as well as a new smart home hub and platform.",
       "citations": [
+        {
+          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "source": "TechCrunch",
+          "published_at": "2026-10-12"
+        },
         {
           "headline": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
           "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
@@ -17,18 +23,6 @@
           "published_at": "2026-10-12"
         },
         {
-          "headline": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-          "source": "TechCrunch",
-          "published_at": "2026-10-12"
-        },
-        {
-          "headline": "The Fitbit Edge is for folks who don\u2019t want to go totally screenless",
-          "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-          "source": "The Verge",
-          "published_at": "2026-10-12"
-        },
-        {
           "headline": "What to expect from Apple\u2019s \u2018Welcome Home\u2019 event",
           "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
           "source": "The Verge",
@@ -37,11 +31,17 @@
       ]
     },
     "finance": {
-      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have joined forces to make it easier for foreign portfolio investors to enter the market. This comes as Indian equity benchmarks have experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn other news, the Supreme Court of India has highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications. This announcement led to a steep 5% drop in the BSE Hospitals Index, causing notable losses for industry giants like Apollo Hospitals and Fortis Healthcare.",
+      "summary": "The Securities and Exchange Board of India and the Reserve Bank of India have teamed up to make it easier for foreign portfolio investors to enter the market. This comes as foreign portfolio investors recorded a net sale of shares worth Rs 10,148 crore, while domestic institutions were net buyers.\n\nIndian equity benchmarks experienced a decline over two sessions due to profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points, reaching 22,620.45.\n\nIn a landmark ruling, the Supreme Court of India highlighted troubling markups on cancer drugs enforced by hospitals, urging a probe into reports of patients being directed to specific pharmacies for their medications.",
       "citations": [
         {
           "headline": "Sebi, RBI join hands to make onboarding easier for FPIs",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+          "source": "Economic Times Markets",
+          "published_at": "2026-10-01"
+        },
+        {
+          "headline": "Pre-market action: Here's the trade setup for today's session",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
           "source": "Economic Times Markets",
           "published_at": "2026-10-01"
         },
@@ -60,24 +60,12 @@
       ]
     },
     "politics": {
-      "summary": "Today's most important politics news includes the Delhi High Court's dismissal of pleas for an SIT probe into the 2020 riots and 2019 Jamia violence. The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar, where protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Congress has condemned the detention of tribal students headed for a protest in Mumbai, while Jairam Ramesh has attacked the CEC for executing illegal orders. Donald Trump has called the US electoral process 'corrupt', citing an Indian election that didn't happen, possibly mixing up India with Brazil. India's foreign exchange reserves have reportedly declined by USD 18.34 billion in a single week, and Bengali actor Koel Mallick has joined the BJP.",
+      "summary": "Today's most important politics news includes:\n- The Delhi High Court dismissed pleas for a SIT probe into the 2020 riots and 2019 Jamia violence.\n- Congress claims that tribal students headed for a Mumbai protest were detained and condemned the action.\n- Jairam Ramesh attacked the CEC, citing his ability to execute illegal orders as a liability for the country.\n- The Supreme Court will list a plea to allow peaceful protests at Jantar Mantar.\n- Donald Trump cited a non-existent Indian election to call the US electoral process 'corrupt'.\n- India's foreign exchange reserves declined by USD 18.34 billion in a single week.\n- Bengali actor Koel Mallick joined the BJP.",
       "citations": [
         {
           "headline": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
           "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece",
           "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "Supreme Court to list plea to allow peaceful protests  to Jantar Mantar",
-          "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece",
-          "source": "The Hindu National",
-          "published_at": "2026-10-05"
-        },
-        {
-          "headline": "\"No Instructions\": Delhi Police On Cops Without Name Tags At Protest",
-          "url": "https://www.ndtv.com/india-news/delhi-police-on-cops-without-name-tags-at-jantar-mantar-protest-no-instructions-12139718#publisher=newsstand",
-          "source": "NDTV India News",
           "published_at": "2026-10-05"
         },
         {
@@ -89,6 +77,12 @@
         {
           "headline": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
           "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece",
+          "source": "The Hindu National",
+          "published_at": "2026-10-05"
+        },
+        {
+          "headline": "Supreme Court to list plea to allow peaceful protests  to Jantar Mantar",
+          "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece",
           "source": "The Hindu National",
           "published_at": "2026-10-05"
         },
